@@ -1,211 +1,198 @@
 [
-    {
-      "id": 0,
-      "name": "10xDNA",
-      "create_date": 1661280621159,
-      "tags": [
-        "text",
-        "author", 
-        "entrepreneurship"
-      ],
-      "content": [
-        {
-          "text": [
-            "Computer werden schneller, Speicherkapazitäten größer und die neuen Technologien immer wahnwitziger. Um hier noch mitzuhalten und vor allem mitzumischen, brauchen wir Mut und Fantasie, Offenheit und Zukunftsdenken. Kurz: Wir brauchen eine 10x-Mentalität!\nWenn du wissen willst, was 10x eigentlich genau bedeutet und wie die Technologien der Zukunft aussehen, dann bist du bei den Blinks zu 10xDNA (2020) genau richtig. Hier erfährst du, warum Flugtaxis, Laborfleisch und Co. längst keine Science-Fiction mehr sind, und lernst, wie du dich und dein Unternehmen mithilfe der 10x-Denkweise ins neue Zeitalter katapultierst. Denn ob wir wollen oder nicht: Die nächste industrielle Revolution steht unmittelbar bevor!\nIn den Blinks wirst du herausfinden,\n\nwas dich auf einer „Wokstraße“ erwartet,\nwarum künstliche Intelligenz unsere schlechten Denkgewohnheiten übernimmt und\nwie Termitenhügel beim Energiesparen helfen.\n"
-          ],
-          "image_count": 1
-        }
-      ],
-      "crew": {
-        "authors": [
-          0
-        ]
+  {
+    "id": 0,
+    "name": "10xDNA",
+    "create_date": 1661280621159,
+    "tags": [
+      "text",
+      "author",
+      "entrepreneurship"
+    ],
+    "content": [
+      {
+        "text": [
+          "Computer werden schneller, Speicherkapazitäten größer und die neuen Technologien immer wahnwitziger. Um hier noch mitzuhalten und vor allem mitzumischen, brauchen wir Mut und Fantasie, Offenheit und Zukunftsdenken. Kurz: Wir brauchen eine 10x-Mentalität!\nWenn du wissen willst, was 10x eigentlich genau bedeutet und wie die Technologien der Zukunft aussehen, dann bist du bei den Blinks zu 10xDNA (2020) genau richtig. Hier erfährst du, warum Flugtaxis, Laborfleisch und Co. längst keine Science-Fiction mehr sind, und lernst, wie du dich und dein Unternehmen mithilfe der 10x-Denkweise ins neue Zeitalter katapultierst. Denn ob wir wollen oder nicht: Die nächste industrielle Revolution steht unmittelbar bevor!\nIn den Blinks wirst du herausfinden,\n\nwas dich auf einer „Wokstraße“ erwartet,\nwarum künstliche Intelligenz unsere schlechten Denkgewohnheiten übernimmt und\nwie Termitenhügel beim Energiesparen helfen.\n"
+        ],
+        "image_count": 1
       }
-    },
-
-    {
-        "id": 1,
-        "name": "12 Rules for Life",
-        "create_date": 1661280621159,
-        "tags": [
-          "text",
-          "author",
-          "psychology"
-        ],
-        "content": [
-          {
-            "text": [
-              "Stell dir vor, du könntest das gesamte Wissen der Welt auf zwölf simple und effektive Lebensregeln komprimieren. Jordan Peterson hat genau das mit 12 Rules For Life (2018) versucht. Diese Blinks stützen sich auf philosophische Weisheiten und moderne wissenschaftliche Erkenntnisse. Sie untersuchen religiöse Mythen, alltägliche Redewendungen sowie populäre Narrative. Das Ergebnis sind zwölf kurzweilige Regeln für ein erfülltes modernes Leben."
-            ],
-            "image_count": 1
-          }
-        ],
-        "crew": {
-          "authors": [
-            1
-          ]
-        }
-      },
-
+    ],
+    "crew": {
+      "authors": [
+        0
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "name": "12 Rules for Life",
+    "create_date": 1661280621159,
+    "tags": [
+      "text",
+      "author",
+      "psychology"
+    ],
+    "content": [
       {
-        "id": 2,
-        "name": "24/7 Zeitmanagement",
-        "create_date": 1661280621159,
-        "tags": [
-          "text",
-          "author", 
-          "productivity"
-          
+        "text": [
+          "Stell dir vor, du könntest das gesamte Wissen der Welt auf zwölf simple und effektive Lebensregeln komprimieren. Jordan Peterson hat genau das mit 12 Rules For Life (2018) versucht. Diese Blinks stützen sich auf philosophische Weisheiten und moderne wissenschaftliche Erkenntnisse. Sie untersuchen religiöse Mythen, alltägliche Redewendungen sowie populäre Narrative. Das Ergebnis sind zwölf kurzweilige Regeln für ein erfülltes modernes Leben."
         ],
-        "content": [
-          {
-            "text": [
-              "Falls du ständig gestresst bist und öfter mit Deadlines haderst, hast du sicher schon von einigen Zeitmanagement-Tools gehört. In den Blinks zu 24/7 Zeitmanagement (2019) verschaffen wir dir einen Überblick über die grundlegenden Prinzipien des Zeitmanagements. Und wir zeigen dir, welche Methoden du sofort in deinen Alltag integrieren kannst."
-            ],
-            "image_count": 1
-          }
-        ],
-        "crew": {
-          "authors": [
-            2
-          ]
-        }
-      },
-
-      {
-        "id": 3,
-        "name": "84 Monate",
-        "create_date": 1661280621159,
-        "tags": [
-          "text",
-          "author",
-          "personal development"
-        ],
-        "content": [
-          {
-            "text": [
-              "Kinder zu bekommen gehört für viele zum natürlichen Lauf des Lebens. Doch was passiert mit Menschen, für die dieser Plan zum unerreichbaren Traum wird? Davon erfährst du in unseren Blinks zum autobiografischen Erfahrungsbericht 84 Monate (2019). Sie erzählen von dem Leid eines Paares, das sieben Jahre kinderlos blieb, von den endlosen medizinischen Maßnahmen, die es sich zumutete, und auch von der sozialen Isolation, in der es sich wiederfand.",
-            ],
-            "image_count": 1
-          }
-        ],
-        "crew": {
-          "authors": [
-            3
-          ]
-        }
-      },
-
-      {
-        "id": 4,
-        "name": "4000 Wochen",
-        "create_date": 1661280621159,
-        "tags": [
-          "text",
-          "author",
-          "mindfulness & happiness"
-        ],
-        "content": [
-          {
-            "text": [
-              "Kinder zu bekommen gehört für viele zum natürlichen Lauf des Lebens. Doch was passiert mit Menschen, für die dieser Plan zum unerreichbaren Traum wird? Davon erfährst du in unseren Blinks zum autobiografischen Erfahrungsbericht 84 Monate (2019). Sie erzählen von dem Leid eines Paares, das sieben Jahre kinderlos blieb, von den endlosen medizinischen Maßnahmen, die es sich zumutete, und auch von der sozialen Isolation, in der es sich wiederfand.4.000 Wochen. Das ist der Titel der 2022 erschienenen Buchvorlage zu diesem Blink. Und die durchschnittliche Lebensdauer eines Menschen. Klingt erschreckend überschaubar, oder? Ist es auch. Und genau deshalb sollten wir unsere Lebenszeit weniger verwalten und mehr genießen. Dieser Blink ist sowas wie ein Anti-Zeitmanagement-Ratgeber, und eine Einladung zum Umdenken.",
-            ],
-            "image_count": 1
-          }
-        ],
-        "crew": {
-          "authors": [
-            4
-          ]
-        }
-      },
-
-      {
-        "id": 5,
-        "name": "Abenteuer Führung",
-        "create_date": 1661280621159,
-        "tags": [
-          "text",
-          "author",
-          "career & success",
-          "management & leadership"
-        ],
-        "content": [
-          {
-            "text": [
-              "In Abenteuer Führung erklärt Mario Neumann alles, was frischgebackene Führungskräfte wissen müssen, um die erste Zeit im neuen Job erfolgreich zu meistern. Anhand von verschiedenen Etappen zeigt er, wie der Einstieg gelingt, wie die Zusammenarbeit mit dem Team am besten klappt und welche Strategien sich für Krisenzeiten und eine langfristige Positionierung eignen."
-            ],
-            "image_count": 1
-          }
-        ],
-        "crew": {
-          "authors": [
-            5
-          ]
-        }
-      },
-
-      {
-        "id": 6,
-        "name": "Becoming",
-        "create_date": 1661280621159,
-        "tags": [
-          "text",
-          "author"
-        ],
-        "content": [
-          {
-            "text": [
-              "In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era. As First Lady of the United States of America―the first African-American to serve in that role―she helped create the most welcoming and inclusive White House in history, while also establishing herself as a powerful advocate for women and girls in the U.S. and around the world, dramatically changing the ways that families pursue healthier and more active lives, and standing with her husband as he led America through some of its most harrowing moments. Along the way, she showed us a few dance moves, crushed Carpool Karaoke, and raised two down-to-earth daughters under an unforgiving media glare."
-            ],
-            "image_count": 1
-          }
-        ],
-        "crew": {
-          "authors": [
-            6
-          ]
-        }
-      },
-
-      {
-        "id": 7,
-        "name": "Sapiens: A brief history of humankind",
-        "create_date": 1661280621159,
-        "tags": [
-          "text",
-          "author",
-          "society & culture"
-        ],
-        "content": [
-          {
-            "text": [
-              "One hundred thousand years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations, and human rights; to trust money, books, and laws; and to be enslaved by bureaucracy, timetables, and consumerism? And what will our world be like in the millennia to come?"
-            ],
-            "image_count": 1
-          },
-
-          {
-            "text": [
-              "In Sapiens, Professor Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical—and sometimes devastating—breakthroughs of the Cognitive, Agricultural, and Scientific Revolutions. Drawing on insights from biology, anthropology, paleontology, and economics, and incorporating full-color illustrations throughout the text, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behavior from the legacy of our ancestors? And what, if anything, can we do to influence the course of the centuries to come?"
-            ],
-            "image_count": 0
-          },
-
-          {
-            "text": [
-              "Bold, wide-ranging, and provocative, Sapiens integrates history and science to challenge everything we thought we knew about being human: our thoughts, our actions, our heritage...and our future."
-            ],
-            "image_count": 0
-          }
-
-        ],
-        "crew": {
-          "authors": [
-            7
-          ]
-        }
+        "image_count": 1
       }
-
-      
-  ]
+    ],
+    "crew": {
+      "authors": [
+        1
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "24/7 Zeitmanagement",
+    "create_date": 1661280621159,
+    "tags": [
+      "text",
+      "author",
+      "productivity"
+    ],
+    "content": [
+      {
+        "text": [
+          "Falls du ständig gestresst bist und öfter mit Deadlines haderst, hast du sicher schon von einigen Zeitmanagement-Tools gehört. In den Blinks zu 24/7 Zeitmanagement (2019) verschaffen wir dir einen Überblick über die grundlegenden Prinzipien des Zeitmanagements. Und wir zeigen dir, welche Methoden du sofort in deinen Alltag integrieren kannst."
+        ],
+        "image_count": 1
+      }
+    ],
+    "crew": {
+      "authors": [
+        2
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "84 Monate",
+    "create_date": 1661280621159,
+    "tags": [
+      "text",
+      "author",
+      "personal development"
+    ],
+    "content": [
+      {
+        "text": [
+          "Kinder zu bekommen gehört für viele zum natürlichen Lauf des Lebens. Doch was passiert mit Menschen, für die dieser Plan zum unerreichbaren Traum wird? Davon erfährst du in unseren Blinks zum autobiografischen Erfahrungsbericht 84 Monate (2019). Sie erzählen von dem Leid eines Paares, das sieben Jahre kinderlos blieb, von den endlosen medizinischen Maßnahmen, die es sich zumutete, und auch von der sozialen Isolation, in der es sich wiederfand."
+        ],
+        "image_count": 1
+      }
+    ],
+    "crew": {
+      "authors": [
+        3
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "4000 Wochen",
+    "create_date": 1661280621159,
+    "tags": [
+      "text",
+      "author",
+      "mindfulness & happiness"
+    ],
+    "content": [
+      {
+        "text": [
+          "Kinder zu bekommen gehört für viele zum natürlichen Lauf des Lebens. Doch was passiert mit Menschen, für die dieser Plan zum unerreichbaren Traum wird? Davon erfährst du in unseren Blinks zum autobiografischen Erfahrungsbericht 84 Monate (2019). Sie erzählen von dem Leid eines Paares, das sieben Jahre kinderlos blieb, von den endlosen medizinischen Maßnahmen, die es sich zumutete, und auch von der sozialen Isolation, in der es sich wiederfand.4.000 Wochen. Das ist der Titel der 2022 erschienenen Buchvorlage zu diesem Blink. Und die durchschnittliche Lebensdauer eines Menschen. Klingt erschreckend überschaubar, oder? Ist es auch. Und genau deshalb sollten wir unsere Lebenszeit weniger verwalten und mehr genießen. Dieser Blink ist sowas wie ein Anti-Zeitmanagement-Ratgeber, und eine Einladung zum Umdenken."
+        ],
+        "image_count": 1
+      }
+    ],
+    "crew": {
+      "authors": [
+        4
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Abenteuer Führung",
+    "create_date": 1661280621159,
+    "tags": [
+      "text",
+      "author",
+      "career & success",
+      "management & leadership"
+    ],
+    "content": [
+      {
+        "text": [
+          "In Abenteuer Führung erklärt Mario Neumann alles, was frischgebackene Führungskräfte wissen müssen, um die erste Zeit im neuen Job erfolgreich zu meistern. Anhand von verschiedenen Etappen zeigt er, wie der Einstieg gelingt, wie die Zusammenarbeit mit dem Team am besten klappt und welche Strategien sich für Krisenzeiten und eine langfristige Positionierung eignen."
+        ],
+        "image_count": 1
+      }
+    ],
+    "crew": {
+      "authors": [
+        5
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Becoming",
+    "create_date": 1661280621159,
+    "tags": [
+      "text",
+      "author"
+    ],
+    "content": [
+      {
+        "text": [
+          "In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era. As First Lady of the United States of America―the first African-American to serve in that role―she helped create the most welcoming and inclusive White House in history, while also establishing herself as a powerful advocate for women and girls in the U.S. and around the world, dramatically changing the ways that families pursue healthier and more active lives, and standing with her husband as he led America through some of its most harrowing moments. Along the way, she showed us a few dance moves, crushed Carpool Karaoke, and raised two down-to-earth daughters under an unforgiving media glare."
+        ],
+        "image_count": 1
+      }
+    ],
+    "crew": {
+      "authors": [
+        6
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Sapiens: A brief history of humankind",
+    "create_date": 1661280621159,
+    "tags": [
+      "text",
+      "author",
+      "society & culture"
+    ],
+    "content": [
+      {
+        "text": [
+          "One hundred thousand years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations, and human rights; to trust money, books, and laws; and to be enslaved by bureaucracy, timetables, and consumerism? And what will our world be like in the millennia to come?"
+        ],
+        "image_count": 1
+      },
+      {
+        "text": [
+          "In Sapiens, Professor Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical—and sometimes devastating—breakthroughs of the Cognitive, Agricultural, and Scientific Revolutions. Drawing on insights from biology, anthropology, paleontology, and economics, and incorporating full-color illustrations throughout the text, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behavior from the legacy of our ancestors? And what, if anything, can we do to influence the course of the centuries to come?"
+        ],
+        "image_count": 0
+      },
+      {
+        "text": [
+          "Bold, wide-ranging, and provocative, Sapiens integrates history and science to challenge everything we thought we knew about being human: our thoughts, our actions, our heritage...and our future."
+        ],
+        "image_count": 0
+      }
+    ],
+    "crew": {
+      "authors": [
+        7
+      ]
+    }
+  }
+]
