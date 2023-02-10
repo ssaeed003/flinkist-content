@@ -81,34 +81,152 @@
       }
     },
 
+
+   
     {
-      "id": 1,
-      "name": "12 Rules for Life",
-      "create_date": 1661280621159,
-      "tags": [
-        "text",
-        "author",
-        "audio",
-        "psychology"
-      ],
-      "content": [
-        {
-          "text": [
-            "Stell dir vor, du könntest das gesamte Wissen der Welt auf zwölf simple und effektive Lebensregeln komprimieren. Jordan Peterson hat genau das mit 12 Rules For Life (2018) versucht. Diese Blinks stützen sich auf philosophische Weisheiten und moderne wissenschaftliche Erkenntnisse. Sie untersuchen religiöse Mythen, alltägliche Redewendungen sowie populäre Narrative. Das Ergebnis sind zwölf kurzweilige Regeln für ein erfülltes modernes Leben."
-          ],
-          "audio": {
-            "size": 7223922,
-            "duration": 451000
+        "id": 1,
+        "name": "Grit",
+        "create_date": 1661280621159,
+        "tags": [
+          "text",
+          "audio",
+          "author",
+          "Personal Development",
+          "Productivity",
+          "Career & Success"
+        ],
+        "summary": "\"Grit\" is a fascinating journey into the science of passion and perseverance, revealing the key to unlocking your full potential.",
+        "author_name": "Angela Duckworth",
+        "about_author": "Angela Duckworth is an American psychologist, author and professor at the University of Pennsylvania, known for her research on grit and self-control as predictors of success.",
+        "subtitle": "The Power of Passion and Perseverance",
+        "target_group": "This book is a must-read for individuals who want to develop perseverance, determination and a strong work ethic, and overcome obstacles in their path to success.",
+        "book_link": "https://angeladuckworth.com/grit-book",
+        "content": [
+          {
+            "text": [
+              "\"Grit: The Power of Passion and Perseverance\" by Angela Duckworth is a transformative and insightful read that will inspire and guide you towards unlocking your full potential. This book explores the concept of grit, a combination of passion and perseverance, and its impact on success. Duckworth's extensive research and personal experience shows that grit is a critical factor in achieving long-term goals, regardless of talent or intelligence. You will learn how to cultivate this essential trait and how to apply it to your own life to achieve greater success and fulfillment. This book is a must-read for anyone seeking to unlock their true potential and pursue their passions with determination and unwavering commitment. Get ready to be inspired, motivated, and equipped with the tools to unleash your inner grit and make your dreams a reality!"
+            ],
+            "audio": {
+              "size": 7223922,
+              "duration": 33600
+            }          
+  
           },
-          "image_count": 1
+  
+          {
+              "chapter_summary": "An Introduction to Grit",
+              "text": [
+                "The \"Introduction to Grit\" is the foundation of Angela Duckworth's groundbreaking book. In this section, she lays the groundwork for her theory that grit is a crucial factor in determining success in life.\n\nAngela presents grit as a combination of passion and perseverance and argues that it is this combination that sets successful people apart from the rest. She explains that passion is the driving force behind our goals and aspirations, while perseverance is the unwavering determination to keep working towards those goals, even when faced with obstacles and setbacks.\n\nShe shares the story of her own journey from teaching math in a New York City public school to becoming a psychologist and researcher at the University of Pennsylvania. Despite facing many challenges and setbacks along the way, Angela's passion for her work and her determination to keep pushing forward are what ultimately allowed her to achieve her goals.\n\nSeveral research studies support Angela’s theory of grit. For example, she notes that grit has been found to be a stronger predictor of success than IQ or talent in a variety of fields, including education, the military, and sports.\n\nIn the end, the introduction to grit sets the stage for the rest of the book, showing to readers that grit can be an efficient tool that can help them overcome obstacles and achieve their dreams. By embracing the principles of passion and perseverance, we can all tap into our inner grit and achieve great things."
+              ],
+              "audio": {
+                "size": 7223922,
+                "duration": 79800
+              }
+            },
+  
+            {
+              "chapter_summary": "Passion and Perseverance",
+              "text": [
+                "\"Passion and Perseverance\" are the two key components of grit, according to Angela Duckworth. She delves deeper into these two elements and explains how they work together to drive success.\n\nDuckworth shows us that passion can be defined as a long-term commitment to a particular goal or field of interest, and explains that it is this commitment that provides the drive and motivation needed to keep pushing forward, even when faced with obstacles and setbacks. She notes positive emotions, often accompany that passion such as excitement, joy, and a sense of purpose.\n\nPerseverance is the unwavering determination to keep working towards an objective, even in the face of adversity. Angela notes negative emotions often accompany that perseverance, such as frustration, anger, and disappointment. However, she argues it is this ability to persist in the face of difficulties that sets grit apart from other personality traits and allows us to achieve our goals.\n\nTo give us an idea, Angela shares several inspiring examples of individuals who embody both passion and perseverance. For example, she describes the story of a West Point cadet who was told he was too small to be an effective soldier, but who refused to quit on his dream and became one of the top cadets in his class.\n\nShe also cites a wealth of research to support her theory of grit, including studies that have found that individuals who score high in grit are more likely to succeed in school, the military, and a variety of other pursuits.\n\n\"Passion and Perseverance\" is a powerful reminder that success is not just about talent or IQ, but about a combination of drive, determination, and the ability to persist in the face of adversity. By embracing the principles of passion and perseverance, we can all tap into our inner grit and achieve great things."
+              ],
+              "audio": {
+                "size": 7223922,
+                "duration": 90000
+              }          
+  
+            },
+  
+            {
+              "chapter_summary": "The Science of Grit",
+              "text": [
+                "\"The Science of Grit\" is the heart of the book \"Grit\". Here, Angela details the studies and statistics that back up her grit hypothesis, and she offers advice on how grit can be developed and cultivated.\n\nThe Author discusses through the various ways in which grit has been studied and measured, including self-reports, behavioral observations, and objective measures like grades and achievement test scores. She then explains the key findings from this research, including the fact that grit is a better predictor of success than intelligence or talent in a wide range of fields.\n\nSome noteworthy insights from the research on grit, according to Angela, is that grit can be developed and cultivated. She notes that individuals who are high in grit have several common characteristics, including a growth mindset, a strong sense of purpose, and the ability to find meaning in their work, even in the face of adversity.\n\nAngela, to show us her perspective on the topic, shares several inspiring examples of individuals who have developed grit through complicated work and perseverance. For example, she describes the story of a young man who struggled in school but eventually became a successful lawyer and judge, thanks in part to his determination and drive.\n\nBesides highlighting the importance of grit, \"The Science of Grit\" also provides practical tips and strategies for developing and cultivating grit in our own lives. For example, Angela recommends setting challenging goals, developing a growth mindset, and cultivating a strong sense of purpose as ways to build grit and achieve success.\n\nUltimately, \"The Science of Grit\" is an inspirational and insightful look at the science behind grit and its role in determining success in life. By understanding the key findings from the research on grit, and by developing and cultivating grit in our own lives, we can benefit from it."
+              ],
+              "audio": {
+                "size": 7223922,
+                "duration": 121200
+              }          
+  
+            },
+
+            {
+                "chapter_summary": "Characteristics of Grit",
+                "text": [
+                  "What traits, behaviors and habits are associated with grit? This question is examined in greater detail in the following part.\n\nAngela engages us into thinking about the various aspects of grit, including passion, perseverance, and the growth mindset. She notes that individuals who are high in grit tend to be more resilient, optimistic, and have a greater sense of purpose than those who are low in grit.\n\nOne of the important characteristics of grit for Duckworth, is a strong sense of purpose. She explains that individuals who are high in grit clearly understand their goals and the reasons they are pursuing them. This sense of purpose provides the motivation and drive necessary to keep pushing forward, even in the face of setbacks and obstacles.\n\nOther important aspects, according to Angela, is a strong sense of purpose. She explains that individuals who are high in grit tend to have a clear understanding of their goals and the reasons why they are pursuing them. This sense of purpose provides the motivation and drive necessary to keep pushing forward, even in the face of setbacks and obstacles.\n\nAnother key characteristic of grit is a growth mindset, which is the belief that our abilities and intelligence can be developed through complicated work and perseverance. Angela notes that individuals with a growth mindset are more likely to view challenges as opportunities for growth, rather than as insurmountable obstacles.\n\nWe can observe multiple examples of inspiring examples of individuals who embody the characteristics of grit as shown by Angela. For example, she describes the story of a young woman who was told she was too small to play basketball, but who refused to quit on her dream and became a star player in college.\n\nBesides describing the characteristics of grit, \"Characteristics of Grit\" also provides practical tips and strategies for developing and cultivating these traits in our own lives. For example, Angela recommends setting challenging goals, embracing failure as a learning opportunity, and practicing self-discipline and resilience as ways to build grit and achieve success.\n\nIn its essence, \"Characteristics of Grit\" is a deep dive into the traits and habits associated with grit, and how someone can develop and cultivate these to drive success in life. By embracing the characteristics of grit and making them a part of our daily lives, we can tap into the power of grit and achieve our most important goals."
+                ],
+                "audio": {
+                  "size": 7223922,
+                  "duration": 142800
+                }          
+    
+              },
+
+              {
+                "chapter_summary": "The Power of Interests",
+                "text": [
+                  "The \"Power of Interests\" is a crucial concept explored in the book. Our interests drive our motivation and define, what we are devoting our attention to. Angela discusses the role that interests play in developing and maintaining grit and provides compelling evidence for the importance of pursuing our passions.\n\nThe Author explains that interests are at the heart of grit and that individuals who have found their passion are more likely to be gritty. She notes that having a passion provides a sense of purpose and meaning, and helps individuals to stay motivated and engaged even when faced with challenges and obstacles.\n\nTo support her argument, Angela shares several inspiring stories of individuals who have found their passions and achieved great success. For example, she describes the story of a young man who was passionate about science and became a successful researcher and scientist, despite facing numerous obstacles along the way.\n\nBesides sharing inspiring stories, Angela also provides scientific evidence to support the power of interests. For example, she cites research that has found that individuals who are passionate about their work are more productive, more engaged, and more likely to stay with their jobs for longer periods of time.\n\n\"The Power of Interests\" also provides practical tips and strategies for individuals who are seeking their passion. For example, Angela recommends exploring different interests, trying new things, and seeking opportunities to learn and grow.\n\nWe’re reminded of the importance of pursuing our passions and the role that interests play in developing and maintaining grit as seen in Angela’s work."
+                ],
+                "audio": {
+                  "size": 7223922,
+                  "duration": 87000
+                }          
+    
+              },
+
+              {
+                "chapter_summary": "Overcoming Adversity",
+                "text": [
+                  "Overcoming adversity is a central theme in Angela Duckworth's book. The evidence and practical strategies provided by Angela show us how individuals can overcome adversity and maintain their grit in the face of challenges and obstacles.\n\nTo begin, Angela explores the idea that adversity can be a powerful tool for building grit. She notes that individuals who have faced and overcome adversity often develop greater resilience and determination, which can help them become even more gritty.\n\nAngela shares several insightful examples of individuals who have overcome adversity and achieved great success. For example, she describes the story of a young woman who faced various challenges and obstacles, including poverty and discrimination, on her path to becoming a successful business leader.\n\nIn addition to her heartening stories, Duckworth also provides scientific evidence to support the idea that overcoming adversity can build grit. For example, she cites research that has found that individuals who have faced and overcome adversity are more resilient and better equipped to handle future challenges.\n\nTo help individuals overcome adversity, Angela provides several practical strategies. For example, she recommends developing a growth mindset, focusing on what she can learn from failure, and seeking supportive relationships and networks.\n\n\"Overcoming Adversity\" is another example of the importance of persevering through tough times, and of how adversity can actually help individuals to build grit and achieve their goals. By embracing challenges and viewing them as opportunities for growth, we can develop the grit that we need to overcome adversity."
+                ],
+                "audio": {
+                  "size": 7223922,
+                  "duration": 87000
+                }          
+    
+              },
+
+              {
+                "chapter_summary": "Building Grit in Children",
+                "text": [
+                  "In \"Grit\" by Angela Duckworth, the seventh key idea focuses on \"Building Grit in Children\". The author presents evidence, anecdotes, and examples to explain the importance of fostering grit in young individuals and how it can be developed.\n\nAngela emphasizes one of her noteworthy points that are parents and teachers and how they play a crucial role in shaping a child's mindset and values. For instance, she stresses the significance of teaching children that effort, complicated work, and perseverance are essential to succeed in life. Children should be encouraged to embrace challenges and obstacles as opportunities to grow and develop.\n\nAnother important aspect of building grit in children is helping them find their passions. By providing a supportive environment, children can explore their interests, develop their skills, and discover what they are truly passionate about.\n\nDuckworth highlights the importance of setting goals and establishing purpose in a child's life. We should teach children to set both short-term and long-term goals and work towards achieving them. This helps them understand the significance of their actions and fosters a sense of purpose.\n\nFinally, building resilience is an integral part of developing grit in children. We should teach children how to overcome adversity and handle disappointment and failure with grace. This will help them build resilience and the ability to bounce back from setbacks in the future.\n\nIn conclusion, building grit in children requires a combination of fostering a growth mindset, promoting passion and purpose, and teaching resilience. By focusing on these key aspects, parents and teachers can help children develop the grit they need to succeed in life."
+                ],
+                "audio": {
+                  "size": 7223922,
+                  "duration": 88200
+                }          
+    
+              },
+
+              {
+                "chapter_summary": "Cultivating Grit in Adulthood",
+                "text": [
+                  "It is never too late to cultivate grit, no matter what stage of life one is in. This hypotheses is brought to us in the part \"Cultivating Grit in Adulthood\" of the book. According to Duckworth, adult life presents unique challenges that can often test one's grit and resilience.\n\nShe cites examples of successful individuals who have honed their grit later in life, including: a teacher who pursued her PhD in her 60s, a veteran who became a successful businessman after leaving the military, and a doctor who changed careers and started his own medical practice in his 40s.\n\nTo cultivate grit in adulthood, Duckworth suggests finding new passions and interests that align with one's values and developing a growth mindset, which is the belief that abilities and intelligence can be developed through complicated work and dedication. She also suggests pursuing long-term goals and surrounding oneself with supportive individuals who share similar values and beliefs.\n\nDeveloping your grit in adulthood requires embracing change, embracing challenges, and viewing setbacks as opportunities to learn and grow. With a steadfast commitment and the right mindset, anyone can cultivate grit and achieve their life goals, no matter what stage of life they are in."
+                ],
+                "audio": {
+                  "size": 7223922,
+                  "duration": 72000
+                }          
+    
+              },
+  
+            {
+              "text": [
+                "\"Grit: The Power of Passion and Perseverance\" by Angela Duckworth is a groundbreaking book that explores the concept of grit and its impact on success. The book is based on extensive research and offers insights into the importance of perseverance, passion, and determination in achieving long-term goals. Here are ten actions you can take to implement the learnings from the book into your life:\n\n1.\n\nIdentify your passions: Take time to reflect on what you are truly passionate about and focus on developing your skills in that area.\n\n2.\n\nSet long-term goals: Identify what you want to achieve in the long run and develop a plan to reach those goals.\n\n3.\n\nEmbrace challenges: Don't shy away from challenges, instead, see them as opportunities to grow and develop your grit. \n\n4.\n\nCultivate a growth mindset: Believe in your ability to learn, grow and change.\n\n5.\n\nSurround yourself with supportive people: Build relationships with individuals who will support and encourage you on your journey. \n\n6.\n\nPractice perseverance: Keep going even when faced with obstacles and setbacks.\n\n7.\n\nEmbrace failure: See failures as learning opportunities and use them to grow and develop.\n\n8.\n\nCelebrate small wins: Celebrate small successes along the way to keep your motivation and momentum high.\n\n9.\n\nCultivate passion: Nurture your interests and invest time in the activities that bring you joy and fulfillment.\n\n10.\n\nDevelop a daily routine: Establish a routine that allows you to focus on your goals and work towards achieving them.\n\nBy taking these actions, you can cultivate your own grit and develop the persistence, determination, and passion you need to achieve all your long-term goals."
+              ],
+              "audio": {
+                "size": 7223922,
+                "duration": 88800
+              }          
+  
+            }
+  
+        ],
+        "crew": {
+          "authors": [
+            0
+          ]
         }
-      ],
-      "crew": {
-        "authors": [
-          1
-        ]
-      }
-    },
+      },
+
     {
       "id": 2,
       "name": "24/7 Zeitmanagement",
