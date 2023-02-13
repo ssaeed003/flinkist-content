@@ -73,12 +73,8 @@
 
           }
 
-      ],
-      "crew": {
-        "authors": [
-          0
-        ]
-      }
+      ]
+       
     },
 
 
@@ -219,12 +215,7 @@
   
             }
   
-        ],
-        "crew": {
-          "authors": [
-            0
-          ]
-        }
+        ]
       },
 
     {
@@ -237,6 +228,12 @@
         "audio",
         "productivity"
       ],
+      "summary": "Becoming by Michelle Obama takes you on a personal and powerful journey, exploring her upbringing, time in the White House, and advocacy work.",
+      "author_name": "Michelle Obama",
+      "about_author": "Michelle Obama is a lawyer, writer, and advocate who served as the First Lady of the United States from 2009 to 2017. She is recognized for her work on issues such as healthy living, women's rights, and education.",
+      "subtitle": "",
+      "target_group": "This book is a perfect read for individuals who seek to gain insight into the life of one of the most influential women of our time. \n\n The book appeals to a wide range of readers, including those interested in politics, women's empowerment, and personal development.",
+      "book_link": "https://becomingmichelleobama.com",
       "content": [
         {
           "text": [
@@ -247,13 +244,19 @@
             "duration": 451000
           },
           "image_count": 1
-        }
-      ],
-      "crew": {
-        "authors": [
-          2
-        ]
-      }
+        }, 
+
+        {
+            "chapter_summary": "Dummy chapter",
+            "text": [
+              "Michelle Obama`s journey starts with “Becoming me”, a process of self-discovery and growth that she has experienced throughout her life. In her own words she expresses, \"Becoming isn't about arriving somewhere or achieving a certain aim. It's about the process of getting there.\"\n\nGrowing up in a working-class family on the South Side of Chicago, she was taught to be deferential and to put others' needs before her own. So it was tough for her and she struggled to find her own voice. However, as she began to navigate the world and find her place in it, she realized that she needed to speak up for herself and assert her own wants and needs.\n\nFor instance, when Michelle began her second grade year, she found herself in a classroom of complete chaos. With an overwhelmed teacher, she hardly had an opportunity to learn and it was clear that she was not the only one who was struggling.\n\nFortunately, she dared to express her displeasure to her mom and soon enough, she was tested and placed in a third grade class with other kids who were just as enthusiastic about learning. This was a much better fit for Michelle and she was able to thrive in her new environment and got into the Whitney M. Young High School.\n\nHowever she did not always have the feeling to fit in as she shares in another transformative memory from her youth, where she grappled with her identity and a sense of not belonging. Where she grew up, she stood out as one of the only Black students in her school, and felt disconnected from her peers due to differing cultural experiences.\n\nAs she walked home from class one day, she stumbled upon a group of girls playing Double Dutch, a game that involves jumping rope with two ropes. Envious of their laughter and joy, she mustered up the courage to ask if she could join in, despite feeling like an outsider. The girls welcomed her with open arms, and soon enough, she was jumping and laughing alongside them.\n\nThis moment marked a pivotal change for Michelle, as she realized that despite feeling different, she could still find a place and make connections. Through this experience, she came to appreciate the beauty in diversity and it helped her to understand that everyone struggles with feeling like they fit in at some point in their lives. This powerful anecdote serves as an inspiration to be brave and reach out to connect with others, even when it may feel daunting. \n\nAs she rose through the ranks in her career, first as a lawyer and then as the First Lady of the United States, she faced a number of challenges, including sexism, racism, and public scrutiny. Throughout it all, she had to learn to trust her own instincts and to push through the doubts and insecurities that threatened to hold her back.\"I had to learn to trust my own voice and to use it confidently and consistently, even when it meant going against the grain of what others expected of me.\"\n\nUltimately, \"Becoming Me\" is about embracing one's own imperfections and using them as a source of strength. As Michelle writes, \"I've learned that there is no one way to become. We all have to find our own journeys, and that's okay.\" By sharing the anecdotes and emotions of her  own story, she hopes to inspire others to find the courage to do the same."
+            ],
+            "audio": {
+              "size": 7223922,
+              "duration": 190800
+            }
+          }
+      ]
     },
     {
       "id": 3,
@@ -265,6 +268,12 @@
         "audio",
         "personal development"
       ],
+      "summary": "Becoming by Michelle Obama takes you on a personal and powerful journey, exploring her upbringing, time in the White House, and advocacy work.",
+      "author_name": "Michelle Obama",
+      "about_author": "Michelle Obama is a lawyer, writer, and advocate who served as the First Lady of the United States from 2009 to 2017. She is recognized for her work on issues such as healthy living, women's rights, and education.",
+      "subtitle": "",
+      "target_group": "This book is a perfect read for individuals who seek to gain insight into the life of one of the most influential women of our time. \n\n The book appeals to a wide range of readers, including those interested in politics, women's empowerment, and personal development.",
+      "book_link": "https://becomingmichelleobama.com",
       "content": [
         {
           "text": [
@@ -275,13 +284,19 @@
             "duration": 451000
           },
           "image_count": 1
-        }
-      ],
-      "crew": {
-        "authors": [
-          3
-        ]
-      }
+        }, 
+
+        {
+            "chapter_summary": "Dummy chapter",
+            "text": [
+              "Michelle Obama`s journey starts with “Becoming me”, a process of self-discovery and growth that she has experienced throughout her life. In her own words she expresses, \"Becoming isn't about arriving somewhere or achieving a certain aim. It's about the process of getting there.\"\n\nGrowing up in a working-class family on the South Side of Chicago, she was taught to be deferential and to put others' needs before her own. So it was tough for her and she struggled to find her own voice. However, as she began to navigate the world and find her place in it, she realized that she needed to speak up for herself and assert her own wants and needs.\n\nFor instance, when Michelle began her second grade year, she found herself in a classroom of complete chaos. With an overwhelmed teacher, she hardly had an opportunity to learn and it was clear that she was not the only one who was struggling.\n\nFortunately, she dared to express her displeasure to her mom and soon enough, she was tested and placed in a third grade class with other kids who were just as enthusiastic about learning. This was a much better fit for Michelle and she was able to thrive in her new environment and got into the Whitney M. Young High School.\n\nHowever she did not always have the feeling to fit in as she shares in another transformative memory from her youth, where she grappled with her identity and a sense of not belonging. Where she grew up, she stood out as one of the only Black students in her school, and felt disconnected from her peers due to differing cultural experiences.\n\nAs she walked home from class one day, she stumbled upon a group of girls playing Double Dutch, a game that involves jumping rope with two ropes. Envious of their laughter and joy, she mustered up the courage to ask if she could join in, despite feeling like an outsider. The girls welcomed her with open arms, and soon enough, she was jumping and laughing alongside them.\n\nThis moment marked a pivotal change for Michelle, as she realized that despite feeling different, she could still find a place and make connections. Through this experience, she came to appreciate the beauty in diversity and it helped her to understand that everyone struggles with feeling like they fit in at some point in their lives. This powerful anecdote serves as an inspiration to be brave and reach out to connect with others, even when it may feel daunting. \n\nAs she rose through the ranks in her career, first as a lawyer and then as the First Lady of the United States, she faced a number of challenges, including sexism, racism, and public scrutiny. Throughout it all, she had to learn to trust her own instincts and to push through the doubts and insecurities that threatened to hold her back.\"I had to learn to trust my own voice and to use it confidently and consistently, even when it meant going against the grain of what others expected of me.\"\n\nUltimately, \"Becoming Me\" is about embracing one's own imperfections and using them as a source of strength. As Michelle writes, \"I've learned that there is no one way to become. We all have to find our own journeys, and that's okay.\" By sharing the anecdotes and emotions of her  own story, she hopes to inspire others to find the courage to do the same."
+            ],
+            "audio": {
+              "size": 7223922,
+              "duration": 190800
+            }
+          }
+      ]
     },
     {
       "id": 4,
@@ -293,6 +308,12 @@
         "audio",
         "mindfulness & happiness"
       ],
+      "summary": "Becoming by Michelle Obama takes you on a personal and powerful journey, exploring her upbringing, time in the White House, and advocacy work.",
+      "author_name": "Michelle Obama",
+      "about_author": "Michelle Obama is a lawyer, writer, and advocate who served as the First Lady of the United States from 2009 to 2017. She is recognized for her work on issues such as healthy living, women's rights, and education.",
+      "subtitle": "",
+      "target_group": "This book is a perfect read for individuals who seek to gain insight into the life of one of the most influential women of our time. \n\n The book appeals to a wide range of readers, including those interested in politics, women's empowerment, and personal development.",
+      "book_link": "https://becomingmichelleobama.com",
       "content": [
         {
           "text": [
@@ -303,13 +324,19 @@
             "duration": 451000
           },
           "image_count": 1
-        }
-      ],
-      "crew": {
-        "authors": [
-          4
-        ]
-      }
+        }, 
+
+        {
+            "chapter_summary": "Dummy chapter",
+            "text": [
+              "Michelle Obama`s journey starts with “Becoming me”, a process of self-discovery and growth that she has experienced throughout her life. In her own words she expresses, \"Becoming isn't about arriving somewhere or achieving a certain aim. It's about the process of getting there.\"\n\nGrowing up in a working-class family on the South Side of Chicago, she was taught to be deferential and to put others' needs before her own. So it was tough for her and she struggled to find her own voice. However, as she began to navigate the world and find her place in it, she realized that she needed to speak up for herself and assert her own wants and needs.\n\nFor instance, when Michelle began her second grade year, she found herself in a classroom of complete chaos. With an overwhelmed teacher, she hardly had an opportunity to learn and it was clear that she was not the only one who was struggling.\n\nFortunately, she dared to express her displeasure to her mom and soon enough, she was tested and placed in a third grade class with other kids who were just as enthusiastic about learning. This was a much better fit for Michelle and she was able to thrive in her new environment and got into the Whitney M. Young High School.\n\nHowever she did not always have the feeling to fit in as she shares in another transformative memory from her youth, where she grappled with her identity and a sense of not belonging. Where she grew up, she stood out as one of the only Black students in her school, and felt disconnected from her peers due to differing cultural experiences.\n\nAs she walked home from class one day, she stumbled upon a group of girls playing Double Dutch, a game that involves jumping rope with two ropes. Envious of their laughter and joy, she mustered up the courage to ask if she could join in, despite feeling like an outsider. The girls welcomed her with open arms, and soon enough, she was jumping and laughing alongside them.\n\nThis moment marked a pivotal change for Michelle, as she realized that despite feeling different, she could still find a place and make connections. Through this experience, she came to appreciate the beauty in diversity and it helped her to understand that everyone struggles with feeling like they fit in at some point in their lives. This powerful anecdote serves as an inspiration to be brave and reach out to connect with others, even when it may feel daunting. \n\nAs she rose through the ranks in her career, first as a lawyer and then as the First Lady of the United States, she faced a number of challenges, including sexism, racism, and public scrutiny. Throughout it all, she had to learn to trust her own instincts and to push through the doubts and insecurities that threatened to hold her back.\"I had to learn to trust my own voice and to use it confidently and consistently, even when it meant going against the grain of what others expected of me.\"\n\nUltimately, \"Becoming Me\" is about embracing one's own imperfections and using them as a source of strength. As Michelle writes, \"I've learned that there is no one way to become. We all have to find our own journeys, and that's okay.\" By sharing the anecdotes and emotions of her  own story, she hopes to inspire others to find the courage to do the same."
+            ],
+            "audio": {
+              "size": 7223922,
+              "duration": 190800
+            }
+          }
+      ]
     },
     {
       "id": 5,
@@ -322,6 +349,12 @@
         "career & success",
         "management & leadership"
       ],
+      "summary": "Becoming by Michelle Obama takes you on a personal and powerful journey, exploring her upbringing, time in the White House, and advocacy work.",
+      "author_name": "Michelle Obama",
+      "about_author": "Michelle Obama is a lawyer, writer, and advocate who served as the First Lady of the United States from 2009 to 2017. She is recognized for her work on issues such as healthy living, women's rights, and education.",
+      "subtitle": "",
+      "target_group": "This book is a perfect read for individuals who seek to gain insight into the life of one of the most influential women of our time. \n\n The book appeals to a wide range of readers, including those interested in politics, women's empowerment, and personal development.",
+      "book_link": "https://becomingmichelleobama.com",
       "content": [
         {
           "text": [
@@ -332,13 +365,19 @@
             "duration": 451000
           },
           "image_count": 1
-        }
-      ],
-      "crew": {
-        "authors": [
-          5
-        ]
-      }
+        }, 
+
+        {
+            "chapter_summary": "Becoming Me",
+            "text": [
+              "Michelle Obama`s journey starts with “Becoming me”, a process of self-discovery and growth that she has experienced throughout her life. In her own words she expresses, \"Becoming isn't about arriving somewhere or achieving a certain aim. It's about the process of getting there.\"\n\nGrowing up in a working-class family on the South Side of Chicago, she was taught to be deferential and to put others' needs before her own. So it was tough for her and she struggled to find her own voice. However, as she began to navigate the world and find her place in it, she realized that she needed to speak up for herself and assert her own wants and needs.\n\nFor instance, when Michelle began her second grade year, she found herself in a classroom of complete chaos. With an overwhelmed teacher, she hardly had an opportunity to learn and it was clear that she was not the only one who was struggling.\n\nFortunately, she dared to express her displeasure to her mom and soon enough, she was tested and placed in a third grade class with other kids who were just as enthusiastic about learning. This was a much better fit for Michelle and she was able to thrive in her new environment and got into the Whitney M. Young High School.\n\nHowever she did not always have the feeling to fit in as she shares in another transformative memory from her youth, where she grappled with her identity and a sense of not belonging. Where she grew up, she stood out as one of the only Black students in her school, and felt disconnected from her peers due to differing cultural experiences.\n\nAs she walked home from class one day, she stumbled upon a group of girls playing Double Dutch, a game that involves jumping rope with two ropes. Envious of their laughter and joy, she mustered up the courage to ask if she could join in, despite feeling like an outsider. The girls welcomed her with open arms, and soon enough, she was jumping and laughing alongside them.\n\nThis moment marked a pivotal change for Michelle, as she realized that despite feeling different, she could still find a place and make connections. Through this experience, she came to appreciate the beauty in diversity and it helped her to understand that everyone struggles with feeling like they fit in at some point in their lives. This powerful anecdote serves as an inspiration to be brave and reach out to connect with others, even when it may feel daunting. \n\nAs she rose through the ranks in her career, first as a lawyer and then as the First Lady of the United States, she faced a number of challenges, including sexism, racism, and public scrutiny. Throughout it all, she had to learn to trust her own instincts and to push through the doubts and insecurities that threatened to hold her back.\"I had to learn to trust my own voice and to use it confidently and consistently, even when it meant going against the grain of what others expected of me.\"\n\nUltimately, \"Becoming Me\" is about embracing one's own imperfections and using them as a source of strength. As Michelle writes, \"I've learned that there is no one way to become. We all have to find our own journeys, and that's okay.\" By sharing the anecdotes and emotions of her  own story, she hopes to inspire others to find the courage to do the same."
+            ],
+            "audio": {
+              "size": 7223922,
+              "duration": 190800
+            }
+          }
+      ]
     },
     {
       "id": 6,
@@ -349,6 +388,12 @@
         "audio",
         "author"
       ],
+      "summary": "Becoming by Michelle Obama takes you on a personal and powerful journey, exploring her upbringing, time in the White House, and advocacy work.",
+      "author_name": "Michelle Obama",
+      "about_author": "Michelle Obama is a lawyer, writer, and advocate who served as the First Lady of the United States from 2009 to 2017. She is recognized for her work on issues such as healthy living, women's rights, and education.",
+      "subtitle": "",
+      "target_group": "This book is a perfect read for individuals who seek to gain insight into the life of one of the most influential women of our time. \n\n The book appeals to a wide range of readers, including those interested in politics, women's empowerment, and personal development.",
+      "book_link": "https://becomingmichelleobama.com",
       "content": [
         {
           "text": [
@@ -359,13 +404,19 @@
             "duration": 451000
           },
           "image_count": 1
-        }
-      ],
-      "crew": {
-        "authors": [
-          6
-        ]
-      }
+        }, 
+
+        {
+            "chapter_summary": "Dummy chapter",
+            "text": [
+              "Michelle Obama`s journey starts with “Becoming me”, a process of self-discovery and growth that she has experienced throughout her life. In her own words she expresses, \"Becoming isn't about arriving somewhere or achieving a certain aim. It's about the process of getting there.\"\n\nGrowing up in a working-class family on the South Side of Chicago, she was taught to be deferential and to put others' needs before her own. So it was tough for her and she struggled to find her own voice. However, as she began to navigate the world and find her place in it, she realized that she needed to speak up for herself and assert her own wants and needs.\n\nFor instance, when Michelle began her second grade year, she found herself in a classroom of complete chaos. With an overwhelmed teacher, she hardly had an opportunity to learn and it was clear that she was not the only one who was struggling.\n\nFortunately, she dared to express her displeasure to her mom and soon enough, she was tested and placed in a third grade class with other kids who were just as enthusiastic about learning. This was a much better fit for Michelle and she was able to thrive in her new environment and got into the Whitney M. Young High School.\n\nHowever she did not always have the feeling to fit in as she shares in another transformative memory from her youth, where she grappled with her identity and a sense of not belonging. Where she grew up, she stood out as one of the only Black students in her school, and felt disconnected from her peers due to differing cultural experiences.\n\nAs she walked home from class one day, she stumbled upon a group of girls playing Double Dutch, a game that involves jumping rope with two ropes. Envious of their laughter and joy, she mustered up the courage to ask if she could join in, despite feeling like an outsider. The girls welcomed her with open arms, and soon enough, she was jumping and laughing alongside them.\n\nThis moment marked a pivotal change for Michelle, as she realized that despite feeling different, she could still find a place and make connections. Through this experience, she came to appreciate the beauty in diversity and it helped her to understand that everyone struggles with feeling like they fit in at some point in their lives. This powerful anecdote serves as an inspiration to be brave and reach out to connect with others, even when it may feel daunting. \n\nAs she rose through the ranks in her career, first as a lawyer and then as the First Lady of the United States, she faced a number of challenges, including sexism, racism, and public scrutiny. Throughout it all, she had to learn to trust her own instincts and to push through the doubts and insecurities that threatened to hold her back.\"I had to learn to trust my own voice and to use it confidently and consistently, even when it meant going against the grain of what others expected of me.\"\n\nUltimately, \"Becoming Me\" is about embracing one's own imperfections and using them as a source of strength. As Michelle writes, \"I've learned that there is no one way to become. We all have to find our own journeys, and that's okay.\" By sharing the anecdotes and emotions of her  own story, she hopes to inspire others to find the courage to do the same."
+            ],
+            "audio": {
+              "size": 7223922,
+              "duration": 190800
+            }
+          }
+      ]
     },
     {
       "id": 7,
@@ -377,6 +428,12 @@
         "audio",
         "society & culture"
       ],
+      "summary": "Becoming by Michelle Obama takes you on a personal and powerful journey, exploring her upbringing, time in the White House, and advocacy work.",
+      "author_name": "Michelle Obama",
+      "about_author": "Michelle Obama is a lawyer, writer, and advocate who served as the First Lady of the United States from 2009 to 2017. She is recognized for her work on issues such as healthy living, women's rights, and education.",
+      "subtitle": "",
+      "target_group": "This book is a perfect read for individuals who seek to gain insight into the life of one of the most influential women of our time. \n\n The book appeals to a wide range of readers, including those interested in politics, women's empowerment, and personal development.",
+      "book_link": "https://becomingmichelleobama.com",
       "content": [
         {
           "text": [
@@ -403,12 +460,19 @@
             "duration": 451000
           },
           "image_count": 0
-        }
-      ],
-      "crew": {
-        "authors": [
-          7
-        ]
-      }
+        },
+
+        {
+            "chapter_summary": "Dummy chapter",
+            "text": [
+              "Michelle Obama`s journey starts with “Becoming me”, a process of self-discovery and growth that she has experienced throughout her life. In her own words she expresses, \"Becoming isn't about arriving somewhere or achieving a certain aim. It's about the process of getting there.\"\n\nGrowing up in a working-class family on the South Side of Chicago, she was taught to be deferential and to put others' needs before her own. So it was tough for her and she struggled to find her own voice. However, as she began to navigate the world and find her place in it, she realized that she needed to speak up for herself and assert her own wants and needs.\n\nFor instance, when Michelle began her second grade year, she found herself in a classroom of complete chaos. With an overwhelmed teacher, she hardly had an opportunity to learn and it was clear that she was not the only one who was struggling.\n\nFortunately, she dared to express her displeasure to her mom and soon enough, she was tested and placed in a third grade class with other kids who were just as enthusiastic about learning. This was a much better fit for Michelle and she was able to thrive in her new environment and got into the Whitney M. Young High School.\n\nHowever she did not always have the feeling to fit in as she shares in another transformative memory from her youth, where she grappled with her identity and a sense of not belonging. Where she grew up, she stood out as one of the only Black students in her school, and felt disconnected from her peers due to differing cultural experiences.\n\nAs she walked home from class one day, she stumbled upon a group of girls playing Double Dutch, a game that involves jumping rope with two ropes. Envious of their laughter and joy, she mustered up the courage to ask if she could join in, despite feeling like an outsider. The girls welcomed her with open arms, and soon enough, she was jumping and laughing alongside them.\n\nThis moment marked a pivotal change for Michelle, as she realized that despite feeling different, she could still find a place and make connections. Through this experience, she came to appreciate the beauty in diversity and it helped her to understand that everyone struggles with feeling like they fit in at some point in their lives. This powerful anecdote serves as an inspiration to be brave and reach out to connect with others, even when it may feel daunting. \n\nAs she rose through the ranks in her career, first as a lawyer and then as the First Lady of the United States, she faced a number of challenges, including sexism, racism, and public scrutiny. Throughout it all, she had to learn to trust her own instincts and to push through the doubts and insecurities that threatened to hold her back.\"I had to learn to trust my own voice and to use it confidently and consistently, even when it meant going against the grain of what others expected of me.\"\n\nUltimately, \"Becoming Me\" is about embracing one's own imperfections and using them as a source of strength. As Michelle writes, \"I've learned that there is no one way to become. We all have to find our own journeys, and that's okay.\" By sharing the anecdotes and emotions of her  own story, she hopes to inspire others to find the courage to do the same."
+            ],
+            "audio": {
+              "size": 7223922,
+              "duration": 190800
+            }
+          }
+
+      ]
     }
   ]
