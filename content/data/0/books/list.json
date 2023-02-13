@@ -7,7 +7,7 @@
         "text",
         "audio",
         "author",
-        "Personal Development"
+        "personal development"
       ],
       "summary": "Becoming by Michelle Obama takes you on a personal and powerful journey, exploring her upbringing, time in the White House, and advocacy work.",
       "author_name": "Michelle Obama",
@@ -87,9 +87,9 @@
           "text",
           "audio",
           "author",
-          "Personal Development",
-          "Productivity",
-          "Career & Success"
+          "personal development",
+          "productivity",
+          "career & success"
         ],
         "summary": "\"Grit\" is a fascinating journey into the science of passion and perseverance, revealing the key to unlocking your full potential.",
         "author_name": "Angela Duckworth",
@@ -386,7 +386,8 @@
       "tags": [
         "text",
         "audio",
-        "author"
+        "author",
+        "entrepreneurship"
       ],
       "summary": "Becoming by Michelle Obama takes you on a personal and powerful journey, exploring her upbringing, time in the White House, and advocacy work.",
       "author_name": "Michelle Obama",
