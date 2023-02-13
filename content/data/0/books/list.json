@@ -77,8 +77,6 @@
        
     },
 
-
-   
     {
         "id": 1,
         "name": "Grit",
@@ -219,85 +217,227 @@
       },
 
     {
-      "id": 2,
-      "name": "24/7 Zeitmanagement",
-      "create_date": 1661280621159,
-      "tags": [
-        "text",
-        "author",
-        "audio",
-        "productivity"
-      ],
-      "summary": "Becoming by Michelle Obama takes you on a personal and powerful journey, exploring her upbringing, time in the White House, and advocacy work.",
-      "author_name": "Michelle Obama",
-      "about_author": "Michelle Obama is a lawyer, writer, and advocate who served as the First Lady of the United States from 2009 to 2017. She is recognized for her work on issues such as healthy living, women's rights, and education.",
-      "subtitle": "",
-      "target_group": "This book is a perfect read for individuals who seek to gain insight into the life of one of the most influential women of our time. \n\n The book appeals to a wide range of readers, including those interested in politics, women's empowerment, and personal development.",
-      "book_link": "https://becomingmichelleobama.com",
-      "content": [
-        {
-          "text": [
-            "Falls du ständig gestresst bist und öfter mit Deadlines haderst, hast du sicher schon von einigen Zeitmanagement-Tools gehört. In den Blinks zu 24/7 Zeitmanagement (2019) verschaffen wir dir einen Überblick über die grundlegenden Prinzipien des Zeitmanagements. Und wir zeigen dir, welche Methoden du sofort in deinen Alltag integrieren kannst."
-          ],
-          "audio": {
-            "size": 7223922,
-            "duration": 451000
-          },
-          "image_count": 1
-        }, 
-
-        {
-            "chapter_summary": "Dummy chapter",
+        "id": 2,
+        "name": "The Joy of Missing Out",
+        "create_date": 1661280621159,
+        "tags": [
+          "text",
+          "audio",
+          "author",
+          "psychology", 
+          "mindfulness & happiness"
+        ],
+        "summary": "\"The Joy of Missing Out\" is about unlocking your full potential by embracing the power of saying no! Discover the art of prioritizing and living life to the fullest by letting go of FOMO and start living your best life today!",
+        "author_name": "Tonya Dalton",
+        "about_author": "Tonya Dalton is a successful businesswoman and productivity expert, known for her contributions to the field of entrepreneurship and time management. She is the founder of Inkwell Press and has been featured in various media outlets sharing her insights and advice on maximizing productivity.",
+        "subtitle": "Live More by Doing Less",
+        "target_group": "This book is a perfect read for individuals who seek to prioritize their life, reduce stress and anxiety, and live a more fulfilling life.",
+        "book_link": "https://tanyadalton.com/the-joy-of-missing-out",
+        "content": [
+          {
             "text": [
-              "Michelle Obama`s journey starts with “Becoming me”, a process of self-discovery and growth that she has experienced throughout her life. In her own words she expresses, \"Becoming isn't about arriving somewhere or achieving a certain aim. It's about the process of getting there.\"\n\nGrowing up in a working-class family on the South Side of Chicago, she was taught to be deferential and to put others' needs before her own. So it was tough for her and she struggled to find her own voice. However, as she began to navigate the world and find her place in it, she realized that she needed to speak up for herself and assert her own wants and needs.\n\nFor instance, when Michelle began her second grade year, she found herself in a classroom of complete chaos. With an overwhelmed teacher, she hardly had an opportunity to learn and it was clear that she was not the only one who was struggling.\n\nFortunately, she dared to express her displeasure to her mom and soon enough, she was tested and placed in a third grade class with other kids who were just as enthusiastic about learning. This was a much better fit for Michelle and she was able to thrive in her new environment and got into the Whitney M. Young High School.\n\nHowever she did not always have the feeling to fit in as she shares in another transformative memory from her youth, where she grappled with her identity and a sense of not belonging. Where she grew up, she stood out as one of the only Black students in her school, and felt disconnected from her peers due to differing cultural experiences.\n\nAs she walked home from class one day, she stumbled upon a group of girls playing Double Dutch, a game that involves jumping rope with two ropes. Envious of their laughter and joy, she mustered up the courage to ask if she could join in, despite feeling like an outsider. The girls welcomed her with open arms, and soon enough, she was jumping and laughing alongside them.\n\nThis moment marked a pivotal change for Michelle, as she realized that despite feeling different, she could still find a place and make connections. Through this experience, she came to appreciate the beauty in diversity and it helped her to understand that everyone struggles with feeling like they fit in at some point in their lives. This powerful anecdote serves as an inspiration to be brave and reach out to connect with others, even when it may feel daunting. \n\nAs she rose through the ranks in her career, first as a lawyer and then as the First Lady of the United States, she faced a number of challenges, including sexism, racism, and public scrutiny. Throughout it all, she had to learn to trust her own instincts and to push through the doubts and insecurities that threatened to hold her back.\"I had to learn to trust my own voice and to use it confidently and consistently, even when it meant going against the grain of what others expected of me.\"\n\nUltimately, \"Becoming Me\" is about embracing one's own imperfections and using them as a source of strength. As Michelle writes, \"I've learned that there is no one way to become. We all have to find our own journeys, and that's okay.\" By sharing the anecdotes and emotions of her  own story, she hopes to inspire others to find the courage to do the same."
+              "\"The Joy of Missing Out\" by Tanya Dalton is a transformative guide that invites you to reconsider the way you approach success and happiness. Through this book, you will be empowered to break free from the societal pressure of constantly striving for more and instead, find contentment and fulfillment in simplifying your life. You will learn how to prioritize what truly matters, let go of what doesn't and discover the joy in missing out on the rest. Join Tanya as she shares her personal journey and the insights she's gained along the way, empowering you to create a more intentional and fulfilling life. This is not just a book, it's a call to action for a new way of living, where you can rediscover the beauty of slowing down and savoring the moment. Are you ready to embark on this journey to find true happiness and success?"
             ],
             "audio": {
               "size": 7223922,
-              "duration": 190800
+              "duration": 31200
+            }          
+  
+          },
+  
+          {
+              "chapter_summary": "Focus on what matters most rather than trying to strike a balance.",
+              "text": [
+                "Having a healthy work-life balance is a goal for many of us. It's possible that we'll assume this means prioritizing each aspect of our life equally. However, that can't be correct. If everything in our life were in harmony, we wouldn't be making any progress; rather, we'd be spinning our wheels aimlessly. Don't waste your time trying to strike a balance; instead, pay attention to what matters most. If you've ever tried to ride a bike while standing motionless, you know how difficult it is to keep your balance. Get going by leaning forward slightly and pedaling slowly. Then, you have to adjust your center of gravity whether you want to make a left or right turn. However, if you lean too much in one direction, you'll fall over. To keep the bike balanced, you must constantly shift your weight. Progress, then, need for undivided attention and a steady dose of balancing force.\n\nThe same holds true for our own life; it's not enough to just seek equilibrium. To start things rolling, we need to zero in on our top priorities. To keep going, we must continuously reallocate resources to meet competing demands. nLet's investigate the causes of our difficulty concentrating. A person's life consists of three distinct parts: professional, private, and domestic. Our jobs, whether they be at home or in the workplace, are an integral part of our daily lives. Our personal lives include the people and activities in which we engage, as well as our aspirations, interests, and physical and mental well-being. The majority of our free time is taken up by the myriad of chores and errands necessary to maintain our daily routines.\n\nEach of these facets deserves our attention. However, we can't provide equal attention to each of them at the same time. Spreading these three limited resources too thin over all aspects of life leads to a lot of wasted time and energy with little to show for it. Then, what's the point? Well, many of us strive for the \"ideal\" balance because we believe that is what society wants of us. We must, however, release ourselves from such idealistic paralysis.\n\nFirst, the expectations must be recognized; next, they must be abandoned. For instance, the author used to think that mothers who stayed at home, made homemade treats for their children, and volunteered frequently at their children's schools exemplified the ideal of a good mother. It was difficult for her to reach these standards since, although enjoying her work, her schedule prevented her from doing so. Just trying to get everything done exhausted her and left her feeling unsatisfied. However, over time, she revised her standards to include those mothers who genuinely cared for their children.\n\nThe author attributes her current state of contentment to her decision to reject the unreasonable expectations, at which point she stopped attempting to strike a balance and began to focus."
+              ],
+              "audio": {
+                "size": 7223922,
+                "duration": 183600
+              }
+            },
+  
+            {
+              "chapter_summary": "Finding your life's calling will guide your choices.",
+              "text": [
+                "Each day, we engage in several decision-making processes. However, few of us actually stop to consider the factors that influence our choices. Just following in the footsteps of others? Have you yet settled on a personal mission that you intend to follow?\n\nIn order to set priorities and make sound judgments, it is essential to have a crystal-clear reason for doing anything. Despite initial concerns, the time and energy spent on its creation are well compensated. The essential point is that your choices in life will be influenced by the meaning you give to your existence. You may define your purpose by bringing together your mission, vision, and values. Let's examine the meaning of these components individually.\n\nFirst, figure out what it is you're trying to do. To do this, use the ABC Brain Dump method. Put the alphabetic characters down on paper first. Take a few moments and reflect about your motivations. List anything that comes to mind, alphabetically, from A to Z. When you're finished, you'll have a total of 26 items to check off. Use the most prominent ideas and words that keep coming up as the basis for your goal statement. A well-crafted mission statement is one that captures the essence of your organization in a few memorable sentences. Example: Nike's stated goal is \"to deliver inspiration and innovation to every athlete in the globe.\" It's interesting that their stated purpose doesn't specify what it is that Nike produces. The emphasis is instead placed on the characters' motivations.\n\nNext, let's create a vision statement that lays out your long-term objectives. Use a vision board to help you make one. Make a motivational poster by pasting magazine clippings with encouraging quotes and photos onto a piece of cardboard. Consider some questions such, \"How do I want to develop and change in the future?\" when you do this. Where may I find improvement opportunities in the work that I am currently doing? Imagine the best possible future by answering these questions and looking at the motivational quotes and photos on your board. Transform this into a snappy, easy-to-remember sentence.\n\nIn closing, consider the concept of fundamental principles. We are guided and shaped by these words. Describe yourself in the absence of others using the words you have written down. Your set of essential values should consist of no more than six words at most. If your list is more than six words, consider grouping terms that have similar meanings together, and then pick the one term that best summarizes everything. Adobe's fundamental values—performance, passion, integrity, and diversity—serve as an excellent case in point. It may take some time, but after you've settled on your goal, vision, and values, you'll have a clear sense of direction."
+              ],
+              "audio": {
+                "size": 7223922,
+                "duration": 154200
+              }          
+  
+            },
+  
+            {
+              "chapter_summary": "Goals and clear limits help you keep your attention.",
+              "text": [
+                "In today's world of constant distractions from our cellphones, the beeps of emails, the allure of social media platforms like Twitter and Instagram, and the endless opportunities for mindless web browsing, it's a miracle that we can get anything done at all. But to truly be productive, it's essential to ignore the trivialities that take up our time and concentrate on what truly matters.\n\nOne way to increase your focus is by establishing clear goals and limits. A study of Harvard Business School (HBS) students conducted just before they graduated found that a mere 3% of students had written down their goals and devised a plan to achieve them, while 13% had some written goals, but no plan, and 84% had no written goals at all. 10 years later, researchers found that the students who had written down their goals and devised a plan to reach them were making 10 times as much as the remaining 97%, and twice as much as the students who had no written goals at all.\n\nWriting down your goals and having a plan to achieve them is a highly effective way to increase your focus, but it's not the only way. Another important aspect of maintaining focus is to establish strict limits. These limits grant us more independence by giving us sufficient time to devote to each aspect of our lives, whether it's work, family, or something else.\n\nFor example, if you find yourself constantly checking your email outside of business hours, it might be helpful to schedule specific intervals during which you check your work email, and to set definite beginning and ending times. This way, you're not leaving it open-ended, and you can use the rest of your time to focus on other things. Similarly, if you find yourself spending a significant portion of your workday talking to loved ones, it may be necessary to suggest they call back later so you can devote more time to your work. In conclusion, to increase your focus and be more productive, it's essential to ignore the distractions of our modern world and concentrate on what truly matters. Establishing clear goals and limits is an effective way to achieve this, and it allows you to make the most of your time, both professionally and personally."
+              ],
+              "audio": {
+                "size": 7223922,
+                "duration": 130800
+              }          
+  
+            },
+
+            {
+                "chapter_summary": "Prioritize your tasks to spend your energy wisely on what matter",
+                "text": [
+                  "Many people strive for personal and professional productivity. Productivity is misinterpreted. Some individuals think they're productive if they finish a lot of work quickly, but this isn't always true. Effective productivity requires prioritizing your tasks.\n\nProductivity requires prioritizing goals over deadlines, quality over quantity, and the future over the present. Effectiveness requires prioritizing what matters most. Dispelling the three productivity misconceptions that limit focus and encourage overwork is crucial to this.\n\nMultitasking is the first productivity myth. Many of us pride ourselves on multitasking, yet the brain is intended to do one thing at a time. Multitasking reduces productivity by 40%, according to research. A University of London study indicated that multitasking lowers IQs to the same amount as not sleeping or using marijuana. Multitasking slows us and lowers work quality.\n\nThe second productivity myth is that we don't have time for breaks. False. Our biological ultradian rhythm requires a 20-minute respite every 90 to 120 minutes. Continuous work exhausts the brain. In 1914, Henry Ford doubled his workers' wages and decreased shifts from nine to eight, demonstrating this idea. Despite criticism and derision, his competition mimicked his enhanced output.\n\nTechnology usually improves productivity, the third misconception. Technology makes life easier, but it doesn't always work well. Writing thoughts and plans by hand is more successful than typing them on a computer, according to study. Handwriting activates the reticular activating system, which alerts and stores information. Thus, occasionally closing the laptop and writing ideas by hand is advised.\n\nBy dispelling these three fallacies and prioritizing, we may remind ourselves that not all tasks are equal. Warren Buffet, for example, credits 90% of his wealth to 10% of his enterprises. Focusing on less can lead to more.\n\nMany of us feel overwhelmed by to-do lists. It's usually not too much to do but where to start. Prioritizing helps. Escalate, Cultivate, and Accommodate are priority levels. Escalate duties include car repairs and last-minute project changes after supervisor input. Prioritize these tasks. Long-term projects and budget planning are on the Cultivate level. This level requires the most energy and lets us be proactive and work well. The Accommodate level includes urgent but minor duties like phone calls or emails."
+                ],
+                "audio": {
+                  "size": 7223922,
+                  "duration": 147000
+                }          
+    
+              },
+
+              {
+                "chapter_summary": "Habits and routines minimize stress and improve life.",
+                "text": [
+                  "Unfortunately, prioritizing isn't enough. Laundry, cleaning, and budgeting must also be managed. Managing this alongside other tasks can be difficult. Good systems help. Positive behaviors strengthen systems. Habits automate tasks. Develop good habits to build good systems. Despite being only 2% of our body mass, our brains use 20% of our daily calories! When overworked, the brain loses energy and decision-making abilities. Good routines liberate up brain resources to focus on what counts. How do you form excellent habits? First, describe the habit. Why do I want a new habit? Say you want to become in shape. Find the prompts. These activate habits. Location, time, emotion, people, and action are cues. Leaving your footwear at the door could remind you to run after work. Define conduct. It takes 66 days to create a habit, so it helps to detect excuses like \"I'm too tired to go for a run\" early on. Tomorrow.” If you've forecast the excuse, you'll be ready to fight it. Finally, we must arrange for Record, Reward, and Redirect. When you start creating a habit, it's hard to detect improvement, so track it. Use a running app to track your runs. rewards. Brain study shows that rewards form habits. Rewards tell the brain to remember this behavior for later. Rewards are unnecessary after the habit is created. Redirect. You'll fall. A week without exercise is no excuse to quit! Just get up, recover, and refocus. Building good habits takes additional effort at first. Maintaining a system needs less effort, energy, and thought.\n\nRoutines—restrictive or liberating? Routines can enhance daily living, contrary to popular belief. Why? because they save time, brainpower, and effort. Automatic routines Consider your morning routine: brushing your teeth, showering, applying deodorant, etc. We can also tailor routines to our needs. It could be making time for something important. Routines minimize stress and improve life. Automated laundry procedures are especially beneficial. “It's Tuesday – laundry day!” the author called out weekly when her kids were three. Her kids didn't require instructions since this was a tradition. Each brought their clothing hamper into the main area. By five, they helped their mom sort laundry. The author considered this automatic procedure an investment. The youngsters washed their garments again a few years later. Both kids now wash their clothes and the family's bedsheets and towels. Training her children took time, but now she has more time for more vital activities. Automation can help manage large projects by breaking them down into smaller jobs throughout the year. We know taxes are due in April, but waiting until the last minute to organize our papers causes unnecessary stress. Why not create a folder with a checklist for all the papers in January? In February, file all appropriate documentation. Make a March accountant appointment. Relax in April. These automated routines let you be proactive and work your best. They ease your life."
+                ],
+                "audio": {
+                  "size": 7223922,
+                  "duration": 191400
+                }          
+    
+              },
+
+              {
+                "chapter_summary": "Let your brain play and explore to be productive.",
+                "text": [
+                  "Can you tell me how often you take a break from your hectic schedule? It's not easy, but we should all try to carve out some time for rest and relaxation in order to recharge our batteries. Having some empty mental real estate is essential. The problem is that we become caught up in our routines to the point where we believe we have no time for anything else. So let me ask you another one: Have you spent the last year doing meaningless things like binge-watching TV or scrolling through your phone? If you said yes, then white space is available; you're simply not taking advantage of it. However, unlike many pleasant things, white space does not spontaneously materialize; rather, it must be crafted anew each time. The takeaway here is simple: if you want to get things done, you need to let your mind wander and toy about every once in a while.\n\nSelf-care is not an option; it's a requirement that we must meet. The key to improved efficiency, inspiration, and focus lies within it. The advantages of white space are not merely theoretical. It has been proved through studies to improve our problem-solving skills, resilience in the face of adversity, and intrinsic motivation. If we don't schedule downtime for ourselves, our minds will fill it with pointless activities like checking our phones and scrolling through social media. There must be better ways to spend the five years and four months the average person will spend on social media throughout their lifetime.\n\nSo, what is the most efficient method for creating empty space? Defining limits is straightforward. However, it's not just a matter of blocking off specific hours. Turning off our phones and putting off responding to emails are also part of this concept. The author and her closest friends' family decided to take a five-day vacation without any electronic devices, and during that time, she saw firsthand how much our reliance on screens has warped our daily lives. We are so engrossed in our electronic gadgets that we rarely look up to notice or engage with the world around us. Everyone remained up late, had meaningful conversations with one another, and found peace in the natural world because there were no screens to distract them.\n\nSelf-care is an investment with phenomenal rewards, therefore it's worth every minute we put into it."
+                ],
+                "audio": {
+                  "size": 7223922,
+                  "duration": 135000
+                }          
+    
+              },
+  
+            {
+              "text": [
+                "\"The Joy of Missing Out\" by Tanya Dalton is a guide to finding balance in a world where technology and constant connectivity can often leave us feeling overwhelmed and disconnected. The author encourages you to disconnect and focus on the present moment, reminding you that true happiness and fulfillment can be found in the simple things.\n\n Here are ten actions you can take to implement the learnings from the book into your own life:\n\n1.\n\nSet boundaries for your technology usage and stick to them.\n\n2.\n\nTake time each day to disconnect and be fully present in the moment.\n\n3.\n\nPrioritize activities and experiences that bring you joy and fulfillment.\n\n4.\n\nCultivate meaningful relationships and nurture the ones that matter to you.\n\n5.\n\nLearn to say no to distractions and commitments that do not serve your goals and values.\n\n6.\n\nEmbrace simplicity and minimalism in your daily life.\n\n7.\n\nPractice gratitude by focusing on the present and all that you have to be thankful for.\n\n8.\n\nInvest in experiences rather than material possessions.\n\n9.\n\nFoster a growth mindset by embracing challenges and embracing new experiences.\n\n10.\n\nCelebrate your unique talents and abilities, and share them with the world.\n\nBy taking these actions, you can create a life that is rich in joy, fulfillment, and meaning, and find true happiness in the present moment. Remember that life is not about constantly seeking more, but about finding joy in what you already have."
+              ],
+              "audio": {
+                "size": 7223922,
+                "duration": 78600
+              }          
+  
             }
-          }
-      ]
-    },
+  
+        ]
+        
+      },
+    
     {
       "id": 3,
-      "name": "84 Monate",
+      "name": "Atomic Habits",
       "create_date": 1661280621159,
       "tags": [
         "text",
         "author",
         "audio",
-        "personal development"
+        "personal development",
+        "productivity"
       ],
-      "summary": "Becoming by Michelle Obama takes you on a personal and powerful journey, exploring her upbringing, time in the White House, and advocacy work.",
-      "author_name": "Michelle Obama",
-      "about_author": "Michelle Obama is a lawyer, writer, and advocate who served as the First Lady of the United States from 2009 to 2017. She is recognized for her work on issues such as healthy living, women's rights, and education.",
-      "subtitle": "",
-      "target_group": "This book is a perfect read for individuals who seek to gain insight into the life of one of the most influential women of our time. \n\n The book appeals to a wide range of readers, including those interested in politics, women's empowerment, and personal development.",
-      "book_link": "https://becomingmichelleobama.com",
+      "summary": "\"Atomic Habits\" (2018) is about how small changes in behavior can lead to big results, and how to develop good habits that stick.",
+      "author_name": "James Clear",
+      "about_author": "James Clear is an American author and entrepreneur, best known for his work on behavior change and habit formation.",
+      "subtitle": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "target_group": "For anyone looking to establish good habits and live a more productive and fulfilling life, this book provides a step-by-step guide to building lasting habits through small, manageable actions.",
+      "book_link": "https://jamesclear.com/atomic-habits",
       "content": [
         {
           "text": [
-            "Kinder zu bekommen gehört für viele zum natürlichen Lauf des Lebens. Doch was passiert mit Menschen, für die dieser Plan zum unerreichbaren Traum wird? Davon erfährst du in unseren Blinks zum autobiografischen Erfahrungsbericht 84 Monate (2019). Sie erzählen von dem Leid eines Paares, das sieben Jahre kinderlos blieb, von den endlosen medizinischen Maßnahmen, die es sich zumutete, und auch von der sozialen Isolation, in der es sich wiederfand."
+            "If you're looking to make a significant change in your life, but find yourself struggling to take action, then get ready for a game-changing read that will unlock the power of your habits. \"Atomic Habits\" by James Clear is a groundbreaking book that will teach you how to transform your life, one small habit at a time.\n\nInside this book, you'll discover the science-backed principles of habit formation that will empower you to build the habits you need to achieve your goals. You'll learn how to create systems that make it easy to stick to your new habits and eliminate bad ones, and how to use small, incremental changes to create massive results in your life.\n\nClear's insightful advice is both practical and actionable, helping you to overcome the obstacles that have been holding you back and build the habits that will allow you to reach your full potential. Whether you want to improve your health, productivity, relationships, or any other area of your life, \"Atomic Habits\" will give you the tools you need to make it happen.\n\nSo if you're ready to take control of your habits and transform your life, grab a copy of \"Atomic Habits\" and get ready to start your journey towards a better you!"
           ],
           "audio": {
             "size": 7223922,
-            "duration": 451000
+            "duration": 66600
           },
           "image_count": 1
         }, 
 
         {
-            "chapter_summary": "Dummy chapter",
+            "chapter_summary": "The effect of small habits on your daily life",
             "text": [
-              "Michelle Obama`s journey starts with “Becoming me”, a process of self-discovery and growth that she has experienced throughout her life. In her own words she expresses, \"Becoming isn't about arriving somewhere or achieving a certain aim. It's about the process of getting there.\"\n\nGrowing up in a working-class family on the South Side of Chicago, she was taught to be deferential and to put others' needs before her own. So it was tough for her and she struggled to find her own voice. However, as she began to navigate the world and find her place in it, she realized that she needed to speak up for herself and assert her own wants and needs.\n\nFor instance, when Michelle began her second grade year, she found herself in a classroom of complete chaos. With an overwhelmed teacher, she hardly had an opportunity to learn and it was clear that she was not the only one who was struggling.\n\nFortunately, she dared to express her displeasure to her mom and soon enough, she was tested and placed in a third grade class with other kids who were just as enthusiastic about learning. This was a much better fit for Michelle and she was able to thrive in her new environment and got into the Whitney M. Young High School.\n\nHowever she did not always have the feeling to fit in as she shares in another transformative memory from her youth, where she grappled with her identity and a sense of not belonging. Where she grew up, she stood out as one of the only Black students in her school, and felt disconnected from her peers due to differing cultural experiences.\n\nAs she walked home from class one day, she stumbled upon a group of girls playing Double Dutch, a game that involves jumping rope with two ropes. Envious of their laughter and joy, she mustered up the courage to ask if she could join in, despite feeling like an outsider. The girls welcomed her with open arms, and soon enough, she was jumping and laughing alongside them.\n\nThis moment marked a pivotal change for Michelle, as she realized that despite feeling different, she could still find a place and make connections. Through this experience, she came to appreciate the beauty in diversity and it helped her to understand that everyone struggles with feeling like they fit in at some point in their lives. This powerful anecdote serves as an inspiration to be brave and reach out to connect with others, even when it may feel daunting. \n\nAs she rose through the ranks in her career, first as a lawyer and then as the First Lady of the United States, she faced a number of challenges, including sexism, racism, and public scrutiny. Throughout it all, she had to learn to trust her own instincts and to push through the doubts and insecurities that threatened to hold her back.\"I had to learn to trust my own voice and to use it confidently and consistently, even when it meant going against the grain of what others expected of me.\"\n\nUltimately, \"Becoming Me\" is about embracing one's own imperfections and using them as a source of strength. As Michelle writes, \"I've learned that there is no one way to become. We all have to find our own journeys, and that's okay.\" By sharing the anecdotes and emotions of her  own story, she hopes to inspire others to find the courage to do the same."
+              "Let's begin by imagining a jet taking off from Los Angeles. The flight is bound towards New York. The plane takes off in the right direction after the pilot inputs the correct coordinates into the navigation system. But let's say that shortly after liftoff, the pilot makes a little adjustment to the flight path. He makes a minor adjustment of only 3.5 degrees, which is equivalent to a distance of only a few feet. Everyone on board, including the pilot, is blissfully oblivious to the plane's subtle nosedive to one side. But this minor modification would have a significant effect over the course of a trip throughout the United States. The flight would conclude in Washington, DC, not New York City, leading to a number of puzzled passengers and an even more bewildered pilot.\n\nBut why am I revealing this to you?\n\nLike the befuddled pilot, we fail to see even subtle shifts in our circumstances. Minor adjustments have almost no noticeable effect right away. Even if you go for a 20-minute jog today, if you are out of shape right now, you will still be out of shape tomorrow. A family-sized pizza for dinner won't cause instant obesity. But if we keep doing these minor things over and over again, our cumulative decisions will have far-reaching consequences. If you eat pizza every day for a year, you will most likely be significantly heavier. You won't feel any different after 20 minutes of jogging per day, but with time you will become leaner and more physically fit. You've probably already gleaned the primary point: even seemingly innocuous habits can have far-reaching consequences over time, and it's not always easy to see how they're working. Only after a period of time have your behaviors begun to show.\n\nWe now understand that it is disheartening to work hard and have little to show for it. If you're going through this right now and becoming down on yourself because of the slow pace of progress, it may help to shift your attention from the outcomes you've achieved so far to the direction in which you're headed. Okay, so your savings account isn't overflowing with cash. Monthly savings add up. You may not be very pleased with your current performance; your savings are likely still rather modest. But you may rest assured that the course you're on is the correct one. Continue in this manner, and in a few months or years, you will see significant progress.\n\nIf you're feeling sad because it seems like you're not making much progress, remind yourself that you are, in fact, taking the appropriate steps. But the question is: how can you set yourself on the proper course? Building good routines into your life is essential. As soon as this twitch ends, we'll get the details on their construction."
             ],
             "audio": {
               "size": 7223922,
-              "duration": 190800
+              "duration": 146400
+            }
+          }, 
+
+          {
+            "chapter_summary": "Automated behaviours formed by experience become habits",
+            "text": [
+              "Upon entering a room that lacks illumination, the first thing most people do is frantically search for a light switch. The act of reaching for a light switch is ingrained behavior, something you do without thinking. Everything we do, from cleaning our teeth to operating a motor vehicle, is governed by such habits. The power they possess is staggering. But how do they originate?\n\nA psychologist named Edward Thorndike attempted to address this subject in the nineteenth century. He started by putting a few cats in a dark box. Then he timed how quickly they were able to get away. To begin, the cats' responses to being confined to a box were predictable. It tried to find a way out of the situation anxiously. It pawed at the walls and corners, giving them a good sniff. The cat would investigate the area and uncover a lever that, when pulled, would release a door. Thorndike re-ran the experiment with the cats that had previously escaped by putting them back in the box. Where did he turn up, exactly? Each cat eventually mastered the box after being placed in it several times. The cats didn't waste a minute or more stumbling around before going for the switch. The typical cat could break out in under a minute after twenty or thirty failed tries.\n\nIn other words, the cats had developed a routine for exiting the box. Thorndike's experiment revealed an essential principle: people are more likely to automatically engage in activities that lead to positive outcomes (in this case, increased independence) if they are rewarded for doing so. We now know far more than we did decades after Thorndike's experiment was conducted. Four components make up habits, as we have learned.\n\nThe initial step is the prompt, or impetus to take some form of action. Your brain automatically prepares you to take action to restore vision when you enter a dark room.\n\nThen, a want to transition from darkness to light sets in. A subsequent reaction or action follows, such as turning on a light.\n\nThe reward is the final stage because it is the ultimate goal of any habit. When one regains some visibility, a sense of moderate relief and contentment often follows. The same pattern applies to forming any habit. How often do you have your first cup of coffee in the morning? The act of waking up signals the beginning of an urge to be mentally sharp. Upon realizing this, you force yourself out of bed and into the kitchen in search of some caffeine. As a result, you'll feel more alert and prepared to take on the day. Now that you understand the mechanics of habit formation, we can examine the steps necessary to create the kinds of positive routines that can transform your life."
+            ],
+            "audio": {
+              "size": 7223922,
+              "duration": 146400
+            }
+          },
+
+          {
+            "chapter_summary": "Creating new habits needs obvious triggers and a good plan",
+            "text": [
+              "We now know how habits form. Summarize. A habit has four parts: a cue (a trigger), a craving (a want you wish to satisfy), a response (the habit itself), and a reward (the pleasurable feeling you get from completing the habit). Knowing how they work, you can hack the habit-forming process to develop excellent, productive habits. Let's say you're desperate to learn guitar. You've got your instrument and the basics, but you can't practice. You tell yourself you'll play later every morning, but by nightfall, you haven't touched your guitar.\n\nNow that you know how to form habits, you can benefit from them. Here, you want to make the guitar pick-up obvious. Leave your instrument in the middle of your living room instead of hiding it in a cabinet or spare room. Make your cue obvious to make practicing a habit. Implementation goals might improve triggers even more than changing your environment to highlight your cues. These? Most of us are too ambiguous about healthy practices. We say, \"I'll eat healthier\" or \"I'll learn guitar.\" We hope we'll finish. Implementation intentions help us move beyond ambiguous intentions. Implementation intentions help you arrange when and where to practice your habit.\n\nOK, back to our guitar example. Instead of saying \"you'll practice guitar sometime this week,\" say \"On Monday, Wednesday, and Friday, when the alarm goes off, the first thing I'll do is take up my guitar and practice for one hour.\" Leave your instrument in the middle of the room. By formulating an implementation objective, you'll provide yourself a clear plan and an evident clue, making it easier to form a positive habit. Let's stop exploring for a moment. So, does it work? It sounds plausible. Can I change my environment to make beneficial behaviors easy? Sounds fantastic on paper, right? In practice?\n\nTo answer the topic, let's look at the work of Boston doctor Anne Thorndike, who is not related to cat lover Edward Thorndike. Dr. Anne Thorndike, like most health professionals, wants to help her patients eat better and snack less. But she also realized that eating healthier is challenging. Willpower and discipline are needed, and not everyone has them. So Anne Thorndike and her team created a test. As part of the project, she reconfigured the hospital cafeteria. The soda in the refrigerators next to the cash registers was replaced with bottled water, and baskets of water were put around the restaurant. After that, Dr. Thorndike and the team watched. What's your take? Well, over three months, soda sales plummeted 11% while water sales rose 25%. Dr. Thorndike and her team were able to encourage people to drink water by providing more cues. In other words, they helped people form better behaviors without pushing them to do so. Evidence that changing your environment can improve your behaviour.\n\nAtomic Habits is halfway through. We've discussed how powerful habits are, how they're formed, and how to employ habit cues. Now we'll discuss habit building rewards. James Olds and Peter Milner investigated desire's neurology in 1954. They blocked dopamine release in rats using electrodes. The lab rats simply gave up. They didn't want to eat, drink, breed, or do anything without dopamine. After a few days, they all died of thirst.\n\nThis disturbing incident shows us that dopamine motivates. We feel happy when we eat, drink, or have sex because dopamine is released. We repeat helpful actions because of this enjoyment. It's clear. What's the connection to habit-building? We don't have to do the joyful action to acquire dopamine. Dopamine is released only by thinking about something fun. The brain's reward system rewards wanting and getting!\n\nThis works to our benefit. We'll be more inclined to stick to our new habit if we enjoy it. Here's where I'll explain temptation bundling. Temptation bundling is linking a vital but unattractive activity to one you like. This is how to use dopamine to form a new habit. Take Ronan Byrne, an Irish engineering student. Ronan knew he should exercise more, but he didn't like it. However, he enjoyed Netflix. Ronan modified a stationary bike. He attached his bike to his laptop and built programming to only run Netflix at a specified speed. He made exercise enjoyable by tying it to a behavior he naturally liked.\n\nYou don't need to build a Netflix/exercise bike contraption to use this. It's simpler. For instance, you may read magazines at the gym to keep up on A-list gossip while working out. If you're making sales calls but want to watch sports, give yourself a half-hour of ESPN after your tenth prospect. Find a method to enjoy those unpleasant but necessary actions, and you'll ride a wave of dopamine and form good habits."
+            ],
+            "audio": {
+              "size": 7223922,
+              "duration": 273600
+            }
+          },
+
+          {
+            "chapter_summary": "Make the new behavior you want to establish as simple as possible",
+            "text": [
+              "Adding pleasure to a routine increases the likelihood that it will be maintained. Another technique to circumvent natural barriers to habit formation is to remove unnecessary friction. It's easy to see how these habits have come to rule our daily lives. Because it's simple to do so, we waste time on social media or eat an entire bag of chips. However, doing a hundred push-ups or learning Mandarin are both very challenging and time-consuming activities. Because of this, we don't enjoy doing things like working out or learning a new language in our leisure time. When we reduce the cognitive load associated with doing the actions we want, we increase the likelihood that we will adopt them as habits. The good news is that there are several paths we can take to accomplish this. The first is to take measures to lessen friction. What does it mean? As far back as he can remember, James Clear has been completely incapable of sending out greeting cards. However, his wife never misses an opportunity to send a greeting card. Furthermore, there is a logical explanation for this. She has an assortment of greeting cards in her house, all neatly arranged in boxes. When you put in just a little amount of effort up front, it's much simpler to convey condolences, congrats, or anything else may be appropriate. There is less of a barrier to her sending congratulations on a marriage or a new job because she doesn't have to go out and buy a card. Friction occurs in both directions. You can raise friction to end a bad habit, or decrease it to transform a good behavior into a habit. As a result, if you want to squander less time in front of the TV, you should turn it off and remove the batteries from the remote. This amount of resistance is just right for making you limit your viewing to times when you're truly invested in it. To put it another way: nthat's friction. The second strategy is the two-minute rule, which uses time constraints to help establish a routine. This method can be used to make any challenging endeavor seem less so. The basic idea is that any action may be simplified into a habit that can be performed in under two minutes. Don't limit yourself to reading just one book a week if you want to read more. Try reading only two pages before bed instead. Or, if you're training for a marathon, make a point of putting on your running shoes and clothes every day when you get home from work. The two-minute rule is a practical method for developing routines that are within anyone's reach. After lacing up your sneakers, you'll most likely go for a run. You'll probably keep reading after the first two pages. The initial and crucial step in accomplishing anything is to simply begin."
+            ],
+            "audio": {
+              "size": 7223922,
+              "duration": 144000
+            }
+          },
+
+          {
+            "chapter_summary": "Instant satisfaction after performing the habit is essential",
+            "text": [
+              "We're almost done. Before we finish, let's discuss the last habit-improvement rule. We need a tale. Stephen Luby was a successful public health researcher. Luby was an effective worker in a Karachi area in the 1990s. He cut child diarrhea by 52%. He reduced pneumonia by 48% and skin infection by 35%. His secret? Good soap. Nice soap led to Luby's public health successes. Handwashing and basic sanitation reduced sickness, according to Luby. Locals knew this. But they weren't practicing.\n\nLuby and Proctor & Gamble gave the community free quality soap, which altered everything. Handwashing became fun overnight. New soap lathered well and smelled great. Washing hands became fun, so everyone did it. Stephen Luby's story shows the final and most essential behavioral transformation rule: habits must be rewarding.\n\nSatisfying excellent behavior is hard. Human evolution caused this. A delayed-return environment exists today. You work today but don't get paid until the end of the month. Morning gym visits don't result in weight loss. Unfortunately, our brains developed for immediate return. Our forefathers didn't consider retirement savings or diets. They worried about eating, sheltering, and avoiding saber-toothed tigers.\n\nThis concentration on fast gains can promote undesirable habits. Smoking improves stress and nicotine cravings, but it causes lung cancer in 20 years. Smoking may be worth the short-term health risks. This means you should aim to tie immediate enjoyment to habits with a delayed payoff. Using a couple the author knows well explains this. This couple wanted to eat out less, cook more, get healthier, and save money. Deferred goals. They started a \"Trip to Europe\" savings account to accelerate their goals. They deposited $50 every time they skipped a meal. The immediate delight of seeing $50 in their savings account kept them on pace for the ultimate prize."
+            ],
+            "audio": {
+              "size": 7223922,
+              "duration": 120600
+            }
+          },
+
+          {
+            "chapter_summary": "Track your habits and use contracts",
+            "text": [
+              "We've learned to form good habits. No matter how enjoyable our behaviors are, we may fail to keep them. Let's see if we can keep our good intentions in this last blink. Habit monitoring helps establish new habits. Many successful persons have kept habits records. Franklin is famous. Franklin recorded 13 personal virtues in a notebook from 20. Avoiding idle chatter and being productive were among these virtues.\n\nFranklin tracked his progress each night. Franklin used a basic calendar or diary to chronicle his habits. Habit tracking is enjoyable and effective. Crossing off each day will boost your mood and motivation. Next, create a habit contract with penalties for deviating.\n\nNashville entrepreneur Bryan Harris took his habit contract seriously. He, his wife, and his trainer signed a pact to lose 200 pounds. He chose habits to get him there. These included daily meal tracking and weekly weighing. He then imposed sanctions. He was afraid of losing money and losing face in front of two people he cared about, so he tracked his food intake and weighed himself. We're sociable animals. Knowing others are watching can motivate us to succeed. How about a habit contract?\n\nEven if it's not as thorough as Bryan Harris's, pledge to your partner, best friend, or coworker. You'll stick to your behaviors if you agree on repercussions for not following through. As we've shown, maintaining a positive habit, no matter how minor, is the key to success."
+            ],
+            "audio": {
+              "size": 7223922,
+              "duration": 76200
+            }
+          },
+
+          {
+            "text": [
+              "\"Atomic Habits\" by James Clear is a transformative book that reveals the power of small, incremental changes to achieve extraordinary results in your life. Clear offers a simple yet effective framework to build good habits and break bad ones, empowering readers to make lasting, positive changes in their lives.\n\nThrough engaging stories and practical advice, Clear illustrates the importance of focusing on the process rather than the outcome. He emphasizes the importance of taking small steps and making small changes that accumulate over time, leading to significant improvements in our lives. Clear also emphasizes the power of environment and how we can design our surroundings to make good habits easier and bad habits more difficult to form.\n\nTo implement the learnings from \"Atomic Habits\" into our own lives, we can take the following actions:\n\n1.\n\nIdentify the habits we want to form or break\n\n2.\n\nStart small and focus on one habit at a time\n\n3.\n\nMake the habit specific and measurable\n\n4.\n\nDesign our environment to make the habit easier\n\n5.\n\nCreate a habit tracking system to monitor progress\n\n6.\n\nUse habit stacking to link new habits to existing ones\n\n7.\n\nMake the habit enjoyable by finding ways to make it fun\n\n8.\n\nStay committed by visualizing the benefits of the habit\n\n9.\n\nUse temptation bundling to make the habit more attractive\n\n10.\n\nCreate a plan for overcoming obstacles and setbacks\n\nBy applying these strategies, we can make significant improvements in our lives, build the habits we need to achieve our goals, and overcome the obstacles that have been holding us back. With \"Atomic Habits\" as our guide, we can become the best version of ourselves and unlock our full potential. So start small, stay consistent, and watch as your life transforms before your eyes."
+            ],
+            "audio": {
+              "size": 7223922,
+              "duration": 90000
             }
           }
       ]
     },
+    
     {
       "id": 4,
       "name": "4000 Wochen",
