@@ -510,6 +510,12 @@
       "audio",
       "society & culture"
     ],
+    "summary": "Becoming by Michelle Obama takes you on a personal and powerful journey, exploring her upbringing, time in the White House, and advocacy work.",
+    "author_name": "Michelle Obama",
+    "about_author": "Michelle Obama is a lawyer, writer, and advocate who served as the First Lady of the United States from 2009 to 2017. She is recognized for her work on issues such as healthy living, women's rights, and education.",
+    "subtitle": "",
+    "target_group": "This book is a perfect read for individuals who seek to gain insight into the life of one of the most influential women of our time. \n\n The book appeals to a wide range of readers, including those interested in politics, women's empowerment, and personal development.",
+    "book_link": "https://becomingmichelleobama.com",
     "content": [
       {
         "text": [
@@ -541,11 +547,6 @@
         },
         "image_count": 0
       }
-    ],
-    "crew": {
-      "authors": [
-        7
-      ]
-    }
+    ]
   }
 ]
