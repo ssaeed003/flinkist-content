@@ -1,0 +1,52 @@
+[
+    {
+
+      "category": 
+      [
+        {
+        "name": "personal development",
+        "icon": "https://github.com/ssaeed003/flinkist-content/blob/c954c8799d4a9f6e1f6411f3a01827347179feff/content/data/0/books/media/icons/Seeding.png"
+        }, 
+        {
+        "name": "communication",
+        "icon": "https://github.com/ssaeed003/flinkist-content/blob/c954c8799d4a9f6e1f6411f3a01827347179feff/content/data/0/books/media/icons/Message.png"
+        },
+        {
+        "name": "productivity",
+        "icon": "https://github.com/ssaeed003/flinkist-content/blob/c954c8799d4a9f6e1f6411f3a01827347179feff/content/data/0/books/media/icons/check.png"
+        }, 
+        {
+        "name": "career success",
+        "icon": "https://github.com/ssaeed003/flinkist-content/blob/c954c8799d4a9f6e1f6411f3a01827347179feff/content/data/0/books/media/icons/trophy.png"
+        }, 
+        {
+        "name": "entrepreneurship",
+        "icon": "https://github.com/ssaeed003/flinkist-content/blob/c954c8799d4a9f6e1f6411f3a01827347179feff/content/data/0/books/media/icons/Rocket.png"
+        },
+        {
+        "name": "economics",
+        "icon": "https://github.com/ssaeed003/flinkist-content/blob/c954c8799d4a9f6e1f6411f3a01827347179feff/content/data/0/books/media/icons/Graph_up.png"
+        },
+        {
+        "name": "technology & future",
+        "icon": "https://github.com/ssaeed003/flinkist-content/blob/c954c8799d4a9f6e1f6411f3a01827347179feff/content/data/0/books/media/icons/Tv.png"
+        },
+        {
+        "name": "psychology",
+        "icon": "https://github.com/ssaeed003/flinkist-content/blob/c954c8799d4a9f6e1f6411f3a01827347179feff/content/data/0/books/media/icons/Lightbulb_on.png"
+        },
+        {
+        "name": "society & culture",
+        "icon": "https://github.com/ssaeed003/flinkist-content/blob/c954c8799d4a9f6e1f6411f3a01827347179feff/content/data/0/books/media/icons/Users.png"
+        },
+        {
+        "name": "mindfulness & happiness",
+        "icon": "https://github.com/ssaeed003/flinkist-content/blob/c954c8799d4a9f6e1f6411f3a01827347179feff/content/data/0/books/media/icons/Emoji-smile-beam.png"
+        },
+        {
+        "name": "management & leadership",
+        "icon": "https://github.com/ssaeed003/flinkist-content/blob/c954c8799d4a9f6e1f6411f3a01827347179feff/content/data/0/books/media/icons/Dashboard.png"
+        }
+      ]
+    }
+]
