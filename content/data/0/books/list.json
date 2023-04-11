@@ -4,6 +4,8 @@
       "name": "Becoming",
       "create_date": 1661280621159,
       "tags": [
+         "text",
+          "audio",
         "personal development"
       ],
       "summary": "Becoming by Michelle Obama takes you on a personal and powerful journey, exploring her upbringing, time in the White House, and advocacy work.",
@@ -79,6 +81,8 @@
         "name": "Grit",
         "create_date": 1661280621159,
         "tags": [
+            "text",
+          "audio",
           "personal development",
           "productivity",
           "career & success"
@@ -215,6 +219,8 @@
         "name": "The Joy of Missing Out",
         "create_date": 1661280621159,
         "tags": [
+            "text",
+          "audio",
           "psychology", 
           "mindfulness & happiness"
         ],
@@ -327,6 +333,8 @@
       "name": "Atomic Habits",
       "create_date": 1661280621159,
       "tags": [
+          "text",
+          "audio",
         "personal development",
         "productivity"
       ],
@@ -431,6 +439,8 @@
       "name": "The 5 AM Club",
       "create_date": 1661280621159,
       "tags": [
+          "text",
+          "audio",
         "productivity", 
         "management & leadership",
         "personal development"
@@ -524,6 +534,8 @@
     "name": "Rich Dad, Poor Dad",
     "create_date": 1661280621159,
     "tags": [
+        "text",
+          "audio",
       "economics",
       "entrepreneurship"
     ],
@@ -634,6 +646,8 @@
     "name": "Breaking The Habit of Being Yourself",
     "create_date": 1661280621159,
     "tags": [
+        "text",
+          "audio",
       "psychology", 
       "personal development"
     ],
@@ -710,6 +724,8 @@
     "name": "Principles",
     "create_date": 1661280621159,
     "tags": [
+        "text",
+          "audio",
       "economics", 
       "management & leadership", 
       "personal development"
@@ -850,6 +866,8 @@
     "name": "12 Rules for Life",
     "create_date": 1661280621159,
     "tags": [
+        "text",
+          "audio",
       "psychology", 
       "personal development"
     ],
@@ -1008,6 +1026,8 @@
     "name": "Zero to One",
     "create_date": 1661280621159,
     "tags": [
+        "text",
+          "audio",
       "psychology", 
       "personal development"
     ],
@@ -1137,6 +1157,8 @@
         "name": "A Brief History of Time",
         "create_date": 1661280621159,
         "tags": [
+            "text", 
+          "audio",
           "technology & future"
         ],
         "summary": "The book A Brief History of Time (1988) is about the mysteries of the universe and Stephen Hawking's groundbreaking theories that revolutionized our understanding of space, time, and the cosmos. This captivating read takes readers on a journey through black holes, the Big Bang, and the nature of time itself, leaving us questioning everything we thought we knew about the universe.",
