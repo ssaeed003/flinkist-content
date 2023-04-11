@@ -1245,7 +1245,10 @@
               "size": 1214380,
               "duration": 151798
             }
-          },
+        }
+       ]
+    }, 
+          
           {
           "id": 11,
           "name": "The 7 Habits of Highly Effective People",
@@ -1347,8 +1350,10 @@
               "audio": {
                 "size": 1411030,
                 "duration": 176379
-              }
-            },
+            }
+        }
+       ]
+    }, 
               
             {
           "id": 12,
@@ -1483,7 +1488,6 @@
                 "duration": 172852
               }
             }
-          
         ]
       }
     ]
