@@ -1617,8 +1617,7 @@
     "name": "The Immortal Life of Henrietta Lacks",
     "create_date": 2010,
     "tags": [
-      "society & culture",
-      "science & medicine"
+      "society & culture"
     ],
     "summary": "The book The Immortal Life of Henrietta Lacks (2010) is about the true story of a woman named Henrietta Lacks, whose cancer cells were taken without her knowledge and used for medical research, ultimately leading to groundbreaking discoveries and treatments. The book dives into the ethical and moral implications of using tissue samples without consent and sheds light on the injustices faced by Henrietta and her family.",
     "author_name": "Rebecca Skloot",
@@ -1837,8 +1836,8 @@
     "name": "The Glass Castle",
     "create_date": 2005,
     "tags": [
-      "Society & culture",
-      "personal development."
+      "society & culture",
+      "personal development"
     ],
     "summary": "The book The Glass Castle (2005) is about a young girl named Jeannette Walls and her unconventional upbringing with her dysfunctional family. Walls tells a captivating story of resilience, love, and the power of the human spirit to overcome adversity and achieve greatness.",
     "author_name": "Jeannette Walls",
@@ -1923,7 +1922,8 @@
     "create_date": 2010,
     "tags": [
       "personal development",
-      "psychology"
+      "psychology",
+      "mindfulness & happiness"
     ],
     "summary": "The book The Gifts of Imperfection (2010) is about embracing our imperfect selves and living a wholehearted life. Bren\u00e9 Brown teaches us how to cultivate self-compassion, let go of perfectionism and embrace vulnerability to find true happiness and fulfillment.",
     "author_name": "Bren\u00e9 Brown",
@@ -2122,8 +2122,7 @@
     "name": "The Sixth Extinction",
     "create_date": 2014,
     "tags": [
-      "society & culture",
-      "ecology"
+      "society & culture"
     ],
     "summary": "The book The Sixth Extinction (2014) is about the alarming and devastating reality of human impact on our planet's biodiversity. Elizabeth Kolbert's captivating writing style takes us on a journey to understand how our actions are causing the sixth mass extinction, and what we can do to prevent it.",
     "author_name": "Elizabeth Kolbert",
@@ -2498,7 +2497,7 @@
     "create_date": 2009,
     "tags": [
       "personal development",
-      "mindfulness & happiness."
+      "mindfulness & happiness"
     ],
     "summary": "The book The Happiness Project (2009) is about Gretchen Rubin's personal journey to find happiness by implementing small, achievable changes in her daily life. Through her relatable anecdotes and practical advice, she inspires readers to also embark on their own happiness project and live a more fulfilling life.",
     "author_name": "Gretchen Rubin",
@@ -2633,7 +2632,7 @@
     "create_date": 2007,
     "tags": [
       "society & culture",
-      "economics."
+      "economics"
     ],
     "summary": "The book The Shock Doctrine (2007) is about how some powerful elites exploit natural disasters, wars, and economic crises to push their self-serving policies. Naomi Klein exposes how these crises are used as opportunities to impose radical free-market policies that benefit only a few, causing widespread suffering and inequality.",
     "author_name": "Naomi Klein",
