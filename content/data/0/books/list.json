@@ -5213,7 +5213,9 @@
     "id": 39,
     "name": "The Selfish Gene",
     "create_date": 1976,
-    "tags": [],
+    "tags": [
+    "society & culture"
+    ],
     "summary": "The book The Selfish Gene (1976) is about the fascinating idea that genes, not individuals, are the driving force behind evolution. Richard Dawkins argues that our genes act in their own self-interest, using us as vehicles to ensure their own survival and propagation.",
     "author_name": "Richard Dawkins",
     "about_author": "Richard Dawkins is a British evolutionary biologist, ethologist, and writer. He is known for his advocacy of atheism and his efforts to promote science education. Dawkins has been a professor at both Oxford and Cambridge universities and has received numerous awards for his contributions to science. He is a frequent commentator on issues related to evolution, religion, and ethics, and is often cited as one of the most influential intellectuals of our time.",
@@ -10251,7 +10253,9 @@
     "id": 95,
     "name": "A Short History of Nearly Everything",
     "create_date": 2003,
-    "tags": [],
+    "tags": [
+    "society & culture
+    ],
     "summary": "The book A Short History of Nearly Everything (2003) is about the most fascinating and mind-blowing stories of science and the universe, from the Big Bang to the smallest particle, told in an engaging and humorous way that will leave you in awe of the world we live in. Bill Bryson takes you on a journey through time and space, introducing you to the characters and discoveries that shaped our understanding of the world and everything in it.",
     "author_name": "Bill Bryson",
     "about_author": "Bill Bryson is an American-born author who has lived in both the United States and the United Kingdom. He is known for his witty and humorous writing style, often focusing on travel, history, and science. In addition to his writing, Bryson has also served as Chancellor of Durham University and President of the Campaign to Protect Rural England. He is a beloved figure in the literary world and has won numerous awards for his work.",
