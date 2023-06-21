@@ -9389,7 +9389,8 @@
         "name": "Sapiens",
         "create_date": 2011,
         "tags": [
-            "society & culture"
+            "society & culture",
+            "history"
         ],
         "summary": "The book Sapiens (2011) is about the journey of humankind from primitive, insignificant creatures to the most dominant species on the planet. Harari explores the various revolutions that shaped our history and challenges readers to question the myths and beliefs that define our society today.",
         "author_name": "Yuval Noah Harari",
@@ -9909,7 +9910,8 @@
         "create_date": 1687283281852,
         "Year": "2017",
         "tags": [
-            "mindfulness & happiness"
+            "mindfulness & happiness",
+            "religion & spirituality"
         ],
         "summary": "Why Buddhism is True focuses on the naturalistic aspects of Buddhism, exploring how its core ideas align with modern psychology and philosophy, and how these ideas can revolutionize one's view of themselves and the world. The book aims to demonstrate the validity of these core Buddhist ideas and their potential to bring about personal transformation and a clearer understanding of reality.",
         "author_name": "Robert Wright",
@@ -11193,7 +11195,7 @@
         ]
     },
     {
-        "id": 101,
+        "id": 256,
         "name": "Principles",
         "create_date": 1687288649387,
         "Year": "2017",
