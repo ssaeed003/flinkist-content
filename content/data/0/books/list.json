@@ -17248,7 +17248,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 660,
@@ -17386,7 +17386,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 659,
@@ -17514,7 +17514,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1939,
@@ -17602,7 +17602,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1954,
@@ -17680,7 +17680,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1956,
@@ -17768,7 +17768,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1972,
@@ -17856,7 +17856,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1969,
@@ -17964,7 +17964,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1493,
@@ -18112,7 +18112,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 2018,
@@ -18220,7 +18220,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 2016,
@@ -18348,7 +18348,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 2012,
@@ -18466,7 +18466,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 2009,
@@ -18554,7 +18554,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1998,
@@ -18632,7 +18632,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1995,
@@ -18730,7 +18730,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1994,
@@ -18818,7 +18818,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1976,
@@ -18906,7 +18906,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1964,
@@ -18994,7 +18994,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1963,
@@ -19082,7 +19082,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1961,
@@ -19190,7 +19190,7 @@
                 }
             }
         ],
-        "new_status": true
+        "new_status": false
     },
     {
         "id": 1958,
@@ -19305,6 +19305,104 @@
                 "audio": {
                     "size": 1526282,
                     "duration": 127190
+                }
+            }
+        ],
+        "new_status": false
+    },
+    {
+        "id": 2055,
+        "name": "Damit habe ich nicht gerechnet",
+        "create_date": 1688551783926,
+        "Year": "2020",
+        "tags": [
+            "motivation & inspiration",
+            "personal development",
+            "german"
+        ],
+        "summary": "Didn't See That Coming handelt von der Bew\u00e4ltigung von Krisen und Trauer und bietet Anleitung und Ratschl\u00e4ge, wie man in schwierigen Zeiten Heilung und Kraft finden kann.",
+        "author_name": "Rachel Hollis",
+        "about_author": "Rachel Hollis ist eine amerikanische Motivationsrednerin, Bloggerin und Unternehmerin. Sie erlangte weitreichende Anerkennung f\u00fcr ihren offenen und ermutigenden Ansatz zur pers\u00f6nlichen Entwicklung und inspirierte Millionen von Menschen dazu, ihre Ziele zu verfolgen und ihr bestes Leben zu leben.",
+        "subtitle": "Das Leben wieder in Ordnung bringen, wenn die Welt auseinanderf\u00e4llt",
+        "target_group": "Die Zielgruppe von \"Didn't See That Coming\" sind Menschen, die in ihrem Leben gro\u00dfe Herausforderungen, Krisen oder Trauer erlebt haben und Rat suchen, wie sie diese schwierigen Situationen meistern k\u00f6nnen.",
+        "book_link": "https://www.amazon.de/Didnt-See-That-Coming-Together/dp/B087D6YQ9S/ref=sr_1_1?keywords=9780063010543&qid=1686398397&sr=8-1/?tag=snackzai-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Die Annahme Ihrer neuen Identit\u00e4t f\u00f6rdert Ihr pers\u00f6nliches Wachstum und Ihre Selbsterkenntnis und gibt Ihnen die M\u00f6glichkeit, sich von Erwartungen zu l\u00f6sen und ein authentisches Leben zu f\u00fchren.",
+                "text": [
+                    "Die Identifizierung des neuen Ichs ist ein entscheidender Schritt f\u00fcr pers\u00f6nliches Wachstum und Selbsterkenntnis, insbesondere nach bedeutenden Lebensver\u00e4nderungen. Wenn Sie Ihre neue Identit\u00e4t annehmen und anerkennen, k\u00f6nnen Sie die Wahrheit \u00fcber Ihr vergangenes und gegenw\u00e4rtiges Selbst akzeptieren und gleichzeitig den Mut haben, nach vorne zu schauen.\n\nEine M\u00f6glichkeit, Ihre neue Identit\u00e4t anzunehmen, besteht darin, jeden Tag Ihre Wahrheit zu sagen. Dies k\u00f6nnen Sie tun, indem Sie sich eingestehen, wer Sie sind, auch wenn Sie es zun\u00e4chst nur sich selbst gegen\u00fcber tun. Wenn Sie beispielsweise eine Ver\u00f6ffentlichung anstreben, k\u00f6nnen Sie ein Armband mit der Anzahl der W\u00f6rter Ihres Manuskripts tragen, das Sie t\u00e4glich an Ihr Ziel und die erzielten Fortschritte erinnert. Dieser kleine Akt der Selbstbest\u00e4tigung kann Ihnen helfen, sich auf Ihre neue Identit\u00e4t und das Wachstum, das Sie erleben, zu konzentrieren.\n\nEin weiterer wichtiger Aspekt bei der Identifizierung des neuen Ichs ist das Erkennen der Identit\u00e4ten, die Sie aufgrund der Menschen tragen, die sie Ihnen gegeben haben. Es ist wichtig, die Bereiche in Ihrem Leben zu untersuchen, in denen Sie Grenzen aufgel\u00f6st haben, um f\u00fcr andere da zu sein - auf Kosten Ihrer selbst. Indem Sie sich entscheiden, welche Identit\u00e4t Sie in Zukunft w\u00e4hlen werden, k\u00f6nnen Sie Ihr Selbstgef\u00fchl zur\u00fcckgewinnen und ein authentischeres Leben f\u00fchren.\n\nEin eindrucksvolles Beispiel f\u00fcr die Annahme einer neuen Identit\u00e4t stammt von einer Frau, die Mutter, Ehefrau und Inhaberin eines Kleinunternehmens war, sich aber zutiefst ungl\u00fccklich f\u00fchlte. Sie erkannte, dass sie f\u00fcr mehr geschaffen war als nur f\u00fcr das Leben, das sie gew\u00e4hlt hatte, aber sie verstand auch, dass die Menschen in ihrem Umfeld ihren Wunsch nach Wachstum nicht verstehen w\u00fcrden. Indem sie ihre neue Identit\u00e4t anerkannte und ihre Tr\u00e4ume verfolgte, konnte sie sich von den Erwartungen anderer befreien und ein erf\u00fcllteres Leben f\u00fchren.\n\nZusammenfassend l\u00e4sst sich sagen, dass die Identifizierung des neuen Ichs ein wichtiger Schritt f\u00fcr pers\u00f6nliches Wachstum und Selbsterkenntnis ist. Indem Sie Ihre neue Identit\u00e4t annehmen und anerkennen, k\u00f6nnen Sie die Wahrheit \u00fcber Ihr vergangenes und gegenw\u00e4rtiges Selbst akzeptieren und gleichzeitig den Mut haben, nach vorne zu schauen. Dieser Prozess beinhaltet, dass Sie Ihre Wahrheit aussprechen, die Identit\u00e4ten erkennen, die Sie aufgrund von anderen tragen, und sich bewusst f\u00fcr Ihren eigenen Weg entscheiden."
+                ],
+                "audio": {
+                    "size": 1802762,
+                    "duration": 150230
+                }
+            },
+            {
+                "chapter_summary": "Eine wachstumsorientierte Denkweise f\u00f6rdert die Widerstandsf\u00e4higkeit und die Selbstverbesserung und erm\u00f6glicht ein erf\u00fcllteres Leben.",
+                "text": [
+                    "Eine wachstumsorientierte Denkweise ist die \u00dcberzeugung, dass Sie im Laufe Ihres Lebens neue Talente entwickeln, neue F\u00e4higkeiten erlernen, mehr Wissen erwerben und Ihre F\u00e4higkeiten verbessern k\u00f6nnen. Im Gegensatz dazu ist eine fixe Denkweise die \u00dcberzeugung, dass Ihre Talente, F\u00e4higkeiten, Kenntnisse und Fertigkeiten feststehen und nicht ver\u00e4ndert werden k\u00f6nnen. Ihre Denkweise spielt eine entscheidende Rolle dabei, wie Sie Herausforderungen, Lernen und Selbstverbesserung angehen.\n\nEin Beispiel f\u00fcr die Kraft einer wachstumsorientierten Denkweise ist die Geschichte von Dave, der die meiste Zeit seines Lebens mit einer fixen Denkweise verbracht hat. Er glaubte, dass seine F\u00e4higkeiten durch das, was er bereits in sich trug, begrenzt waren. Nachdem er jedoch Carol Dwecks Buch \"Mindset\" gelesen hatte, arbeitete er jahrelang aktiv daran, seine Einstellung zu \u00e4ndern und die Idee anzunehmen, dass er wachsen und sich verbessern kann. Seine Frau Rachel hingegen hatte immer eine wachstumsorientierte Einstellung und glaubte, dass sie alles erreichen kann, wenn sie sich nur genug anstrengt.\n\nDer Unterschied zwischen einer fixen und einer wachstumsorientierten Denkweise l\u00e4sst sich anhand der Analogie von ungeformtem Ton veranschaulichen. Eine wachstumsorientierte Denkweise ist wie Lehm, der geformt und in verschiedene Formen gebracht werden kann und sich st\u00e4ndig ver\u00e4ndert und weiterentwickelt. Eine fixe Denkweise hingegen ist wie Lehm, der nicht anger\u00fchrt wurde und ausgetrocknet ist, wodurch er spr\u00f6de und unver\u00e4nderlich wird.\n\nDie Entwicklung einer wachstumsorientierten Denkweise kann zu gr\u00f6\u00dferer Widerstandsf\u00e4higkeit, Selbstverbesserung und einer positiveren Lebensperspektive f\u00fchren. Wenn Sie sich die Idee zu eigen machen, dass Sie wachsen und sich ver\u00e4ndern k\u00f6nnen, k\u00f6nnen Sie Herausforderungen und R\u00fcckschl\u00e4ge besser bew\u00e4ltigen. Um eine wachstumsorientierte Denkweise zu kultivieren, ist es wichtig, sich mit positiven Einfl\u00fcssen zu umgeben, neue Erfahrungen zu machen und sich selbst herauszufordern, zu lernen und zu wachsen.\n\nZusammenfassend l\u00e4sst sich sagen, dass eine wachstumsorientierte Denkweise Ihre F\u00e4higkeit, sich zu verbessern und Herausforderungen im Leben zu meistern, erheblich beeinflussen kann. Wenn Sie an Ihre F\u00e4higkeit zu lernen und zu wachsen glauben, k\u00f6nnen Sie Widerstandsf\u00e4higkeit und eine positivere Perspektive entwickeln, was letztendlich zu einem erf\u00fcllteren und erfolgreicheren Leben f\u00fchrt."
+                ],
+                "audio": {
+                    "size": 1744771,
+                    "duration": 145398
+                }
+            },
+            {
+                "chapter_summary": "Mutig zu sein bedeutet, \u00c4ngste zu erkennen, von den Erfolgen anderer zu lernen und schrittweise Schritte in Richtung Wachstum und Selbstvertrauen zu unternehmen.",
+                "text": [
+                    "Mut ist nicht die Abwesenheit von Angst, sondern die Entschlossenheit, trotz Angst voranzugehen. Um Ihren Mut zu z\u00fcgeln, m\u00fcssen Sie zun\u00e4chst Ihre \u00c4ngste und Hindernisse erkennen und sich dann erreichbare Ziele setzen, um sie zu \u00fcberwinden. Indem Sie in kleinen Schritten vorankommen, st\u00e4rken Sie Ihr Selbstvertrauen und Ihre Entschlossenheit, sich auch gr\u00f6\u00dferen Herausforderungen zu stellen.\n\nEine M\u00f6glichkeit, den eigenen Mut zu st\u00e4rken, besteht darin, die Geschichten anderer zu studieren, die vor \u00e4hnlichen Herausforderungen standen und siegreich daraus hervorgingen. Die Lekt\u00fcre der Erfahrungen erfolgreicher Unternehmer, inspirierender Eltern oder historischer Pers\u00f6nlichkeiten, die f\u00fcr ihre \u00dcberzeugungen gek\u00e4mpft haben, kann wertvolle Einblicke und Motivation liefern. Die Geschichten von Sojourner Truth, Harriet Tubman, Benazir Bhutto und Sacagawea zeigen zum Beispiel, wie Frauen Verlust, Herzschmerz und Trauer \u00fcberwunden haben, um weltver\u00e4ndernde Leistungen zu vollbringen.\n\nEine weitere Strategie besteht darin, sich seinen \u00c4ngsten direkt zu stellen. Wenn Sie Ihre \u00c4ngste aufschreiben und einen Fahrplan f\u00fcr ihre \u00dcberwindung erstellen, k\u00f6nnen Sie sich st\u00e4rker f\u00fchlen. Indem Sie sich selbst Fragen stellen und diese beantworten, k\u00f6nnen Sie das Unbekannte besser verstehen und die Macht der Angst verringern.\n\nSich erreichbare Ziele zu setzen und diese sofort zu verfolgen, kann Ihnen ebenfalls helfen, Ihren Mut zu z\u00fcgeln. Indem Sie sich auf Wachstum und Fortschritt konzentrieren, k\u00f6nnen Sie einen Sinn in der Verfolgung Ihrer Ziele finden und nicht nur in der Erreichung selbst. Dieser Ansatz kann zu mehr Selbstvertrauen und einer st\u00e4rkeren Grundlage f\u00fcr k\u00fcnftigen Erfolg f\u00fchren.\n\nZusammenfassend l\u00e4sst sich sagen, dass Sie Ihren Mut z\u00fcgeln m\u00fcssen, indem Sie Ihre \u00c4ngste erkennen, sich erreichbare Ziele setzen und kleine Schritte unternehmen, um Hindernisse zu \u00fcberwinden. Indem Sie die Geschichten anderer studieren, sich Ihren \u00c4ngsten stellen und sich auf Wachstum und Fortschritt konzentrieren, k\u00f6nnen Sie Selbstvertrauen und Entschlossenheit aufbauen, um sich noch gr\u00f6\u00dferen Herausforderungen zu stellen."
+                ],
+                "audio": {
+                    "size": 1551987,
+                    "duration": 129332
+                }
+            },
+            {
+                "chapter_summary": "Finanzielle Ehrlichkeit und Realismus f\u00f6rdern das pers\u00f6nliche Wachstum und die Widerstandsf\u00e4higkeit in schwierigen Zeiten.",
+                "text": [
+                    "Finanzielle Stabilit\u00e4t und Ehrlichkeit in Bezug auf die eigene finanzielle Situation sind entscheidend f\u00fcr pers\u00f6nliches Wachstum und Widerstandsf\u00e4higkeit in schwierigen Zeiten. Wenn Sie realistisch sind und sich Ihrer finanziellen Situation bewusst sind, k\u00f6nnen Sie fundierte Entscheidungen treffen und Ihr Leben selbst in die Hand nehmen. Es ist wichtig, sich der finanziellen Realit\u00e4t zu stellen, egal wie unangenehm sie auch sein mag, und die Verantwortung f\u00fcr das eigene finanzielle Wohlergehen zu \u00fcbernehmen.\n\nEin Beispiel daf\u00fcr, wie wichtig finanzielle Ehrlichkeit und Realismus sind, ist die Geschichte eines Gesch\u00e4ftsinhabers, der 2008 mit dem wirtschaftlichen Abschwung konfrontiert war. Er musste harte Entscheidungen treffen, wie z. B. Personalabbau und Ausgabenk\u00fcrzungen, um sein Unternehmen \u00fcber Wasser zu halten. Indem er sich der finanziellen Realit\u00e4t stellte und die notwendigen Anpassungen vornahm, konnte der Gesch\u00e4ftsinhaber den Sturm \u00fcberstehen und das Unternehmen schlie\u00dflich wieder aufbauen.\n\nEin weiteres Beispiel ist die Geschichte einer Frau, die drei Jobs annehmen musste, um \u00fcber die Runden zu kommen, nachdem sie von zu Hause weggezogen war. Sie beschloss, sich auf ihre gegenw\u00e4rtige Situation zu konzentrieren und ihre Finanzen in den Griff zu bekommen, anstatt sich mit der Vergangenheit zu befassen oder sich Sorgen \u00fcber die Zukunft zu machen. Mit dieser Einstellung konnte sie Stabilit\u00e4t finden und schlie\u00dflich finanzielle Freiheit erreichen.\n\nUm Ihre finanzielle Gesundheit zu verbessern, sollten Sie zun\u00e4chst Ihre aktuelle finanzielle Situation bewerten, ohne dabei Vermutungen oder Annahmen anzustellen. Schauen Sie sich Ihre Kontoausz\u00fcge, Pensionsfonds und andere Finanzdokumente an, um sich ein klares Bild von Ihrer finanziellen Situation zu machen. Erstellen Sie ein Budget und streichen Sie unn\u00f6tige Ausgaben, um sicherzustellen, dass Sie ein finanzielles Polster f\u00fcr Notf\u00e4lle oder unerwartete Ereignisse haben.\n\nZiehen Sie au\u00dferdem in Erw\u00e4gung, sich von Finanzberatern oder Bildungseinrichtungen beraten zu lassen, damit Sie Ihre Finanzen effektiv verwalten k\u00f6nnen. Denken Sie daran, dass finanzielles Wissen erlernt werden kann, und wenn Sie Ihre finanzielle Situation in den Griff bekommen, haben Sie den Freiraum und die Freiheit, sich in schwierigen Zeiten zu erholen und zu wachsen. Wenn Sie ehrlich und realistisch mit Ihren Finanzen umgehen, k\u00f6nnen Sie fundierte Entscheidungen treffen und die Verantwortung f\u00fcr Ihr finanzielles Wohlergehen \u00fcbernehmen, was letztendlich zu einem widerstandsf\u00e4higeren und selbstbewussteren Leben f\u00fchrt."
+                ],
+                "audio": {
+                    "size": 1822198,
+                    "duration": 151850
+                }
+            },
+            {
+                "chapter_summary": "Entwickeln Sie Resilienz in widrigen Umst\u00e4nden, indem Sie sich bewusst f\u00fcr Freude entscheiden, Dankbarkeit \u00fcben und kleine Gl\u00fccksmomente in den Alltag einbauen.",
+                "text": [
+                    "Sich f\u00fcr die Freude zu entscheiden, auch wenn das Leben beschissen ist, ist ein wirksamer Ansatz, um schwierige Zeiten zu \u00fcberwinden. Dabei geht es darum, sich auf die kleinen Dinge zu konzentrieren, die Gl\u00fcck bringen, und sie in den Alltag einzubauen. Indem Sie sich in Dankbarkeit \u00fcben und Freude in kleinen Momenten suchen, k\u00f6nnen Sie Ihre Perspektive \u00e4ndern und die guten Dinge im Leben sch\u00e4tzen, auch in schwierigen Zeiten.\n\nEine M\u00f6glichkeit, Freude zu kultivieren, besteht darin, eine t\u00e4gliche Dankbarkeits\u00fcbung zu machen. Schreiben Sie jeden Tag mindestens f\u00fcnf Dinge auf, f\u00fcr die Sie dankbar sind, und konzentrieren Sie sich dabei auf kleine, besondere Momente, die in den letzten 24 Stunden geschehen sind. Diese Praxis ermutigt Sie dazu, die positiven Aspekte Ihres Lebens zu suchen und zu sch\u00e4tzen, auch wenn die Zeiten schwierig sind.\n\nEin anderer Ansatz ist die Erstellung einer Freudenliste, die Aktivit\u00e4ten und Erfahrungen enth\u00e4lt, die Sie gl\u00fccklich machen. Diese k\u00f6nnen von einfachen Vergn\u00fcgungen wie einer gem\u00fctlichen Tasse Kaffee mit Aussicht bis hin zu bedeutenderen Ereignissen wie Auslandsreisen reichen. Das Wichtigste ist, dass Sie leicht erreichbare Dinge in Ihren Alltag einbauen k\u00f6nnen. Indem Sie diese freudigen Aktivit\u00e4ten in Ihren Tag einplanen, r\u00e4umen Sie Ihrem Gl\u00fcck Priorit\u00e4t ein und schaffen ein Gef\u00fchl der Ausgeglichenheit inmitten der Herausforderungen, denen Sie gegen\u00fcberstehen.\n\nIn schwierigen Zeiten ist es wichtig, dass Sie sich mit positiven Einfl\u00fcssen und Perspektiven umgeben. Halten Sie Ausschau nach Lehrern, Schriftstellern, K\u00fcnstlern und Rednern, die \u00e4hnliche Situationen durchlebt haben oder die Perspektive haben, die Sie sich w\u00fcnschen. Indem Sie Ihr Bewusstsein mit Positivit\u00e4t und Licht f\u00fcllen, erinnern Sie sich daran, dass das Leben voller guter Dinge ist, auch in schlechten Zeiten.\n\nDie Entscheidung f\u00fcr Freude ist eine bewusste Entscheidung, die Mut und Entschlossenheit erfordert. Indem Sie sich auf die kleinen Dinge konzentrieren, die Ihnen Gl\u00fcck bringen, Dankbarkeit \u00fcben und Freude in Ihren Tagesablauf einplanen, k\u00f6nnen Sie Widerstandsf\u00e4higkeit aufbauen und St\u00e4rke im Angesicht von Widrigkeiten finden. Denken Sie daran, dass es m\u00f6glich ist, sowohl Freude als auch Schmerz gleichzeitig zu empfinden; verdr\u00e4ngen Sie nicht das eine, nur weil Sie das andere f\u00fchlen."
+                ],
+                "audio": {
+                    "size": 1701825,
+                    "duration": 141819
+                }
+            },
+            {
+                "chapter_summary": "Wenn Sie sich Ihre Zukunft mit einer positiven Erz\u00e4hlung und sinnvollen Zielen neu vorstellen, k\u00f6nnen Sie die Unw\u00e4gbarkeiten des Lebens mit Hoffnung und Zielstrebigkeit meistern.",
+                "text": [
+                    "Bei der Neuplanung Ihrer Zukunft geht es darum, ein positives Narrativ zu entwickeln und sich eine sch\u00f6ne Vision Ihres Lebens vorzustellen, selbst wenn Sie mit Schwierigkeiten und Ungewissheiten konfrontiert sind. Dieser Prozess erm\u00f6glicht es Ihnen, Ihre Vorstellungskraft und Ihre Hoffnung anzuzapfen, eine Welt der M\u00f6glichkeiten zu er\u00f6ffnen und Ihnen eine Richtung zu geben.\n\nEine wirkungsvolle Methode, sich Ihre Zukunft neu vorzustellen, ist das Aufschreiben Ihrer Gedanken und Tagtr\u00e4ume. Diese \u00dcbung hilft Ihnen, Ihre Ideen herauszukristallisieren und gibt Ihnen eine zielgerichtete Richtung vor, auf die Sie zusteuern k\u00f6nnen. Sie kann auch \u00c4ngste lindern, die durch Fragen wie \"Was jetzt?\" oder \"Werde ich jemals wieder gl\u00fccklich sein?\" entstehen. Indem Sie eine Erz\u00e4hlung erstellen, die eine sch\u00f6ne Vision Ihrer Zukunft zeigt, beantworten Sie diese Fragen und bringen den L\u00e4rm in Ihrem Kopf zum Schweigen.\n\nEin weiterer wichtiger Aspekt bei der Neugestaltung Ihrer Zukunft ist das Setzen von Zielen, die Ihnen wirklich am Herzen liegen. Diese Ziele k\u00f6nnen sich auf pers\u00f6nliches Wachstum, Beziehungen oder jeden anderen Aspekt Ihres Lebens beziehen. Die Verfolgung dieser Ziele kann Ihnen ein Gef\u00fchl von Sinn und Erf\u00fcllung vermitteln, noch bevor Sie sie erreicht haben. Sobald Sie Fortschritte sehen, wird das Selbstvertrauen, das Sie aus Ihren Erfolgen sch\u00f6pfen, als Grundlage daf\u00fcr dienen, dass Sie der Vision, die Sie f\u00fcr sich selbst entworfen haben, n\u00e4her kommen.\n\nEin eindrucksvolles Beispiel daf\u00fcr, wie Sie Ihre Zukunft neu gestalten k\u00f6nnen, ist die Geschichte einer Frau, die w\u00e4hrend der COVID-19-Pandemie ihren Arbeitsplatz verlor. Anstatt sich mit ihrem Verlust abzufinden, nutzte sie die Gelegenheit, um sich einen neuen Karriereweg auszumalen, der mit ihren Leidenschaften und Werten \u00fcbereinstimmte. Sie setzte sich Ziele, verfolgte sie mit Entschlossenheit und fand schlie\u00dflich eine erf\u00fcllende T\u00e4tigkeit in einer v\u00f6llig anderen Branche.\n\nZusammenfassend l\u00e4sst sich sagen, dass man sich seine Zukunft neu vorstellen muss, indem man sich eine positive Geschichte ausdenkt und sich sinnvolle Ziele setzt. Dieser Prozess kann Ihnen Hoffnung, Orientierung und ein Gef\u00fchl der Zielstrebigkeit geben, selbst im Angesicht von Widrigkeiten. Wenn Sie sich diese Denkweise zu eigen machen, k\u00f6nnen Sie eine sch\u00f6ne Vision Ihrer Zukunft schaffen und die Kontrolle dar\u00fcber \u00fcbernehmen, wie Sie sich im Leben bewegen."
+                ],
+                "audio": {
+                    "size": 1724082,
+                    "duration": 143674
+                }
+            },
+            {
+                "text": [
+                    "In \"Didn't See That Coming\" teilt Rachel Hollis ihre Erfahrungen und Erkenntnisse dar\u00fcber, wie man durch die schwierigsten Momente des Lebens navigiert und angesichts von Widrigkeiten Resilienz findet. Sie bietet praktische Ratschl\u00e4ge und Ermutigung, um den Lesern zu helfen, ihr Leben nach Verlust, Trauer und unerwarteten Ver\u00e4nderungen wieder aufzubauen.\n\n1.   Identifizieren Sie Ihr neues Ich: Akzeptieren Sie die Ver\u00e4nderungen in Ihrem Leben und nehmen Sie Ihre neue Identit\u00e4t an. Das wird Ihnen helfen, voranzukommen und sich an Ihre neuen Umst\u00e4nde anzupassen.\n2.   H\u00f6ren Sie auf, Ihr Leid in Frage zu stellen: Akzeptieren Sie, dass Schmerz und Leid ein Teil des Lebens sind, und konzentrieren Sie sich darauf, in diesen Erfahrungen Sinn und Wachstum zu finden.\n3.   Lassen Sie Ihre Schuldgef\u00fchle los: Lassen Sie alle Schuldgef\u00fchle los, an denen Sie festhalten, denn sie k\u00f6nnen Sie daran hindern, zu heilen und weiterzukommen.\n4.   Versuchen Sie, eine andere Perspektive einzunehmen: \u00c4ndern Sie Ihre Denkweise und betrachten Sie verschiedene Perspektiven, um ein besseres Verst\u00e4ndnis Ihrer Situation zu erlangen und neue L\u00f6sungen zu finden.\n5.   \u00c4ndern Sie Ihre Einstellung zur Besserung: Glauben Sie an Ihre F\u00e4higkeit, zu heilen und sich zu verbessern, und arbeiten Sie aktiv an Ihrer Genesung.\n6.   Hacken Sie Ihren Mut: St\u00e4rken Sie Ihren Mut, indem Sie von anderen lernen, kleine Schritte machen und sich in Selbstmitgef\u00fchl \u00fcben.\n7.   Show Up : Seien Sie in Ihrem Leben pr\u00e4sent und engagiert, auch wenn es schwierig ist. Dies wird Ihnen helfen, Ihre Widerstandsf\u00e4higkeit zu st\u00e4rken und inmitten von Herausforderungen Freude zu finden.\n8.   Seien Sie realistisch, was Ihre Finanzen angeht: Stellen Sie sich Ihrer finanziellen Situation und treffen Sie fundierte Entscheidungen, um Ihre Zukunft zu sichern.\n9.   Lassen Sie sich von der Widerstandsf\u00e4higkeit \u00fcberraschen: Vertrauen Sie auf Ihre F\u00e4higkeit, sich von Widrigkeiten zu erholen und dadurch st\u00e4rker zu werden.\n10.   Entscheiden Sie sich f\u00fcr die Freude, auch wenn das Leben beschissen ist: Bem\u00fchen Sie sich bewusst darum, Gl\u00fcck und Dankbarkeit in Ihrem Leben zu finden, auch in schwierigen Zeiten."
+                ],
+                "audio": {
+                    "size": 1676748,
+                    "duration": 139729
                 }
             }
         ],
