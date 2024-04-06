@@ -96446,10 +96446,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2920,
         "name": "Mixed Signals",
-        "create_date": 1711464123846,
+        "create_date": 1711464123847,
         "Year": "2022",
         "tags": [
             "psychology",
@@ -98430,6 +98430,204 @@
                 "audio": {
                     "size": 2706703,
                     "duration": 169169
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2934,
+        "name": "The 4-Hour Workweek",
+        "create_date": 1712426244362,
+        "Year": "2007",
+        "tags": [
+            "motivation & inspiration",
+            "entrepreneurship",
+            "english"
+        ],
+        "summary": "This book offers a new and field-tested approach to living an enjoyable and balance life. Timothy Ferriss outlines how to outsource your life and how to eliminate 50% of your work in 48 hours using the principles of a forgotten Italian economist, and many more.",
+        "author_name": "Timothy Ferriss",
+        "about_author": "Timothy Ferriss, nominated as one of Fast Company’s 'Most Innovative Business People of 2007', is an angel investor and speaks six languages. He runs a multinational firm from wireless locations worldwide and has been a popular guest lecturer at Princeton University since 2003, where he presents entrepreneurship as a tool for ideal lifestyle design and world change.",
+        "subtitle": "Escape 9–5, Live Anywhere, and Join the New Rich",
+        "target_group": "'The 4-Hour Workweek' is aimed at employees who want to create a more enjoyable work-life balance, entrepreneurs seeking inspiration for innovative business strategies, or anyone looking for practical advice on how to make life more fulfilling.",
+        "book_link": "https://www.amazon.de/-/en/Timothy-Ferriss/dp/0091929113/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Tim Ferriss promotes lifestyle design, challenging traditional work and retirement norms.",
+                "text": [
+                    "Tim Ferriss transitioned from enduring long, stressful workdays at a job he hated to enjoying a life of luxury and freedom. He managed this radical change by adopting a set of unique rules. Ferriss starts his journey by aiming to compete in the Tango World Championship with just five months of practice, demonstrating his ability to quickly master new skills. He shares how he moved from being overworked and underpaid to working minimally yet making significantly more.\n\nHe introduces Lifestyle Design, which is about leveraging time, mobility, and income to build your dream life immediately, instead of waiting for retirement. Ferriss challenges traditional notions about work and retirement, urging people to recognize opportunities that others overlook. He details how to navigate and renegotiate the norms of society to your advantage without crossing ethical lines."
+                ],
+                "audio": {
+                    "size": 948767,
+                    "duration": 59298
+                }
+            },
+            {
+                "chapter_summary": "The New Rich prioritize freedom and experience over wealth, favoring unconventional, fulfilling lives.",
+                "text": [
+                    "The pursuit of wealth often leads people down the wrong path. Those who focus solely on making money tend to work constantly, neglecting their health, relationships and personal growth.\n\nThe New Rich reject this narrow definition of success. Instead, they focus on gaining options and freedom through minimal effort. Their goal is to live life on their own terms by building streams of passive income. With ingenuity and lateral thinking, the New Rich distribute \"mini-retirements\" throughout life. They recognize that inactivity is not the goal - doing what excites you is.\n\nThe New Rich measure life's richness through experience, not possessions. They are not bound by traditional choices and make unconventional decisions, like the Olympic skier who moved to train in Australia. Or the couple with three kids who sold their belongings to sail around the world for a year.\n\nThe New Rich have the flexibility to pursue their dreams without sacrificing health or relationships. They thrive by rewriting the rules and rejecting the defer-life plan. It begins by changing your mindset. Focus on gaining freedom, not just making money. With flexibility and creativity, you can live life to the fullest right now."
+                ],
+                "audio": {
+                    "size": 1266834,
+                    "duration": 79177
+                }
+            },
+            {
+                "chapter_summary": "Challenging traditional success, mini-retirements and beneficial stress prompt fulfilling, self-determined life.",
+                "text": [
+                    "This perspective questions the traditional view of success, which suggests working hard for years to enjoy retirement, by pointing out that retirement might not be achievable or satisfying for everyone.\n\nInstead, it proposes the idea of taking multiple \"mini-retirements\" throughout life to explore interests, learn new skills, and have adventures. The focus should be on leveraging strengths rather than fixing weaknesses.\n\nWhen trying new things, it's better to ask for forgiveness afterward than to wait for permission beforehand, and waiting for the perfect time often leads to missed opportunities. Money isn't the key to happiness; rather, living with purpose is. It's important to differentiate between distress, which is harmful, and eustress, which can be beneficial, to avoid burnout. \n\nThe overarching message is to challenge conventional wisdom and live by one's own rules."
+                ],
+                "audio": {
+                    "size": 919092,
+                    "duration": 57443
+                }
+            },
+            {
+                "chapter_summary": "Hans Keeling's transformative paragliding trip ignited risk-taking and adventure entrepreneurship.",
+                "text": [
+                    "Hans Keeling's journey starts in a dull corporate job but takes an exciting twist during a paragliding trip in Rio de Janeiro. This experience nudged him into re-evaluating his life and encouraged him to take risks he had previously shied away from. Coming face to face with what he called his \"nightmare scenario\" helped him move past the stage of overthinking. \n\nIn doing so, he found that the worst possible outcome of his decision wasn’t as horrible as he suspected, but, on the contrary, it was inertia that presented the most significant risk. This realization prompted him to establish his adventure company, Nexus Surf. He stepped out of his comfort zone and started leading his life according to his terms.\n\nIt's often that fear hides behind a guise of hopeful denial or acts as a reason to delay a decisive step. To overcome this, it's essential to identify these fears, brace for the worst-case scenario, and have the determination to proceed regardless of uneasiness."
+                ],
+                "audio": {
+                    "size": 1017730,
+                    "duration": 63608
+                }
+            },
+            {
+                "chapter_summary": "Dreamlining transforms ambitious, daunting goals into attainable targets through strategic planning.",
+                "text": [
+                    "Setting modest goals leads to a dull life, advocating instead for ambitious, seemingly unreachable goals. These lofty goals push individuals out of their comfort zones, ignite excitement, and face less competition, making them paradoxically more attainable.\n\nThe author introduces \"dreamlining,\" a method to outline major aspirations within six to twelve months in three areas: possessions, personal growth, and experiences. By choosing the four most thrilling dreams and calculating the necessary income to achieve them, individuals can set clear targets. The process includes breaking down these dreams into initial actionable steps and tackling the first step immediately.\n\nThrough facing challenges that induce discomfort, one builds the confidence needed for such ambitious pursuits. Extraordinary goals, though seemingly impractical, are within reach through strategic planning and bold action, transforming the impossible into achievable."
+                ],
+                "audio": {
+                    "size": 1061616,
+                    "duration": 66351
+                }
+            },
+            {
+                "chapter_summary": "Effective time management optimizes productive tasks, curtails multitasking, and fosters focused action.",
+                "text": [
+                    "The key to time management is focusing on the vital few tasks that produce the most results. This follows the 80/20 principle, which states that 80% of outputs result from 20% of inputs. To maximize productivity, identify the 20% of tasks that contribute 80% of your desired outcomes and prioritize those. Eliminate or outsource the rest. \n\nParkinson's Law also applies - work expands to fill the time allotted. By setting tight deadlines for your key tasks, you create focus and urgency to take action on what's truly important. Ask yourself daily if you're being productive or just active, and cut out time-wasting activities. Reduce your work hours and you'll get more done in less time.\n\nSurround yourself with positive, high-achieving people and limit time with those who waste your time or drain your energy. Refuse to multitask - it just reduces concentration. Instead, focus on one task at a time. Propose solutions instead of asking for input to speed decision making. Follow these principles to gain more free time while boosting results."
+                ],
+                "audio": {
+                    "size": 1237577,
+                    "duration": 77349
+                }
+            },
+            {
+                "chapter_summary": "Selective ignorance promotes focus and productivity by limiting trivial information intake.",
+                "text": [
+                    "In today's fast-paced world, we're drowning in low-quality information that clutters our minds and hinders us from acting meaningfully. The concept of \"selective ignorance\" is promoted, suggesting we intentionally limit our intake of information to focus on what's truly important.\n\nTimothy Ferriss shares his own practice of not following the news or spending more than an hour on emails weekly, which helps concentrate on priorities rather than trivial data.\n\nTo filter information effectively, one should consider its immediate and significant usefulness. Trying out a one-week media fast could demonstrate the feasibility of living with less information. Techniques for efficient reading, like guiding your eyes with a pen or focusing on the beginning and end of lines, are also shared.\n\nThe core idea is to be selective with the information we allow into our lives, aiming for action over consumption, as being less informed can actually lead to increased productivity."
+                ],
+                "audio": {
+                    "size": 1019402,
+                    "duration": 63713
+                }
+            },
+            {
+                "chapter_summary": "Productivity thrives on autonomy, structured availability, and focused attention management.",
+                "text": [
+                    "Interrupting interruptions and refusing unnecessary requests is key to productivity and happiness. Saying \"no\" eliminates distractions and creates time for important tasks. Batching similar tasks together reduces setup costs. Giving employees autonomy through guidelines and occasional review boosts effectiveness. The path to freedom is setting rules to limit availability, scheduling efficiently, and preventing others from micromanaging. Success comes from ruthless focus on the essential by stopping interruptions before they start. Just as children beg for independence, we must set firm boundaries to thrive. With structure, respect, and trust, we can all collaborate productively. By taking control of our attention, we take control of our lives."
+                ],
+                "audio": {
+                    "size": 853054,
+                    "duration": 53316
+                }
+            },
+            {
+                "chapter_summary": "Outsourcing minor tasks aids time management, fostering control and entrepreneurial skills.",
+                "text": [
+                    "Outsourcing everyday tasks to virtual assistants can unlock extra time and lessen stress. The idea is to start small, delegating minor tasks, even if it seems unnecessary. This practice isn't just about freeing up time; it's a fundamental shift towards being in control and learning management skills, crucial for entrepreneurship. Often, people hesitate to outsource to save money, overlooking the value of time saved. The text advises considering cost-effectiveness from a time-saved perspective rather than just hourly rates.\n\nFor finding reliable virtual assistants, opting for firms over individuals is suggested for better coverage. Clear communication is key—use straightforward language, ensure mutual understanding, and set precise deadlines. It also warns of risks like information theft, recommending security measures to mitigate them."
+                ],
+                "audio": {
+                    "size": 965903,
+                    "duration": 60369
+                }
+            },
+            {
+                "chapter_summary": "Douglas Price's automated business model led to financial independence and global travel.",
+                "text": [
+                    "Douglas Price transformed his life from being stuck in a demanding job to traveling the world and running a lucrative online business, all within two years. He achieved this by setting up an automated business reselling sound libraries to media professionals. Instead of handling products himself, Douglas partnered with manufacturers for direct shipping to customers, requiring minimal effort on his part.\n\nThis approach quickly proved successful, with Douglas earning over $10,000 a month while dedicating only about two hours weekly to the business. This newfound financial and time freedom allowed him to pursue his passions and travel extensively. His success was largely due to choosing a product that was cheap to test, quick to manufacture, and easy to explain to customers.\n\nDouglas's journey shows that an automated business model can offer financial independence and the freedom to live according to one's own terms. By identifying a profitable niche and utilizing drop-shipping, anyone can establish a self-sustaining online business and escape the confines of unsatisfying traditional employment."
+                ],
+                "audio": {
+                    "size": 1150223,
+                    "duration": 71889
+                }
+            },
+            {
+                "chapter_summary": "Rapid, cost-effective product testing can lead to profitably sustainable businesses.",
+                "text": [
+                    "Testing product ideas quickly and cheaply is critical to finding profitable businesses. Rather than relying on intuition, test demand by creating simple one-page advertisements and measuring response.\n\nTools like Google AdWords make micro-testing easy and affordable. Focus on benefits, guarantees, and testimonials that differentiate you from competitors. Offer a money-back guarantee to reduce risk for customers. After successful testing, invest minimally in inventory and focus on sales.\n\nContinually refine the sales process based on customer feedback. Roll out marketing and operations slowly as sustainable cash flow allows.\n\nProper validation and automation keeps costs low and provides flexibility. With the right architecture, profitable businesses can be built rapidly."
+                ],
+                "audio": {
+                    "size": 830484,
+                    "duration": 51905
+                }
+            },
+            {
+                "chapter_summary": "Successful businesses utilize self-sustaining architecture, minimizing decisions and outsourcing tasks.",
+                "text": [
+                    "The key to building a successful business is designing a self-sustaining architecture that runs itself. This requires minimizing decision-making responsibilities to free up time and setting up outsourced systems to handle tasks automatically. \n\nThe business should progress through three phases:\n\nPhase I (0-50 units shipped): Do everything yourself initially - take orders, pack shipments, handle customer service. Document common questions to create an FAQ.\n\nPhase II (10-20 units shipped per week): Outsource fulfillment but still handle customer communication. Continue documenting FAQs.\n\nPhase III (20+ units shipped per week): Transition to end-to-end fulfillment, call centers and commissioned sales agents. Upgrade infrastructure to handle higher volumes.\n\nTo appear established, use a P.O. box address, virtual receptionist, and multiple departments on the website. Offer limited purchase options - don't overwhelm customers with choices. Implement a \"lose-win\" guarantee where the company absorbs more risk, not just the customer. \n\nThe architecture should remove you from the critical path. Success comes from good systems and decision reduction, not working harder. The goal is to let the business run itself while you focus on the few actions that move the needle."
+                ],
+                "audio": {
+                    "size": 1370906,
+                    "duration": 85682
+                }
+            },
+            {
+                "chapter_summary": "Quitting a dissatisfying job, despite fears, fosters better opportunities and fulfillment.",
+                "text": [
+                    "Quitting an unfulfilling job is a bold move towards better opportunities, despite common fears about finances and insurance. Drawing from personal experience, Ferriss suggests that leaving a bad job often leads to greater prospects.\n\nHe offers practical advice for navigating the uncertainties of such a transition, emphasizing that the discomfort of quitting is temporary compared to the prolonged dissatisfaction of staying. The essence of the advice is to live fearlessly, making changes to pursue more meaningful work, even at the risk of temporary instability.\n\nThe call to action is clear: assess your situation, but be ready to take significant steps towards fulfillment to avoid lifelong regret. This approach champions a single, precious life's potential for meaningful work over the safety of discontentment."
+                ],
+                "audio": {
+                    "size": 871444,
+                    "duration": 54465
+                }
+            },
+            {
+                "chapter_summary": "Travel disrupts routines, broadens perspectives, and redefines priorities.",
+                "text": [
+                    "Travel can be transformative, helping people expand their perspectives and live more fulfilling lives. This was the case for an American businessman who visited a small fishing village in Mexico. Though impressed by the fisherman's large catch, the businessman felt the fisherman was wasting time relaxing with family and friends when he could be expanding his business. The fisherman explained he was content with providing for his family and enjoying free time - ambitions the businessman realized he shared once his vision expanded beyond constant work. \n\nTravel encourages examining routines, priorities and assumptions. An overworked man dreamed of visiting Costa Rica but was impractical. However, extended travel can rejuvenate people stuck in ruts. Taking mini-retirements - relocating abroad for one to six months then returning home - can be more affordable and transformative than brief vacations. Relocating disrupts habits, broadens perspectives and helps identify what's most important."
+                ],
+                "audio": {
+                    "size": 1063288,
+                    "duration": 66456
+                }
+            },
+            {
+                "chapter_summary": "Transitioning from hectic work to free time requires pursuing learning, service, and personal growth.",
+                "text": [
+                    "After leaving a busy work life, free time can seem exciting but soon feelings of doubt and aimlessness often arise. It helps to find a focus through continual learning and service. \n\nFerriss recommends starting with relaxation like meditation retreats to recalibrate from constant overstimulation. Then make an anonymous donation to a charity of choice to get the service mindset flowing. Next, take a mini-retirement for extended volunteering and language learning abroad. This helps gain perspective on personal doubts written in a journal. Afterwards, revisit dreams and consider testing part- or full-time vocations related to childhood interests.\n\nThe key is to find activities that provide feelings of accomplishment and excitement. With the chains of busywork removed, the possibilities are endless. The goal isn't endless leisure but a life of ongoing purpose and growth."
+                ],
+                "audio": {
+                    "size": 992653,
+                    "duration": 62041
+                }
+            },
+            {
+                "chapter_summary": "Life is a journey to savor, not merely a race towards success.",
+                "text": [
+                    "Life is a journey to be savored, not a problem to be solved or a race to be won. Too often we rush through each day, focused on chasing success and crossing items off our to-do lists. We multitask, moving hurriedly from one thing to the next, without fully appreciating the present moment. In our haste, we lose sight of what really matters - our relationships, our health, the beauty around us. We put off living for tomorrow, forgetting that tomorrow is not guaranteed. Time passes quickly. Before we know it, the music stops and the dance is over. We must slow down. Be bold and don't worry about what people think. Watch a child on a merry-go-round, listen to the rain, follow a butterfly. Gaze at the sunset. Tell your child \"I love you\" and really mean it. Don't let friendships fade over time. Appreciate the journey. If today were the last day, would you be happy with how you spent it? Life is meant to be savored, not rushed. It's time to close our open gifts. Slow down. The music is playing. Let's dance."
+                ],
+                "audio": {
+                    "size": 1089201,
+                    "duration": 68075
+                }
+            },
+            {
+                "text": [
+                    "Final Summary: \"The 4-Hour Workweek\" by Timothy Ferriss provides a compelling argument for lifestyle design, where work is not the center of life but a means to support and enhance our life experiences. Ferriss, an entrepreneur and author, encourages the readers to ignore the traditional career path and adopt unconventional working styles, utilizing automation, and outsourcing mundane tasks, in order to live a more fulfilling and freeing life. The title of the book encapsulates his central idea that a streamlined, efficient approach to work can greatly reduce the amount of time spent working, allowing for more time for personal interests, travel, family, and leisure.\n\n10 Actions For Implementation:\n\n1. Dreamline: Quantify your objectives into specific goals, costs, and timelines. This aids in discerning between what is attainable versus unrealistic.\n\n2. Eliminate and streamline work: Prioritize tasks that contribute the most to your goals and eliminate or outsource those which don't.\n\n3. Adopt the Pareto Principle: Also known as the 80/20 rule - identify and focus on the 20% of activities that produce 80% of your desirable outcomes.\n\n4. Embrace automation: Employ technological solutions or virtual assistants to automate repetitive tasks.\n\n5. Systematize e-mail efficiency: Set specific times of the day to check emails and limit the time spent in responding.\n\n6. Adopt the 'low information diet' approach: Consume relevant information only. Cut out excessive news and social media usage to prevent information overload.\n\n7. Promote a work-life balance. Understand that the ultimate goal is not to work less but to make work supportive of the rest of your life.\n\n8. Emphasize productive output over long work hours: Focus on efficiency and results rather than time spent working.\n\n9. Plan mini-retirements: Rather than deferring all leisure and travel to a traditional retirement at end of career, plan regular extended breaks throughout to enjoy life and gain cross-cultural experiences.\n\n10. Never stop learning: Continually educate yourself, whether it's about entrepreneurship, language learning, or any other interest. Use digital platforms and resources to keep learning adaptable and dynamic."
+                ],
+                "audio": {
+                    "size": 2691239,
+                    "duration": 168202
                 }
             }
         ]
