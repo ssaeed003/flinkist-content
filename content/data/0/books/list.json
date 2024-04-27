@@ -98880,10 +98880,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2931,
         "name": "The Productivity Project",
-        "create_date": 1712432264663,
+        "create_date": 1712432264664,
         "Year": "2016",
         "tags": [
             "productivity",
@@ -99007,10 +99007,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2937,
         "name": "I Will Teach You to Be Rich",
-        "create_date": 1712602344744,
+        "create_date": 1712602344745,
         "Year": "2020",
         "tags": [
             "money & investments",
@@ -99144,10 +99144,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2938,
         "name": "Margin of Safety",
-        "create_date": 1712602366263,
+        "create_date": 1712602366264,
         "Year": "1991",
         "tags": [
             "money & investments",
@@ -101508,6 +101508,439 @@
                 "audio": {
                     "size": 2975869,
                     "duration": 185992
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2963,
+        "name": "Slave Girl",
+        "create_date": 1714174079453,
+        "Year": "2009",
+        "tags": [
+            "biography & memoir",
+            "english"
+        ],
+        "summary": "'My Life in Hell' is a heartbreaking yet inspirational survival story of Sarah Forsyth, a victim of sexual slavery in Amsterdam's Red Light District. Overcoming countless horrors, she never lost the courage to escape, and her perseverance eventually leads her towards freedom.",
+        "author_name": "Sarah Forsyth",
+        "about_author": "Sarah Forsyth is a survivor of human trafficking and sexual slavery. Being a victim of this horrifying crime in the world's most infamous Red Light District, she uses her voice to raise awareness and help others through her story.",
+        "subtitle": "Abducted by traffickers. Sold as a sex slave. This is my true story.",
+        "target_group": "This real-life story is for readers who appreciate biographies recounting human resilience and survival. It's a wake-up call about the reality of human trafficking and sexual slavery existing even in developed countries.",
+        "book_link": "https://www.amazon.de/-/en/Sarah-Forsyth/dp/1844546853/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Content warning! Descriptions of sexual assault and violence! Sarah wants the world to listen so that other women don't have to suffer like she did. ",
+                "text": [
+                    "Content Warning: This summary contains descriptions of sexual assault and violence.\n\nSarah Forsyth was an ordinary young woman who worked as a nursery nurse. But she was tricked and trafficked into the sex trade in Amsterdam. There she was forced to have sex with up to 17 men every day while being held captive. Sarah witnessed horrific cruelty and abuse. She was threatened that she could be murdered like another woman if she didn't make enough money. This left Sarah deeply traumatized. When she was finally able to escape and return home, Sarah's life was ruined. Everyone knew her only as a prostitute. Over the next decade, Sarah disappeared and struggled with addiction. Yet somehow she survived. Now Sarah hopes her story can shine a light on the thousands of women still trapped in sexual slavery. She wants the world to listen so that other women don't have to suffer like she did. Sarah's harrowing experience shows the violent reality of sex trafficking today. But it also shows the power of the human spirit to overcome."
+                ],
+                "audio": {
+                    "size": 1151477,
+                    "duration": 71967
+                }
+            },
+            {
+                "chapter_summary": "Sarah had a difficult childhood, suffering abuse from her father from a young age. ",
+                "text": [
+                    "I was born in 1976 in Gateshead, a town in northeast England. My mother was a gentle, loving woman who I was very close to as a child. My father owned some businesses locally and provided well for us, but behind closed doors he was a violent alcoholic who physically and emotionally abused my mother. \n\nFrom age 3, my father also sexually abused me. This went on throughout my childhood and had a devastating impact. I became angry, withdrawn, and felt very isolated. My relationship with my mother suffered tremendously as a result of the abuse, driving a wedge between us. \n\nWhen I was 11, I suddenly lost the ability to walk and was hospitalized with a high fever. Despite my obvious terror of my father when he visited, no one realized he had been abusing me for years. After weeks of treatment, I re-learned how to walk and was sent home, where the abuse continued. \n\nThe sexual abuse warped my childhood and damaged my family beyond repair. It left deep psychological wounds that I continue to struggle with today. But with time and help, I am healing and building a life for myself beyond the horrors of my past."
+                ],
+                "audio": {
+                    "size": 1312809,
+                    "duration": 82051
+                }
+            },
+            {
+                "chapter_summary": "After a turbulent time Sarah finally felt safe for the first time in a boarding school.",
+                "text": [
+                    "When I was 11, my mother finally left my dad and took us kids to live with my uncle in Scotland. There, I found some happiness just being a child again. But she decided to go back to my abusive father, which was a terrible mistake. I ended up being sent to live with him and his new girlfriend. The abuse continued and escalated until one night, his girlfriend overheard it and reported him. I was removed from their home and placed in foster care.\\n\\nI struggled adjusting to the foster homes and kept running away, hoping someone would care enough to find me. Eventually, I was placed in a remote, abusive children's home where I endured ongoing sexual abuse from the staff. After months of torment, I managed to escape one night and make my way back to my hometown. A friend took me in and gave me refuge.\\n\\nAfter hiding for 3 months, I contacted social services myself to avoid being returned to that horrible place. Instead, I was sent to a boarding school in a peaceful area where I finally felt safe and happy again. I re-discovered my love of art and felt proud of my achievements for the first time. At 16, I was released from state care and went to live with my mother again. Despite my traumatic childhood, I hoped I could work with children someday, as I realized I enjoyed it and was good at it."
+                ],
+                "audio": {
+                    "size": 1529730,
+                    "duration": 95608
+                }
+            },
+            {
+                "chapter_summary": "Sarah's father was brought to trial and she startedworking as a nursery nurse, but her traumatic past left scars.",
+                "text": [
+                    "At 16, my father was finally brought to trial and convicted of abusing me. After that, I started college to become a nursery nurse. I got pregnant at 17 but had an abortion that devastated me emotionally. Still, I passed my exams and started working with young children, which I truly loved doing.\nI met an older man named Chris and we moved in together, eventually buying a house. I was happy for a while but we grew apart as I wanted to go out more and he preferred staying home.\nOne day, police officers came to question me about the abuse I had endured in foster care years before. I gave a statement describing the horrific abuse, but then never heard anything further about it. I felt let down again by the system that failed to protect me.\nThrough all the ups and downs in my life, from the abuse to failed relationships and unrealized hopes for justice, my path remained an extremely difficult one. No matter the small bright spots, the darkness of my traumatic past continued weighing me down."
+                ],
+                "audio": {
+                    "size": 1059526,
+                    "duration": 66220
+                }
+            },
+            {
+                "chapter_summary": "Despite her mum's worries Sarah accepts a job at a daycare in Amsterdam.",
+                "text": [
+                    "I was so excited to start a new chapter when I landed a job at a daycare in Amsterdam at 19. After a tough breakup and strained relationship with my mom, I was eager for change. The friendly recruiter who offered me the position ultimately swayed me, despite being wary at first. After researching Amsterdam and imagining my glamorous new life there, I could barely contain my excitement.\nDespite my mom's misgivings, I was determined to go. I dismissed any concerns about the city's seedy reputation, insisting I'd avoid the Red Light District and cannabis cafés. I was confident that with a fresh start in a new country, my luck would finally change. I saw Amsterdam as a place of opportunity and promise, even embracing the city's motto of being heroic, determined and merciful.\nMy mom worried I was too naive for a big city like Amsterdam, that manipulative people could take advantage of my openness and eagerness. But I refused to listen, blinded by dreams of my glittering future. As the plane descended into Schiphol Airport, I was nervous yet exhilarated to start this next chapter."
+                ],
+                "audio": {
+                    "size": 1220022,
+                    "duration": 76251
+                }
+            },
+            {
+                "chapter_summary": "The job offer was a trap of a cruel pimp forcing Sarah to work as aprostitute. ",
+                "text": [
+                    "I arrived at Schiphol airport in Amsterdam, excited to start my new job as a nursery nurse. But as soon as I got off the plane, I felt uneasy. My nerves were jangling and I had this instinct that something wasn't right. I wish I had listened to that voice telling me to get back on a plane to England.\nInstead, I was met by a woman named Sally who definitely didn't look like a nursery nurse. Dressed provocatively, she rushed me into a waiting car where a man named John pointed a gun at me, demanding my passport. Sally explained they weren't taking me to work at a nursery, but to the Red Light District as a prostitute.\nJohn was a pimp who trafficked girls and forced them into prostitution. I was terrified but felt trapped, unable to escape. At a rundown hotel, Sally said I had to obey and earn money or John would beat or kill me. I had no choice but to start working as a prostitute the next day.\nOverwhelmed, I cried myself to sleep, blaming myself for this terrible situation. Sally tried justifying her actions, promising to help me escape somehow. But it offered little comfort. The next day, paralyzed by fear, I waited for my first customer to arrive."
+                ],
+                "audio": {
+                    "size": 1332871,
+                    "duration": 83304
+                }
+            },
+            {
+                "chapter_summary": "The nightmare begins and only drugs help to cope with the pain and trauma. ",
+                "text": [
+                    "I serviced three men that morning, and each experience was traumatic as they ignored my obvious distress, just using my body for their pleasure while I cried. Afterwards, I felt violated and disgusted with myself.\nSally tried comforting me, saying the first time is always worst. But she was also taking lots of drugs to cope. We had no real food, only some M&Ms for lunch.\nAs the day went on, I noticed my window attracted more customers than the others. Sally explained it was because I looked so young - only 14. Many men were seeking underage girls to fulfill twisted fantasies.\nOne man called me \"Daddy's little girl\" as he raped me, bringing up traumatic memories of my own father's abuse. Another made me vomit after he left.\nSally gave me strong hashish joints to help cope with the pain and trauma. By the end of my first day, I'd serviced 10 men and taken lots of drugs. I knew I was now a prostitute, no longer the girl I used to be. But the drugs made me numb enough to get through it."
+                ],
+                "audio": {
+                    "size": 1123474,
+                    "duration": 70217
+                }
+            },
+            {
+                "chapter_summary": "While tourists in Amsterdam and city don't care as long as the money keeps flowing, the women suffer.",
+                "text": [
+                    "Amsterdam's Red Light District is a complex web of exploitation and human misery. Thousands of vulnerable women from around the world are trafficked and forced into prostitution in the notorious area. They work long hours in cramped, dirty rooms, servicing a constant stream of men. Many turn to drugs just to cope. \n\nThe district is highly organized, with different groups of pimps controlling different patches. At the bottom are small operators like Reece who run just a few girls. Above them are the \"Loverboys\" who seduce young girls into the trade. And at the top are the ruthless Yugoslav gangs who deal drugs and use violence to control their territory. \n\nThe women suffer abuse, disease, and addiction. But the punters, tourists and city don't care as long as the money keeps flowing. The pain and tears of the women trapped in glass prisons are just an acceptable price for Amsterdam's lucrative sex trade. The evil is organized and official hypocrisy allows it to thrive."
+                ],
+                "audio": {
+                    "size": 1052839,
+                    "duration": 65802
+                }
+            },
+            {
+                "chapter_summary": "Sarah gets sold to another even more cruel pimp and gets deeper into drugs. ",
+                "text": [
+                    "Gregor was a ruthless pimp and drug dealer who operated in Amsterdam's Red Light District. One day, he took ownership of me as payment for a debt owed by my previous pimp, John Reece.\nI was terrified when Gregor's enforcer, Pavlov, brought me to his warehouse. There I saw two vicious mastiff dogs who obeyed his every command. Upstairs in a locked room were two other trafficked girls from Czechoslovakia. They warned me about trying to escape - Gregor's dogs would surely kill anyone who tried.\nThe next day, Pavlov took us girls to work in windows rented by Gregor. He expected us to service at least 15-18 men per day through sex acts - no quick hand jobs allowed. We used drugs to numb the pain.\nAnother pimp named Reuben tried luring me to work for him instead. But when Gregor's men found out, they killed Reuben, leaving his severed head as a warning. I was saddened, but kept working and using drugs to cope with the trauma and abuse under Gregor's control."
+                ],
+                "audio": {
+                    "size": 1107591,
+                    "duration": 69224
+                }
+            },
+            {
+                "chapter_summary": "Gregor's criminal empire seemed untouchable, with police paid to look the other way. ",
+                "text": [
+                    "Each morning I'd wake up to loud dogs and repetitive music that hypnotized me. I was given cocaine to start my day and told I had to work to pay off my \"debt\".\nSoon I was initiated into crack cocaine, which provided instant but short-lived oblivion from my desperate situation. My pimp Gregor happily let me run up drug debts, knowing the crack addiction kept me trapped. He used vicious dogs to intimidate me and the other girls.\nIn my despair, I made brief diary entries lamenting my plight. Gregor's criminal empire seemed untouchable, with police paid to look the other way. Some even raped me to ensure my silence. An ecstasy pill first gave me a warm feeling of \"up\", as Gregor tested his drug batches on us girls.\nDespite the constant trauma, I felt unable to escape or seek help from the authorities. I was an innocent victim caught in the brutal underworld that visitors never see, through naivety and deception. My account is a powerful testament to human exploitation."
+                ],
+                "audio": {
+                    "size": 1156911,
+                    "duration": 72307
+                }
+            },
+            {
+                "chapter_summary": "Sarah was made to play Russian roulette for a client's amusement.",
+                "text": [
+                    "Sex work can lead people down a dark path. What started as a way to make money became a trap. To keep customers interested, girls are pressured into increasingly dangerous and degrading acts. Some men paid for torture and even murder, filmed as \"snuff\" porn.\nI was made to play Russian roulette for a client's amusement. And I witnessed the brutal murder of another young trafficking victim, filmed for a snuff video.\nTrapped in a cycle of abuse, I knew I had to escape to have any chance at a better life. The horrors I endured and saw others suffer haunted me. Getting out seemed impossible, but I had to try before my circumstances became even more nightmarish."
+                ],
+                "audio": {
+                    "size": 734772,
+                    "duration": 45923
+                }
+            },
+            {
+                "chapter_summary": "Escape. ",
+                "text": [
+                    "Despite my misery, a flicker of hope remained that I might somehow escape. My chance came one morning when I awoke alone and unguarded. Seizing the opportunity, I fled into the streets. In a daze, I stumbled upon a police station but feared it might be filled with officers on my pimp Gregor's payroll. Breaking down in tears, a kind Englishwoman intervened, insisting they contact the British Embassy.\nSoon agents Leon and Helene arrived from the vice unit investigating the District. They explained they'd been watching me, knowing I was the tricked English nursery nurse. Now they could finally help me escape, though it would be difficult with Gregor's informants everywhere. Night fell as negotiations dragged on to secretly transport me over the border. I grew frantic, desperate for drugs and convinced Gregor's men would find me. In a controversial move, I was given a supervised fix at the station. Later, I spoke with my mother by phone. Despite everything, her voice was still full of love. At last, I knew I would escape Amsterdam's vicious grip. Though the road ahead would be long, I had hope again."
+                ],
+                "audio": {
+                    "size": 1286060,
+                    "duration": 80379
+                }
+            },
+            {
+                "chapter_summary": "Now Sarah finds meaning volunteering at a youth drop-in center, helping kids who suffer as she once did.",
+                "text": [
+                    "Sarah's story is one of hardship and abuse, but also of resilience and hope. \n\nAfter returning to the UK, Sarah struggled with addiction and post-traumatic stress disorder. She had a turbulent relationship and relapsed into criminal behavior, spending time incarcerated. With support, Sarah eventually got clean and met her future wife Tracy. \n\nSarah struggled to build a normal existence. She married Tracy, but their relationship was volatile and abusive at first, showing the damage both women still carried inside. Over time, with perseverance and love, they learned to support each other and create a loving home. \n\nNow Sarah finds meaning volunteering at a youth drop-in center, helping kids who suffer as she once did. She dreams of having a child one day. Though her body and mind bear the scars of abuse, her spirit has survived. She shares her story so that others in situations of exploitation can find hope. Despite all she's endured, Sarah is resilient. She is a survivor.\n\n"
+                ],
+                "audio": {
+                    "size": 1133923,
+                    "duration": 70870
+                }
+            },
+            {
+                "text": [
+                    "Final Summary: The book \"Slave Girl\" is the tragic yet inspiring tale of Sarah Forsyth, a survivor of dehumanizing sexual slavery in Amsterdam. Manipulated into the world of sex trafficking as a vulnerable young woman seeking employment, Sarah endures horrendous mistreatment in the Red Light District, fueled by drug addiction and desperate to escape. Just as her strength and hope seem extinguished, Sarah finds a beacon in the form of two detectives, Leon and Heléne. They aid her daring escape, marking the beginning of her journey towards freedom. Sarah's life post-escape is far from easy. She struggles with trauma, fear, and sobriety, yet she is resilient. Her heartbreaking past motivates her to voice the unheard stories of countless girls trapped in similar, monstrous conditions. Through her narrative, she emerges as an embodiment of courage, resilience, and survival.\n\n10 Actions to Implement the Book's Learnings:\n\n1. Be cautious and diligent - Sarah's tale reminds us to thoroughly check backgrounds, especially when venturing to unfamiliar places or accepting job offers.\n\n2. Empathy - Emotional empathy is a core lesson that we can practice in our everyday interactions, recognizing and responding to other's emotions.\n\n3. Understand the weight of drug addiction - Realize that dependency on substances is a serious concern and not to be taken lightly in any manner.\n\n4. Seek help - Sarah’s survival teaches us to seek help when we are in dire circumstances. There are people and organizations who can and want to assist.\n\n5. Speak Up - Overcoming fear and speaking up against injustices, just as Sarah did, helps not only you but others who may be in similar situations.\n\n6. Support survivors - Advocate for organizations that provide aid to survivors of human trafficking and make efforts to understand their needs.\n\n7. Educate and spread awareness - Familiarize yourself with the signs of human trafficking and educate others about this rampant global problem.\n\n8. Practice compassion - Offer understanding, instead of judgment to the victims of such situations.\n\n9. Value resilience - The power of resilience in overcoming the severest of trials is hugely emphasized, which can be a principle to abide by in our lives.\n\n10. Foster inner strength - Sarah's story demonstrates that the human spirit is formidable. We can face life's challenges by nurturing our inner strength."
+                ],
+                "audio": {
+                    "size": 2922788,
+                    "duration": 182674
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2964,
+        "name": "The Power of Moments",
+        "create_date": 1714174086293,
+        "Year": "2017",
+        "tags": [
+            "motivation & inspiration",
+            "mindfulness & happiness",
+            "english"
+        ],
+        "summary": "This book explores how to create the defining moments that can transform our lives and organizations. The authors identify key elements of such moments and show how they can be shaped and multiplied, emphasizing their importance in achieving numerous positive outcomes including greater customer satisfaction, employee motivation, and personal happiness.",
+        "author_name": "Chip Heath, Dan Heath",
+        "about_author": "Chip Heath is a professor at Stanford Graduate School of Business, teaching courses on strategy and organizations. He has helped more than 450 start-ups hone their business strategy and messages. He resides in Los Gatos, California.\n\nDan Heath is a senior fellow at Duke University’s CASE center, which supports entrepreneurs fighting for social good. He resides in Durham, North Carolina.",
+        "subtitle": "Why Certain Experiences Have Extraordinary Impact",
+        "target_group": "The Power of Moments appeals to anyone looking to enrich their lives and the lives of others by creating memorable and meaningful experiences. It will be particularly useful to educators, managers, customer service professionals, or anyone interested in understanding how defining moments shape our lives and how we can intentionally create more of them.",
+        "book_link": "https://www.amazon.de/-/en/Chip-Heath/dp/0593079264/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Defining moments, enriched by elements of elevation, insight, pride and connection, shape significant and lasting memories.",
+                "text": [
+                    "Defining moments are experiences that stand out as memorable and meaningful in our lives. Though they may seem to happen by chance, it is possible to intentionally create defining moments for ourselves and others by incorporating elements of elevation, insight, pride, and connection. \n\nFor example, the founders of YES Prep charter school engineered an uplifting event called Senior Signing Day. On this day, graduating seniors announced where they would attend college in the fall, celebrated as if they were star athletes. The event combined elevation, giving students a moment in the spotlight; insight, helping younger students envision themselves achieving the same goal; pride, recognizing students as the first in their families to go to college; and connection, sharing the experience with thousands of supportive people. Defining moments like this can be designed to enrich our lives and relationships.\n\nPsychological research sheds light on why certain moments stick in our memory. The \"peak-end rule\" shows that we tend to remember the most intense points and the ending of an experience, not the average. This explains why a hotel like the Magic Castle can delight guests by offering just a few peak moments, like delivering poolside popsicles, though lacking in luxury. \n\nWe can apply these principles to create defining moments in education, customer service, relationships, and more. Whether grand celebrations or personal treasures, the relics we cherish reflect moments of insight, pride, elevation and connection. By understanding the elements that shape defining moments, we can craft experiences that will be remembered for years to come."
+                ],
+                "audio": {
+                    "size": 1761697,
+                    "duration": 110106
+                }
+            },
+            {
+                "chapter_summary": "Thoughtful onboarding rituals significantly enhance employee engagement and retention.",
+                "text": [
+                    "The first day of a new job is often underwhelming. The employee arrives to find their desk unprepared, with no computer set up. After reviewing compliance policies alone for hours, they are paraded around for uncomfortable introductions. This wastes the opportunity to make new hires feel appreciated on their important first day. \n\nTo avoid this oversight, companies should recognize when special moments are needed, like during major life transitions. Coming-of-age rituals in many cultures, for example, mark the transition from childhood to adulthood. These ceremonies clarify the change in status. Similarly, retirement parties help people transition out of decades of daily work. Without the punctuation of these special moments, major life changes can feel formless and ambiguous.\n\nThe first day on the job is actually three big transitions at once - intellectual, social and environmental. John Deere has designed a thoughtful \"First Day Experience\" to make new employees feel welcomed and connected to the company's meaningful mission. From personalized greetings to gifts and videos, the day is crafted to inspire belonging. This investment pays dividends in engagement and retention.  "
+                ],
+                "audio": {
+                    "size": 1265998,
+                    "duration": 79125
+                }
+            },
+            {
+                "chapter_summary": "Building peak moments engages students and creates memorable experiences.",
+                "text": [
+                    "A group of high school students in California were studying World War II and the rise of fascism in their history class. In English class, they were reading Lord of the Flies, which explores human savagery when removed from civilization. One day, the students were surprised when their English teacher was accused of libel for misrepresenting human nature in the book. The students were told they would conduct a mock trial of the book's author, with some acting as witnesses, attorneys and judges. \n\nThis event, called the Trial of Human Nature, became an annual tradition at the school. Students spent months preparing for the trial, which took place in an actual courtroom with teachers and alumni as the jury. Famous witnesses from history and literature were impersonated by students. The goal was to debate whether human nature is inherently good or evil.\n\nThe trial was created by two teachers, Greg Jouriles and Susan Bedford, who wanted to design an academic experience as memorable for students as events like prom. They saw it as a way to engage students in themes from their courses. Over the years, many juries have convicted the author, while others have freed him. The trial added a peak experience to the school year that students would never forget.\n\nThe concept of building peak moments into usually flat, routine experiences applies to schools but also to businesses and personal lives. Rather than focusing only on eliminating problems and complaints, which most companies do, leaders should also strive to create remarkable moments that exceed expectations and create happy customers. This takes effort but elevates the experience.\n\nIn his memoir, a terminally ill CEO named Eugene O'Kelly resolved to create as many perfect moments as he could with loved ones in his final weeks. He realized that in ordinary life, perfect moments are rare and must be actively built. We should all aim to create more peaks in our lives, rather than waiting for the right time or circumstances."
+                ],
+                "audio": {
+                    "size": 2093557,
+                    "duration": 130847
+                }
+            },
+            {
+                "chapter_summary": "Breaking scripts strategically creates memorable experiences and fosters customer loyalty.",
+                "text": [
+                    "Chris Hurn's son would not sleep without his stuffed giraffe Joshie. Joshie was left behind on vacation, so Hurn lied that Joshie was \"taking an extra-long vacation at the resort.\" Later, a hotel staffer called to report Joshie was found. Hurn asked if they could take pictures of Joshie around the resort, to show he was on vacation. The hotel sent a binder of hilarious photos showing Joshie lounging by the pool, driving a golf cart, and more. People loved this because it broke expectations. The hotel went above and beyond to please guests. \nBreaking expectations, or \"scripts,\" makes experiences more memorable. Scripts are our stereotypical expectations, like how a restaurant works. Breaking scripts isn't just surprise - it's strategic surprise that makes people think about the script. Southwest Airlines flight attendants tell funny safety announcements, delighting customers. Analyzing data, Southwest found this leads customers to take an extra half-flight per year, worth over $100 million.\nBreaking scripts also explains the \"reminiscence bump\" - why we remember ages 15-30 more vividly. Those years are full of firsts and novelty. Novelty stretches time in our perception. As we age, life gets more routine. To keep life memorable, it helps to break routines sometimes - not all the time, just enough to keep things fresh."
+                ],
+                "audio": {
+                    "size": 1500891,
+                    "duration": 93806
+                }
+            },
+            {
+                "chapter_summary": "\"Tripping over the truth\" ignites realization and spurs transformative action.",
+                "text": [
+                    "In many parts of the world, open defecation is still a major health issue. In Bangladesh, development organizations tried to solve this by building latrines, thinking it was just a hardware issue. But Dr. Kamal Kar found in his evaluation that open defecation was still rampant, even with latrines available. He realized it was more of a behavioral issue - people needed to want to use latrines. \n\nSo Kar developed a new approach called Community-Led Total Sanitation (CLTS). In a village, a facilitator leads a \"transect walk\" and asks probing questions to draw attention to all the open defecation areas. He has villagers map the village and mark piles of feces. He dramatizes how flies pick up feces and spread disease. There is an \"ignition moment\" when it becomes clear the village has a major problem. The truth was there before their eyes, but the facilitator's questions make them \"trip over it.\" Villagers get motivated to make changes.\n\nThis same method of tripping over the truth can spark insights in organizational settings too. At Microsoft, an executive had his team try to use their Azure cloud service as customers did. They struggled badly, realizing how hard it was to use. This made the need for a friendlier redesign obvious. In a teaching workshop, professors are asked for their dreams for students, then compare that to their actual syllabi. The disconnect is a \"head-slapper\" moment that motivates them to redesign their courses. \n\nIn each case, the truth is discovered by the audience, not preached. Vividly highlighting the problem, not touting the solution, is what sparks sudden realization and the motivation to act. Engineered \"trip over the truth\" moments can produce breakthroughs."
+                ],
+                "audio": {
+                    "size": 1907147,
+                    "duration": 119197
+                }
+            },
+            {
+                "chapter_summary": "Personal, frequent recognition significantly boosts motivation and happiness.",
+                "text": [
+                    "Kira Sloop had a terrible experience in sixth grade chorus when her teacher told her she couldn't sing and should just mouth the words. This crushed her self-esteem and led to a difficult period. The next summer at camp, a kind teacher noticed Kira mouthing the words and asked to sing with her privately. The teacher praised Kira's voice and compared it to famous singers, transforming her outlook. Kira gained confidence singing in musicals and even at Carnegie Hall. \n\nMany people have similar stories of a teacher spurring a positive change. Research shows most employees' top motivator is feeling appreciated, but managers think they give more recognition than employees report receiving. Formal programs like Employee of the Month breed cynicism. Effective recognition should be personal, frequent, and convey \"I saw what you did and appreciate it.\" Managers can tailor recognition to individuals, like giving music headphones to an employee who improved his listening. Gratitude also benefits the giver through lasting happiness. Simply writing a heartfelt thank you letter to someone and reading it to them can elevate mood for weeks. Recognizing others takes little time but provides an enduring positive impact."
+                ],
+                "audio": {
+                    "size": 1283134,
+                    "duration": 80196
+                }
+            },
+            {
+                "chapter_summary": "The Couch to 5K plan transforms the daunting task of running into achievable, motivational milestones.",
+                "text": [
+                    "In 1996, Josh Clark had a bad breakup and started jogging to feel better. Though he hated running at first, he kept at it until he came to enjoy the meditative feeling it gave him. Clark realized that if he could help other people get over that initial hump of running being painful, they might grow to love it too. \n\nSo he created the Couch to 5K running plan to gently ease beginning runners to the point where they could complete a 5K race. The plan starts with alternating jogging and walking, and over 9 weeks builds up to running continuously for 20 minutes. When Clark's mom tried the plan, she was surprised she could do it without too much effort.\n\nThe plan became very popular, with elements like the intimidating first 20 minute run in Week 5 taking on an almost mythic reputation. By breaking down the amorphous goal of \"learning to run\" into concrete, achievable steps, the program gave runners multiple milestones to celebrate. This multiplication of milestones provided ongoing motivation and moments of pride that kept people engaged.\n\nThe same concept of creating milestones can be applied to other goals in life and work. Steve Kamb used it to finally achieve his goal of learning the fiddle, turning the vague notion of \"learn an instrument\" into 5 levels with a culminating boss battle. Couples could celebrate relationship milestones in journals. And managers can identify milestones for teams en route to corporate goals."
+                ],
+                "audio": {
+                    "size": 1464946,
+                    "duration": 91559
+                }
+            },
+            {
+                "chapter_summary": "Practiced courage in adversity inspires and emboldens others to act.",
+                "text": [
+                    "Courage is the ability to act in the face of fear. It is an essential quality that allows people to stand up for what they believe in. Courage can be practiced and strengthened through preparation. \n\nIn 1960, a group of black students in Nashville began staging peaceful sit-ins to protest segregation at lunch counters. They were harassed and arrested, but remained disciplined and polite. Their teacher, James Lawson, had trained them in nonviolent resistance techniques. He held workshops where students role-played confrontations, so they would be ready when the real moment came. The students' courageous persistence led to the desegregation of Nashville's lunch counters.  \n\nLike the civil rights protesters, we can prepare for difficult situations by mentally rehearsing possible scenarios. Making plans for how we'll respond - \"If X happens, I'll do Y\" - doubles our chances of following through. Practicing with simulated challenges, as crisis counselors and bomb technicians do, builds confidence to act rightly despite fear.  \n\nOne act of courage emboldens others. When we take a stand, we signal to others that they don't have to cave to pressure. Our example gives them courage to do what's right. Our moment of courage could be a defining moment for someone else. By practicing and then demonstrating courage, we can inspire others to stand with us against wrongdoing."
+                ],
+                "audio": {
+                    "size": 1427330,
+                    "duration": 89208
+                }
+            },
+            {
+                "chapter_summary": "Shared purpose and employee engagement are pivotal for transformative customer service.",
+                "text": [
+                    "Sonia Rhodes was troubled by the poor service her father received in the hospital after life-saving surgery. As an executive at the hospital's parent company, she resolved to transform the patient experience. The CEO, Michael Murphy, supported her mission. They studied other service leaders like Disney and Southwest Airlines, learning that employee engagement was key. In 2001, Sharp HealthCare held an unprecedented All-Staff Assembly for 12,000 employees. Murphy challenged them to make Sharp the best place for employees, doctors and patients. 1600 volunteered for \"action teams\" to drive change. In the following years, patient satisfaction soared as employees started going above and beyond, like surprising lonely patients with flowers. The assembly created a shared purpose and camaraderie. Rhodes realized change doesn't happen through memos but through shared moments of meaning. Leaders can create these moments by bringing people together, inviting them to struggle towards a goal, and reminding them their work matters. Like when researchers boosted lifeguards' sense of purpose just by having them read stories about saving lives. Shared purpose is powerful - it makes people go the extra mile."
+                ],
+                "audio": {
+                    "size": 1328274,
+                    "duration": 83017
+                }
+            },
+            {
+                "chapter_summary": "Responsive home visits transformed relationships and improved school performance.",
+                "text": [
+                    "Stanton Elementary School in Washington, D.C. was struggling. The school environment was depressing and chaotic. In 2010, the district dismissed the principal and staff to start fresh. Carlie John Fisherow was hired as the new principal. She brought in a new team and tried to overhaul the school, but behavior issues persisted. Suspensions were frequent. Many students were truant. The staff felt overwhelmed. \n\nMidway through the year, Fisherow met with the Flamboyan Foundation, which promoted family engagement in education. Flamboyan suggested a new idea - teachers conducting \"home visits\" before the school year started to meet with parents and listen to their hopes for their kids. Teachers were skeptical at first, but parents appreciated someone finally asking about their dreams. \n\nWhen school resumed, the home visits had built connections between teachers and parents. Students were more engaged. Suspensions dropped dramatically. Test scores and attendance improved. The home visits had created a defining moment, transforming relationships.\n\nThe psychologist Harry Reis explains that relationships grow stronger when partners are responsive - understanding, validating, and caring about each other's needs. The home visits embodied this. Responsiveness also explains why good managers boost employee satisfaction and why \"What matters to you?\" improves patient care.\n\nResponsiveness coupled with vulnerability enables intimacy to develop quickly, as both partners reciprocate sharing. Relationships deepen rapidly with brief but extraordinary moments of connection, but someone must initiate the process. Acting with responsiveness creates tighter bonds in all kinds of relationships."
+                ],
+                "audio": {
+                    "size": 1825645,
+                    "duration": 114103
+                }
+            },
+            {
+                "chapter_summary": "Defining moments involve insight, elevation, and deep connection, transforming the ordinary into extraordinary.",
+                "text": [
+                    "A defining moment is a memorable experience that has a lasting impact. These moments can elevate us, give us insight, and help us connect more deeply with others. While some defining moments are planned, like a special school event, many arise spontaneously when someone decides to act with thoughtfulness and intention. For example, when a young child was stuck in the hospital and couldn't play in the snow, her nurses brought snow inside to her in a safe way. This simple act of compassion brought the child immense joy. We can all look for opportunities in our everyday lives to create defining moments for others through small gestures of insight, elevation, and connection. By designing experiences that spark meaning and emotion, we can make life more memorable and meaningful. Even ordinary moments can be transformed into extraordinary ones when we act with care, creativity, and purpose."
+                ],
+                "audio": {
+                    "size": 1007281,
+                    "duration": 62955
+                }
+            },
+            {
+                "text": [
+                    "Final Summary: \"The Power of Moments\" by Chip Heath and Dan Heath encourages readers to redefine their lives and make the most out of every moment. It offers a detailed exploration of why certain experiences have extraordinary impact and significance. It unearths four key elements of memorable and meaningful experiences – elevation, insight, pride, and connection – stating these elements make a moment significant, and we have the power to create them. The accounts presented in the book teach readers to cherish life, attend to the present and intentionally create memorable experiences.\n\n10 Actions Reflecting the Lessons from the Book:\n\n1. Cultivate a Keen Awareness: Be attentive to the promise that moments hold and act accordingly. This may be as simple as showing appreciation towards a coworker or stepping out of your comfort zone to elevate a situation.\n\n2. Develop the Art of Creating Moments: Invest in shaping experiences that enhance growth and evoke powerful emotions.\n\n3. Understand What Makes an Experience Memorable: Pinpoint what makes certain moments impactful and strive to create similar experiences in your life.\n\n4. Strive for Insightful Experiences: Stretch for insight and encourage others to do the same. A simple question at the dinner table like \"What have you failed at this week?\" can lead to insightful discussions and growth.\n\n5. Create Moments of Elevation: Consciously strive to uplift experiences, turning ordinary moments into extraordinary ones by breaking the norm.\n\n6. Honor Relationships: Cherish connections you have and work towards making them stronger by creating meaningful shared experiences.\n\n7. Express Recognition: Make a conscious effort to acknowledge others’ achievements. This creates moments of pride not only for them but also for you.\n\n8. Embrace Transitions: Treat transitions as moments that demand attention. Celebrate promotions or advancements with energy to make them memorable.\n\n9. Prioritize Significant Experiences: While it's easy to get lost in everyday problems and pressures, prioritize creating memorable experiences that make life meaningful.\n\n10. Leverage Organizational Moments: If working in an organization, identify potential moments that can be shaped to create a greater impact such as an employee's first day or a team's achievement."
+                ],
+                "audio": {
+                    "size": 2790713,
+                    "duration": 174420
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2965,
+        "name": "Why We Love Dogs, Eat Pigs, and Wear Cows",
+        "create_date": 1714174091220,
+        "Year": "2020",
+        "tags": [
+            "environment & nature",
+            "society & culture",
+            "english"
+        ],
+        "summary": "In this engrossing book, Melanie Joy explores the invisible system or belief system that conditions people to eat certain animals and not others. It's an exploration of 'carnism', the belief system that has shaped our perception of the behavior extremely resistant to change.",
+        "author_name": "Melanie Joy, PhD",
+        "about_author": "Dr. Melanie Joy is a Harvard-educated psychologist, celebrated speaker, and an award-winning author. She has conducted extensive research on relationships, communication, and social transformation. Founding president of the charitable organization Beyond Carnism, she has given talks and trainings in over fifty countries, having her work featured in major media outlets around the world.",
+        "subtitle": "An Introduction to Carnism",
+        "target_group": "This book is aimed towards readers who are interested in psychology, animal rights, environmental change, and personal diet choices. It's also for those who are trying to understand why people love some animals and eat others.",
+        "book_link": "https://www.amazon.de/Melanie-Ph-D-Joy/dp/1590035011/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Advocating for recognition and reduction of emotional suffering in industrialized farm animals.",
+                "text": [
+                    "Significant suffering is inflicted upon farm animals in today's industrial agriculture, even as their basic physical needs are catered for. Recognizing the emotional necessities of these creatures is essential. As with humans, these needs have formed and developed over millions of years.\n\nA prime illustration of emotional requirements is the bond between a mother and its offspring, intrinsic to all mammals. In the 1950s, baby rhesus monkeys were experimented with, revealing these primates favored a soft doll imitation of their mother over a rigid, metal one, despite the metallic version being the source of their sustenance. This debunked the previous belief that fulfilling only physical needs was adequate for children. \n\nSimilarly, dairy industries widely ignore this emotional bonding need, separating calves from their mothers for milking purposes. It is crucial to acknowledge the pervasive suffering experienced by billions of farm animals and strive towards its reduction. This necessitates a shift from this exploitative mindset.\n\nThe purpose of this piece is to stimulate a critical approach towards such prevalent issues, and encourage engagement in carving a reality that breeds more compassion for these animals."
+                ],
+                "audio": {
+                    "size": 1294419,
+                    "duration": 80901
+                }
+            },
+            {
+                "chapter_summary": "Perceptions, shaped by socially constructed schemas, regulate our empathy and food choices.",
+                "text": [
+                    "Our perceptions determine our reality. We react differently to foods based on how we perceive them, not because of inherent differences in the foods themselves. For example, when we think we're eating dog meat, we feel disgusted, even if it's actually beef.\n\nThis is because we have different schemas, or mental frameworks, for dogs versus cows. We see dogs as companions and cows as food. Our schemas cause us to avoid picturing the living animal when we eat cows but to vividly imagine dogs when confronted with dog meat. This leads to feelings of empathy for the dog but apathy toward the cow. We are not born with these schemas; they are socially constructed. Psychic numbing allows us to disconnect from our empathy for animals we eat through defense mechanisms like denial, avoidance, and rationalization.\n\nThis protects us from moral discomfort over eating animals. Though psychic numbing likely varies across cultures, people have always avoided eating certain animals and used rituals and beliefs to justify meat consumption, suggesting some level of unease. By exposing the invisible system that enables us to unknowingly distance ourselves from the suffering of farmed animals, we can reconnect with our empathy and make more ethical choices."
+                ],
+                "audio": {
+                    "size": 1297763,
+                    "duration": 81110
+                }
+            },
+            {
+                "chapter_summary": "Carnism, an unexamined ideology, enables violent animal consumption by remaining invisible.",
+                "text": [
+                    "Carnism is the invisible belief system that conditions people to eat certain animals. It is an ideology that causes people to eat animals without thinking about what they are doing or why. Carnism makes the choice to eat animals appear natural and inevitable rather than being a choice stemming from a set of beliefs. \n\nThe reason carnism has remained unnamed and unexamined for so long is that dominant ideologies stay entrenched by remaining invisible. Naming and questioning carnism has been difficult because it is considered the normal, mainstream way of life rather than being seen as an ideology. \n\nCarnism depends on extensive violence in order to maintain the current level of animal production and profits. This violence causes distress when witnessed, so carnism uses defense mechanisms to enable compassionate people to support cruel practices without realizing it. Studies show humans have an aversion to killing, even in war, and need to be desensitized to violence. Likewise, the violence of carnism is hidden from public view through physical invisibility in animal production."
+                ],
+                "audio": {
+                    "size": 1145626,
+                    "duration": 71602
+                }
+            },
+            {
+                "chapter_summary": "Industrial animal farming inflicts immense cruelty, hidden from consumers' awareness.",
+                "text": [
+                    "The meat, dairy and egg industries subject billions of animals to extreme confinement and violence each year. Most animals live short, painful lives in crowded factory farms where they cannot engage in natural behaviors. Many suffer from disease, injury and psychological disorders caused by intensive confinement and stressful conditions. \n\nStandard industry practices include castration, dehorning and beak trimming without pain relief; extreme overcrowding; unsanitary conditions; and inhumane transport and slaughter. Animals are viewed as production units, not sentient beings. \n\nThis cruel reality remains invisible to most consumers. The industries go to great lengths to shield the public from seeing how animals are raised and killed. If people witnessed the suffering inherent in meat, egg and dairy production, many would likely be unable to continue consuming these products.\n\nWhen made aware of the violence, some consumers opt for \"humane\" animal products. However, almost all animals still endure painful mutilations and end up at the same slaughterhouses. There is no truly humane way to exploit and kill animals for food when it is unnecessary. The only way to withdraw support from this harmful system is to adopt a plant-based diet. Informed consumers have the power to reduce immense animal suffering by the choices they make."
+                ],
+                "audio": {
+                    "size": 1495040,
+                    "duration": 93440
+                }
+            },
+            {
+                "chapter_summary": "Animal agriculture's hidden costs wreak havoc on human health, animal welfare, and environment.",
+                "text": [
+                    "The production of meat, eggs, and dairy has many hidden costs that negatively impact humans, animals, and the environment. Workers in animal agriculture facilities face dangerous conditions and often become desensitized to violence.\n\nResidents near these facilities can be exposed to pollution that causes health issues. Consumers ingest contaminants like feces, antibiotics, and hormones in animal products, increasing disease risk.\n\nTaxpayer dollars subsidize cleanup of factory farm pollution. Powerful meat corporations influence legislation through lobbying and the \"revolving door,\" prioritizing profits over public health and safety.\n\nAnimal agriculture degrades the environment through air and water pollution, deforestation, and greenhouse gases. While the realities of factory farming are disturbing, bringing awareness to its impacts is the first step toward positive change. There are healthy, ethical alternatives that are better for people, animals, and the planet."
+                ],
+                "audio": {
+                    "size": 1041554,
+                    "duration": 65097
+                }
+            },
+            {
+                "chapter_summary": "Authority and tradition condition us to accept animal consumption, disconnecting us from empathy.",
+                "text": [
+                    "Eating animals is a choice, not a necessity. Yet we are conditioned from childhood to believe it is normal, natural and necessary to consume meat, dairy and eggs. These myths allow us to morally disengage from the suffering involved. In reality, plant-based diets easily provide sufficient protein and nutrition. Authority figures in government, media, science and education reinforce these myths, obscuring the violent realities of animal agriculture. Social pressures make veganism seem difficult and abnormal. But with compassion and an open mind, we can move beyond these myths. By questioning authority and thinking critically, we can take responsibility for our choices. We can reconnect with our empathy for animals. We can choose freely, not out of blind habit, but from our deepest values. There are better paths forward, toward justice and sustainability, if we have the courage to forge them."
+                ],
+                "audio": {
+                    "size": 1036538,
+                    "duration": 64784
+                }
+            },
+            {
+                "chapter_summary": "Carnism distorts reality, enabling animal harm and suppressing empathy through psychological schemas.",
+                "text": [
+                    "Carnism is a system that distorts our perception of reality. It causes us to view animals as objects, abstractions, and dichotomized categories. Objectification allows us to see animals as things rather than living beings. Deindividualization causes us to view animals as a group rather than individuals. Dichotomization puts animals into rigid categories like edible/inedible. These distortions enable us to harm animals without feeling empathy or disgust. \n\nTechnology reinforces these distortions by treating animals like objects on an assembly line. It also distances us from the process of turning animals into food. When technology fails to completely hide animals' origins, we can feel disgusted. To manage this discomfort, we rationalize it away by blaming textures, health risks etc. \n\nCarnism relies on a psychological system called the carnistic schema. This is the lens through which we interpret information about eating animals. It filters out facts that don't align with carnism. The absurdities of the system only become clear when we dismantle this schema. \n\nCarnism is vulnerable because it depends on us suspending our empathy and living a lie. We can escape the system by reclaiming our empathy. This will help us transition to a more just world."
+                ],
+                "audio": {
+                    "size": 1441959,
+                    "duration": 90122
+                }
+            },
+            {
+                "chapter_summary": "Witnessing suffering fuels empathy, challenging oppressive systems and inspiring societal change.",
+                "text": [
+                    "Witnessing suffering can spark a profound journey of compassion and transformation. When a person bears witness, an emotional bond forms with the experiences of others, validating their pain and fostering empathy. This emotional awakening can chip away at the consciousness gap that allows violent ideologies, like carnism, to thrive. \n\nCarnism, like other dominant systems, preserves its power by preventing widespread exposure to its atrocities. However, the act of witnessing is a powerful deterrent. It has been the driving force behind significant social justice movements throughout history, ranging from civil rights to animal rights. If enough people bear witness to these injustices, the balance of power can potentially shift. \n\nBeing a witness, however, requires courage. It means consciously choosing to feel pain, to deviate from the societal norm. Yet, this brave choice allows individuals to grow and enhance their sense of self. It is suggested that simple actions such as adopting a vegan diet, supporting advocacy initiatives or seeking education on essential issues, and sharing it with others, are some ways to practice witnessing.\n\nSmall acts of witnessing can potentially impact on a larger scale. The resilience of humanity lies in the ability to exemplify compassion. When people dare to open their hearts to the suffering of others, they contribute to the creation of a more just and peaceful world."
+                ],
+                "audio": {
+                    "size": 1578631,
+                    "duration": 98664
+                }
+            },
+            {
+                "text": [
+                    "Final Summary: \n\n\"Why We Love Dogs, Eat Pigs, and Wear Cows\" by Melanie Joy is a seminal analysis of our societal and individual relationships with animals. Joy uses the term 'Carnism' to describe the predominant belief system that conditions us to consume certain animals but not others. The book questions societal norms and customs, ethics and justice, our capacity to empathize, and the disturbing reality hidden behind sanitized supermarket packages of meat. It is not a book simply asking us to become vegans or vegetarians; instead, it asks us to critically evaluate our choices, biases, and attitudes regarding animals. \n\nTen Actions Reflecting the Learnings:\n\n1. Become more aware of how society conditions us to eat certain animals and not others - identify the inconsistencies.\n2. Review your eating habits and the ethics behind them -  challenge your own beliefs and habits. \n3. Spread awareness about 'carnism' in conversations with family, friends, or social media followers.\n4. Explore vegan or vegetarian diets or consider reducing your meat consumption. \n5. Reach out to animal rights groups, attend speaker events, or volunteer to help broaden your perspective and knowledge.\n6. If not ready to fully give up meat, consider ethical alternatives like free-range or grass-fed options.\n7. Learn about the environmental impact of animal farming and how reducing meat consumption can contribute to Earth's sustainability.\n8. Discuss the book and its themes in book clubs or social groups to encourage more people to think deeply about these issues.\n9. Do not view animals as inanimate objects, acknowledge their capacity for emotions and pain.\n10. Support legislation and brands that ensure ethical treatment of animals and work towards minimizing animal exploitation."
+                ],
+                "audio": {
+                    "size": 2137025,
+                    "duration": 133564
                 }
             }
         ]
