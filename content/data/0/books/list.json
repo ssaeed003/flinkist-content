@@ -96189,10 +96189,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2916,
         "name": "Kleine Philosophen",
-        "create_date": 1711300877753,
+        "create_date": 1711300877754,
         "Year": "2010",
         "tags": [
             "psychology",
@@ -101941,6 +101941,124 @@
                 "audio": {
                     "size": 2137025,
                     "duration": 133564
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2966,
+        "name": "Warum wir Hunde lieben, Schweine essen und Kühe anziehen",
+        "create_date": 1714214581750,
+        "Year": "2020",
+        "tags": [
+            "environment & nature",
+            "society & culture",
+            "german"
+        ],
+        "summary": "In diesem packenden Buch erforscht Melanie Joy das unsichtbare System - oder besser gesagt das Glaubenssystem - das Menschen dazu prägt, bestimmte Tiere zu essen und andere nicht. Sie geht der Erforschung des 'Karnismus' nach, einem Glaubenssystem, das unsere Wahrnehmung und unser Verhalten nachhaltig geprägt und gegen Veränderungen resistent gemacht hat.",
+        "author_name": "Melanie Joy",
+        "about_author": "Dr. Melanie Joy ist eine renommierte Rednerin und preisgekrönte Autorin, die ihre Ausbildung in Psychologie an der Harvard Universität absolviert hat. Sie hat weitreichende Forschungen in den Bereichen Beziehungen, Kommunikation und soziale Transformation durchgeführt. Als Gründungspräsidentin der gemeinnützigen Organisation Beyond Carnism hat sie in mehr als fünfzig Ländern Vorträge gehalten und Schulungen durchgeführt. Ihre Arbeit wurde in bedeutenden Medien weltweit präsentiert.",
+        "subtitle": "Karnismus - eine Einführung",
+        "target_group": "Dieses Buch ist für Leser konzipiert, die ein Interesse an Psychologie, Tierrechten, Umweltveränderungen und persönlichen Ernährungsentscheidungen haben. Es richtet sich zudem an jene, die versuchen zu begreifen, warum Menschen manche Tiere lieben und andere essen.",
+        "book_link": "https://www.amazon.de/-/en/Melanie-Joy/dp/3981462173/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Wir engagieren uns dafür, dass das emotionale Leid von Nutztieren in der industriellen Landwirtschaft erkannt und gemindert wird.",
+                "text": [
+                    "In der modernen industriellen Landwirtschaft wird Nutztieren oft erhebliches Leid zugefügt, selbst wenn ihre grundlegenden physischen Bedürfnisse erfüllt sind. Es ist von großer Bedeutung, die emotionalen Bedürfnisse dieser Tiere zu berücksichtigen. Ähnlich wie beim Menschen haben sich diese Bedürfnisse über Millionen von Jahren entwickelt und geformt.\n\nEin beeindruckendes Beispiel für emotionale Bedürfnisse ist die Bindung zwischen einer Mutter und ihrem Nachwuchs, die allen Säugetieren gemeinsam ist. In den 1950er Jahren wurden Experimente mit Baby-Rhesusaffen durchgeführt, die zeigten, dass diese Primaten eine weiche Puppenimitation ihrer Mutter einer starren, metallischen vorzogen, selbst wenn die metallische Version ihre Nahrungsquelle war. Dies widerlegte die damals gängige Annahme, dass die Erfüllung rein körperlicher Bedürfnisse für Kinder ausreichend sei.\n\nIn ähnlicher Weise ignorieren Milchindustrien oft dieses Bedürfnis nach emotionaler Bindung und trennen Kälber von ihren Müttern, um sie zu melken. Es ist von größter Wichtigkeit, das weit verbreitete Leiden von Milliarden von Nutztieren anzuerkennen und sich für dessen Reduzierung einzusetzen. Dies erfordert einen grundlegenden Wandel in unserer Denkweise, weg von Ausbeutung.\n\nDas Ziel dieses Textes ist es, das Bewusstsein für solche weit verbreiteten Probleme zu schärfen und das Engagement für eine Realität zu stärken, die mehr Mitgefühl für diese Tiere zeigt."
+                ],
+                "audio": {
+                    "size": 1451154,
+                    "duration": 90697
+                }
+            },
+            {
+                "chapter_summary": "Unsere Wahrnehmungen, die durch sozial konstruierte Schemata geprägt sind, beeinflussen sowohl unsere Empathiefähigkeit als auch unsere Auswahl an Lebensmitteln.",
+                "text": [
+                    "Unsere Wahrnehmungen prägen unsere Realität. Unsere Reaktionen auf Lebensmittel basieren auf unserer Wahrnehmung von ihnen und nicht auf inhärenten Unterschieden in den Lebensmitteln selbst. Beispielsweise könnten wir uns angeekelt fühlen, wenn wir glauben, Hundefleisch zu essen, auch wenn es in Wirklichkeit Rindfleisch ist.\n\nDies liegt daran, dass wir unterschiedliche mentale Modelle oder Schemata für Hunde und Kühe haben. Hunde betrachten wir als Begleiter, Kühe hingegen als Nahrung. Diese Schemata führen dazu, dass wir uns das lebende Tier nicht vorstellen, wenn wir Rindfleisch essen, während wir uns einen Hund sehr lebhaft vorstellen, wenn wir mit der Vorstellung konfrontiert werden, Hundefleisch zu essen. Dies löst Empathie für den Hund aus, während wir gegenüber der Kuh gleichgültig bleiben. Diese Schemata sind nicht angeboren, sondern gesellschaftlich konstruiert. Psychische Betäubung ermöglicht es uns, unsere Empathie für Tiere, die wir essen, durch Abwehrmechanismen wie Verleugnung, Vermeidung und Rationalisierung zu unterdrücken.\n\nDies schützt uns vor moralischen Bedenken beim Verzehr von Tieren. Obwohl die Ausprägung der psychischen Betäubung wahrscheinlich kulturell variiert, haben Menschen stets vermieden, bestimmte Tiere zu essen und haben Rituale und Überzeugungen entwickelt, um ihren Fleischkonsum zu rechtfertigen. Dies deutet auf ein gewisses Maß an Unbehagen hin. Indem wir das unsichtbare System entlarven, das uns erlaubt, uns unbewusst von dem Leiden der Nutztiere zu distanzieren, können wir unsere Empathie wiederherstellen und ethischere Entscheidungen treffen."
+                ],
+                "audio": {
+                    "size": 1520117,
+                    "duration": 95007
+                }
+            },
+            {
+                "chapter_summary": "Karnismus, eine oft ungeprüfte Ideologie, ermöglicht den gewalttätigen Konsum von Tieren, indem er sich in Unsichtbarkeit hüllt.",
+                "text": [
+                    "Karnismus ist ein unsichtbares Glaubenssystem, das Menschen dazu bewegt, bestimmte Tiere zu verzehren. Es handelt sich um eine Ideologie, die uns dazu verleitet, Tiere zu essen, ohne uns wirklich Gedanken darüber zu machen, was wir tun oder warum wir es tun. Karnismus vermittelt den Eindruck, dass der Verzehr von Tieren eine natürliche und unvermeidliche Handlung ist, anstatt eine Entscheidung, die auf einer Reihe von Überzeugungen basiert.\n\nDie Tatsache, dass Karnismus lange Zeit unbenannt und ungeprüft blieb, liegt darin begründet, dass dominante Ideologien oft dadurch verankert sind, dass sie unsichtbar bleiben. Es war schwierig, Karnismus zu benennen und zu hinterfragen, da er als normaler, alltäglicher Lebensstil betrachtet wird, anstatt als eine Ideologie erkannt zu werden.\n\nKarnismus stützt sich auf weitreichende Gewalt, um das aktuelle Ausmaß der Tierproduktion und die damit verbundenen Gewinne aufrechtzuerhalten. Diese Gewalt erzeugt Unbehagen, wenn sie wahrgenommen wird. Daher bedient sich der Karnismus verschiedener Abwehrmechanismen, um mitfühlenden Menschen zu ermöglichen, grausame Praktiken zu unterstützen, ohne sich dessen bewusst zu sein. Studien belegen, dass Menschen eine natürliche Abneigung gegen das Töten haben, sogar im Krieg, und dass sie gegen Gewalt desensibilisiert werden müssen. In ähnlicher Weise wird die Gewalt des Karnismus durch die physische Unsichtbarkeit der Tierproduktion vor der öffentlichen Wahrnehmung verborgen."
+                ],
+                "audio": {
+                    "size": 1399745,
+                    "duration": 87484
+                }
+            },
+            {
+                "chapter_summary": "Die industrielle Tierhaltung geht mit immenser Grausamkeit einher, die dem Bewusstsein der Verbraucher jedoch verborgen bleibt.",
+                "text": [
+                    "Die Fleisch-, Milch- und Eierindustrie setzt jedes Jahr Milliarden von Tieren extremer Gefangenschaft und Gewalt aus. Die meisten Tiere leben ein kurzes, qualvolles Leben in überfüllten Massentierhaltungen, wo sie keine natürlichen Verhaltensweisen ausleben können. Viele leiden an Krankheiten, Verletzungen und psychischen Störungen, die durch die intensive Haltung und die stressigen Bedingungen verursacht werden. \n\nZu den üblichen Praktiken der Industrie gehören Kastration, Enthornung und Schnabelkürzen ohne Schmerzlinderung, extreme Überbelegung, unhygienische Bedingungen sowie unmenschliche Transporte und Schlachtung. Die Tiere werden als Produktionseinheiten und nicht als fühlende Wesen betrachtet. \n\nDiese grausame Realität bleibt für die meisten Verbraucher unsichtbar. Die Industrie tut alles, um die Öffentlichkeit davon abzuhalten, zu sehen, wie Tiere aufgezogen und getötet werden. Wenn die Menschen sehen würden, wie sehr sie bei der Produktion von Fleisch, Eiern und Milchprodukten leiden, würden viele wahrscheinlich nicht mehr in der Lage sein, diese Produkte zu konsumieren. \n\nWenn sie sich der Gewalt bewusst werden, entscheiden sich einige Verbraucher für \"humane\" Tierprodukte. Fast alle Tiere werden jedoch weiterhin schmerzhaft verstümmelt und landen in denselben Schlachthöfen. Es gibt keine wirklich humane Art und Weise, Tiere für Lebensmittel auszubeuten und zu töten, wenn dies nicht notwendig ist. Die einzige Möglichkeit, diesem schädlichen System die Unterstützung zu entziehen, ist die Umstellung auf eine pflanzenbasierte Ernährung. Informierte Verbraucher haben es in der Hand, durch ihre Entscheidungen das immense Tierleid zu verringern."
+                ],
+                "audio": {
+                    "size": 1627951,
+                    "duration": 101747
+                }
+            },
+            {
+                "chapter_summary": "Die versteckten Kosten der Tierhaltung verursachen erhebliche Probleme für die menschliche Gesundheit, das Wohlergehen der Tiere und die Umwelt.",
+                "text": [
+                    "Die Produktion von Fleisch, Eiern und Milcherzeugnissen birgt viele versteckte Kosten, die sich nachteilig auf Menschen, Tiere und die Umwelt auswirken. Arbeiter in der Tierhaltungsindustrie sind gefährlichen Bedingungen ausgesetzt und werden oft gegenüber Gewalt abgestumpft.\n\nAnwohner, die in der Nähe dieser Betriebe leben, können der Verschmutzung ausgesetzt sein, die gesundheitliche Probleme verursacht. Verbraucher nehmen Verunreinigungen wie Fäkalien, Antibiotika und Hormone durch den Verzehr tierischer Produkte auf, was das Risiko für Krankheiten erhöht.\n\nSteuergelder werden zur Reinigung der durch industrielle Landwirtschaft verursachten Verschmutzung eingesetzt. Mächtige Fleischkonzerne beeinflussen die Gesetzgebung durch Lobbyarbeit und den sogenannten \"Drehtür-Effekt\", wobei sie ihre Gewinne über die öffentliche Gesundheit und Sicherheit stellen.\n\nDie Tierhaltungsindustrie schädigt die Umwelt durch Luft- und Wasserverschmutzung, Entwaldung und Treibhausgasemissionen. Obwohl die Realitäten der industriellen Landwirtschaft beunruhigend sind, ist das Bewusstsein für ihre Auswirkungen der erste Schritt in Richtung positiver Veränderung. Es gibt gesunde, ethisch vertretbare Alternativen, die besser für Menschen, Tiere und unseren Planeten sind."
+                ],
+                "audio": {
+                    "size": 1226710,
+                    "duration": 76669
+                }
+            },
+            {
+                "chapter_summary": "Autorität und Tradition verleiten uns dazu, den Konsum von Tieren zu akzeptieren und uns von unserem Mitgefühl zu distanzieren.",
+                "text": [
+                    "Obwohl das Essen von Tieren eine Wahl ist und keine Notwendigkeit, sind wir von Kindheit an darauf konditioniert, zu glauben, dass der Konsum von Fleisch, Milchprodukten und Eiern normal, natürlich und notwendig ist. Diese Mythen ermöglichen es uns, uns moralisch von dem damit verbundenen Leid zu distanzieren. Tatsächlich liefern pflanzliche Ernährungsweisen problemlos ausreichend Protein und Nährstoffe. Autoritätspersonen in Regierung, Medien, Wissenschaft und Bildung verstärken diese Mythen und verschleiern die gewalttätigen Realitäten der Tierlandwirtschaft. Soziale Druckmittel lassen Veganismus schwierig und abnormal erscheinen. Doch mit Mitgefühl und einem offenen Geist können wir diese Mythen hinter uns lassen. Indem wir Autorität hinterfragen und kritisch denken, können wir Verantwortung für unsere Entscheidungen übernehmen. Wir können unsere Empathie für Tiere wiederentdecken und frei wählen, nicht aus blinder Gewohnheit, sondern aus unseren tiefsten Werten. Es gibt bessere Wege in Richtung Gerechtigkeit und Nachhaltigkeit, wenn wir den Mut haben, sie zu beschreiten."
+                ],
+                "audio": {
+                    "size": 1080842,
+                    "duration": 67553
+                }
+            },
+            {
+                "chapter_summary": "Karnismus verzerrt die Realität, fördert Tierleid und unterdrückt Mitgefühl durch den Einsatz psychologischer Muster.",
+                "text": [
+                    "Karnismus ist ein System, das unsere Wahrnehmung der Realität verzerrt. Es veranlasst uns, Tiere als Objekte, Abstraktionen und in dichotomisierten Kategorien zu sehen. Durch die Objektivierung nehmen wir Tiere als Dinge und nicht als lebende Wesen wahr. Die Entindividualisierung lässt uns Tiere als eine Gruppe und nicht als Individuen betrachten. Die Dichotomisierung unterteilt Tiere in starre Kategorien wie essbar/unedelbar. Diese Verzerrungen ermöglichen es uns, Tieren Schaden zuzufügen, ohne dabei Empathie oder Ekel zu empfinden.\n\nDie Technologie verstärkt diese Verzerrungen, indem sie Tiere wie Objekte auf einem Fließband behandelt. Sie entfremdet uns auch von dem Prozess, Tiere in Nahrung umzuwandeln. Wenn die Technologie die Herkunft der Tiere nicht vollständig verbergen kann, kann das bei uns Ekel hervorrufen. Um dieses Unbehagen zu bewältigen, rationalisieren wir es weg und schieben es auf Texturen, Gesundheitsrisiken usw.\n\nKarnismus stützt sich auf ein psychologisches System, das als karnistisches Schema bezeichnet wird. Dies ist die Linse, durch die wir Informationen über den Verzehr von Tieren interpretieren. Es filtert Fakten heraus, die nicht mit dem Karnismus übereinstimmen. Die Absurditäten des Systems werden erst deutlich, wenn wir dieses Schema hinterfragen.\n\nKarnismus ist verwundbar, da er darauf angewiesen ist, dass wir unsere Empathie unterdrücken und eine Lüge leben. Wir können dem System entkommen, indem wir unsere Empathie wiedererlangen. Dies wird uns dabei helfen, zu einer gerechteren Welt überzugehen."
+                ],
+                "audio": {
+                    "size": 1476231,
+                    "duration": 92264
+                }
+            },
+            {
+                "chapter_summary": "Das Erleben von Leid fördert Empathie, hinterfragt unterdrückende Systeme und inspiriert zu gesellschaftlichem Wandel.",
+                "text": [
+                    "Das Bezeugen von Leid kann einen tiefgründigen Prozess des Mitgefühls und der Veränderung in Gang setzen. Wenn jemand zum Zeugen wird, entsteht eine emotionale Bindung zu den Erfahrungen anderer, die deren Schmerz anerkennt und Empathie fördert. Dieses emotionale Erwachen kann dazu beitragen, die Bewusstseinslücke zu schließen, die gewalttätigen Ideologien wie dem Karnismus das Überleben sichert.\n\nKarnismus, wie andere dominante Systeme, erhält seine Macht durch die Vermeidung einer breiten Konfrontation mit seinen Gräueltaten. Das Ablegen eines Zeugnisses ist jedoch ein mächtiges Gegengewicht. Es war die treibende Kraft hinter bedeutenden sozialen Bewegungen in der Geschichte, von den Bürgerrechten bis zu den Tierrechten. Wenn genügend Menschen Zeugen dieser Ungerechtigkeiten werden, kann das Machtgleichgewicht potenziell verändert werden.\n\nZeuge zu sein erfordert allerdings Mut. Es bedeutet, sich bewusst dafür zu entscheiden, Schmerz zu empfinden und von der gesellschaftlichen Norm abzuweichen. Doch diese mutige Entscheidung ermöglicht es den Menschen, zu wachsen und ihr Selbstverständnis zu vertiefen. Es wird vorgeschlagen, dass einfache Handlungen wie die Annahme einer veganen Ernährung, die Unterstützung von Advocacy-Initiativen oder die Weiterbildung zu wichtigen Themen und deren Vermittlung an andere, einige Möglichkeiten sind, Zeugnis abzulegen.\n\nKleine Akte des Zeugnisses können potenziell auf einer größeren Ebene wirken. Die Widerstandskraft der Menschheit liegt in ihrer Fähigkeit, Mitgefühl zu verkörpern. Wenn Menschen den Mut haben, ihr Herz für das Leiden anderer zu öffnen, tragen sie zur Schaffung einer gerechteren und friedlicheren Welt bei."
+                ],
+                "audio": {
+                    "size": 1584065,
+                    "duration": 99004
+                }
+            },
+            {
+                "text": [
+                    "Finale Zusammenfassung:\n\n\"Warum wir Hunde lieben, Schweine essen und Kühe anziehen\" von Melanie Joy ist eine bahnbrechende Untersuchung unserer gesellschaftlichen und persönlichen Beziehungen zu Tieren. Joy prägt den Begriff 'Karnismus', um das vorherrschende Glaubenssystem zu charakterisieren, das uns dazu erzieht, bestimmte Tiere zu essen, während wir andere verschonen. Das Buch hinterfragt gesellschaftliche Normen und Traditionen, ethische Grundsätze und Gerechtigkeit, unsere Fähigkeit zur Empathie und die erschreckende Realität, die sich hinter den steril verpackten Fleischprodukten im Supermarkt verbirgt. Es ist nicht einfach eine Aufforderung, Veganer oder Vegetarier zu werden; vielmehr regt es uns dazu an, unsere Entscheidungen, Vorurteile und Haltungen gegenüber Tieren kritisch zu überdenken.\n\nZehn Handlungsempfehlungen, die sich aus den Erkenntnissen ergeben:\n\n1. Werde dir deiner Konditionierung durch die Gesellschaft bewusst, bestimmte Tiere zu essen und andere nicht - erkenne die Widersprüche.\n2. Überdenke deine Essgewohnheiten und die dahinterliegende Ethik - hinterfrage deine eigenen Überzeugungen und Routinen.\n3. Mache 'Karnismus' in Gesprächen mit Familie, Freunden oder auf Social-Media-Plattformen zum Thema.\n4. Erwäge eine vegane oder vegetarische Ernährung oder zumindest eine Reduzierung deines Fleischkonsums.\n5. Nimm Kontakt zu Tierschutzorganisationen auf, besuche Informationsveranstaltungen oder engagiere dich ehrenamtlich, um dein Wissen und deinen Horizont zu erweitern.\n6. Wenn du noch nicht bereit bist, vollständig auf Fleisch zu verzichten, ziehe ethische Alternativen wie Freilandhaltung oder Weidehaltung in Betracht.\n7. Informiere dich über die Umweltauswirkungen der Tierhaltung und wie eine Reduzierung des Fleischkonsums zur Nachhaltigkeit unseres Planeten beitragen kann.\n8. Diskutiere das Buch und seine Themen in Lesezirkeln oder sozialen Gruppen, um mehr Menschen zum Nachdenken über diese Themen anzuregen.\n9. Sieh Tiere nicht als leblose Objekte, sondern erkenne ihre Fähigkeit zu Emotionen und Schmerz.\n10. Unterstütze Gesetze und Marken, die sich für eine ethische Behandlung von Tieren einsetzen und die Ausbeutung von Tieren minimieren."
+                ],
+                "audio": {
+                    "size": 2353110,
+                    "duration": 147069
                 }
             }
         ]
