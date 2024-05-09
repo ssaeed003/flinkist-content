@@ -101295,10 +101295,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2955,
         "name": "Resilience",
-        "create_date": 1713902242826,
+        "create_date": 1713902242827,
         "Year": "2015",
         "tags": [
             "personal development",
@@ -101513,10 +101513,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2963,
         "name": "Slave Girl",
-        "create_date": 1714174079453,
+        "create_date": 1714174079454,
         "Year": "2009",
         "tags": [
             "biography & memoir",
@@ -103738,6 +103738,331 @@
                 "audio": {
                     "size": 2563343,
                     "duration": 160209
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2978,
+        "name": "Remote",
+        "create_date": 1715205280429,
+        "Year": "2013",
+        "tags": [
+            "productivity",
+            "management & leadership",
+            "english"
+        ],
+        "summary": "'Remote: Office Not Required' combines the authors' own experiences with insights from hundreds of other companies to show you how to go 'remote'. Learn how to build a successful remote company, which tools and techniques you can utilise and how to overcome common concerns and excuses.",
+        "author_name": "Jason Fried, David Heinemeier Hansson",
+        "about_author": "Jason Fried is an American entrepreneur, speaker, and author. He's the co-founder and CEO of Basecamp (formerly 37signals), a privately-held Chicago-based company. Jason’s belief in work-life balance and remote working has redefined the way businesses are conducting themselves in this digital era.\n\nDavid Heinemeier Hansson, also known as DHH, is a Danish programmer and the creator of the popular Ruby on Rails web development framework. He's also a partner at Basecamp. DHH has been a prominent advocate of remote work and has reshaped the software industry with his innovative ideas.",
+        "subtitle": "Office Not Required",
+        "target_group": "This book is ideal for entrepreneurs, business owners, managers, and anyone looking to adapt to the new world of remote work. As it provides practical insights and guidance, people involved in companies transitioning to remote work or aiming to enhance their remote work strategies will find this book particularly useful.",
+        "book_link": "https://www.amazon.de/-/en/David-Heinemeier-Hansson/dp/0091954673/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Remote work, redefining conventional work norms, promises global talent access and heightened productivity.",
+                "text": [
+                    "Remote work is already here but not yet fully embraced. The technology enables easy communication and collaboration from anywhere at any time. However, the main challenge is overcoming outdated industrial-age beliefs about work needing to happen in an office. Remote work provides many benefits like access to talent globally, avoiding commutes, and increased productivity. Concerns exist that innovation requires in-person interactions, people won't be productive at home, and company culture will fade. But these can be addressed by becoming an expert in remote work. With the right tools, techniques and awareness of pitfalls, remote work can lead to higher quality work and satisfaction. The authors have successfully grown a global software company with remote teams for over a decade. Their real-world experience shows remote work opens the door to a new era of freedom and luxury. The old notion of outsourcing for lowest cost is replaced by a new ideal where remote work increases both quality and fulfillment. The future is already here for those ready to embrace it."
+                ],
+                "audio": {
+                    "size": 1178226,
+                    "duration": 73639
+                }
+            },
+            {
+                "chapter_summary": "\"Effective remote work requires trust, flexibility, and a focus on output.\"",
+                "text": [
+                    "Working remotely offers many benefits for companies and employees. It increases productivity, flexibility, and happiness by allowing people to work when and where they are most effective. Though some managers fear losing control or company culture, these can be maintained through good hiring, clear expectations, and focusing on work output rather than physical presence. With proper security protocols, collaboration tools, and communication strategies, remote work succeeds across company sizes and industries. The key is trusting employees and judging them based on their work product. Though it requires adjusting old habits, remote work leads to better business results when implemented thoughtfully. The book provides persuasive arguments and real-world examples for making distributed teams effective."
+                ],
+                "audio": {
+                    "size": 836336,
+                    "duration": 52271
+                }
+            },
+            {
+                "chapter_summary": "Effective remote work strategies revolve around collaboration tools, shared access, social cohesion, and focus on output.",
+                "text": [
+                    "Working remotely can be highly effective when approached with the right strategies. It's important to have sufficient overlap in working hours among team members to foster real-time collaboration. Utilizing screen sharing tools allows everyone to visually walk through projects together, enhancing understanding and efficiency. Ensuring that all relevant information is accessible in shared online spaces is crucial. Maintaining social cohesion is also key, which can be achieved through the use of chat rooms that keep everyone connected and informed about progress. Evaluating team members' performance should focus on the output of their work rather than the time they spend in the office, promoting productivity. While meetings and managerial oversight are necessary, they should be used judiciously to avoid hampering productivity. Thoughtfully implemented, remote work offers tremendous benefits, such as location flexibility, disaster preparedness, and improved work-life balance, empowering individuals to deliver their best work from anywhere."
+                ],
+                "audio": {
+                    "size": 1085440,
+                    "duration": 67840
+                }
+            },
+            {
+                "chapter_summary": "Effective remote work requires balance, intentionality, and well-structured communication strategies.",
+                "text": [
+                    "Working remotely offers freedom and flexibility but also requires intention and effort to maintain work-life balance and human connections. Though working from home eliminates commuting and allows comfortable attire, it's easy to overwork without office hours and interactions. Setting boundaries around a \"good day's work\" and scheduling exercise and social activities counteracts constant availability. Equipping a proper home office with ergonomic furniture optimizes health. Hiring entire remote teams rather than lone remote workers facilitates camaraderie and prevents isolation. With clients, build trust by transparently conveying location, providing references, showing frequent work samples, and maintaining availability. Despite legal complexities, the benefits of international remote work make it worthwhile. Thoughtful remote work arrangements improve quality of life while sustaining productivity."
+                ],
+                "audio": {
+                    "size": 1015640,
+                    "duration": 63478
+                }
+            },
+            {
+                "chapter_summary": "Successful remote hiring needs global search, fair pay, and strong culture assessment.",
+                "text": [
+                    "Hiring and keeping the best remote workers requires casting a wide net to find talented people all over the world. Since life moves on, it's important to keep good remote workers even if they need to relocate. Maintaining a positive culture and social connections is key to remote work success. Look at actual work samples and give test projects instead of relying on resumes or puzzles when hiring. Strong writing skills are essential for remote workers to collaborate effectively. While skills are critical, also ensure remote workers have well-rounded lives and interests. Pay fair market salaries regardless of location to attract and retain top talent. The best remote workers are simply great workers who are smart and get things done. Meet candidates in person before hiring to assess cultural fit. Consider hiring contractors first to test remote work. With the right hiring practices, companies can build world-class remote teams."
+                ],
+                "audio": {
+                    "size": 966739,
+                    "duration": 60421
+                }
+            },
+            {
+                "chapter_summary": "Remote work's success hinges on flexibility, productivity, and effective managerial adjustments.",
+                "text": [
+                    "Remote work is becoming increasingly common, offering benefits like flexibility and access to talent globally. However, managing remote workers requires adjusting traditional management practices. The key is focusing on work output rather than time spent at desks. Meetups and occasional in-person gatherings are still valuable for bonding and big decisions. Remote setups allow people to work asynchronously across time zones, facilitating round-the-clock progress. However, managers should watch for overwork rather than underwork. With no office hours, work can become all-consuming. Managers should encourage balance. Scarcity of in-person interactions makes them more meaningful. Less abundant face time prevents wasting it on trivial matters. Overall, remote work succeeds through empowering workers, clearing obstacles, and valuing flexibility. With the right mindset shift, companies can gain productivity and access new talent pools."
+                ],
+                "audio": {
+                    "size": 1028179,
+                    "duration": 64261
+                }
+            },
+            {
+                "chapter_summary": "Remote work offers freedom and requires discipline, enabling nomadic creativity and family time.",
+                "text": [
+                    "Life as a remote worker offers freedom and flexibility but also requires discipline to maintain productivity. To build a routine, separate work and home life by using different devices, accounts and clothes for each. Splitting the day between remote and office work provides structure while allowing focus. Remote workers can find motivation by doing meaningful work they care about with people they like. They can work anywhere with internet access, even traveling the world nomadically. Changing locations boosts creativity with new perspectives. Working remotely allows more family time without long commutes. Without office space, use coffee shops for white noise and accountability or rent desks in shared offices. Remote workers should not worry about being ignored if they consistently produce great work, which speaks louder than face time. With the right habits, remote work can be engaging and fulfilling."
+                ],
+                "audio": {
+                    "size": 983457,
+                    "duration": 61466
+                }
+            },
+            {
+                "chapter_summary": "The future of work is increasingly remote, rendering traditional offices obsolete.",
+                "text": [
+                    "Technology and remote work are rapidly changing how we think about offices. Many believe offices will become far less important in the future. Richard Branson predicts that in 30 years people will wonder why offices ever existed. The benefits of remote work are cumulative over time, though there will be resistance. We are currently in the \"fighting stage\" where remote work is established but still controversial. Leaders like Michael Bloomberg think remote work is \"dumb\" since people cannot chat at the water cooler. But these old habits will fade as remote work keeps advancing. The innovators have already adopted remote work. Now is the time for early adopters to also make the change, before they get left behind. The future is clearly pointing toward more remote work, with offices becoming less central. It's only a matter of time before the flexibility and freedom of remote work are too appealing to resist for most people. The dawn of this new era is coming soon."
+                ],
+                "audio": {
+                    "size": 1044480,
+                    "duration": 65280
+                }
+            },
+            {
+                "text": [
+                    "Final Summary: The book \"Remote\" by Jason Fried advocates for the benefits of remote work. The authors draw upon their experiences running 37signals, a successful software company composed of remote teams. They debunk common misconceptions and excuses against remote work, asserting that this mode of operation promotes better work-life balance and a larger talent pool. The authors argue that remote work leads to increased productivity and is the future of work. \n\n10 Implementable actions from the book:\n\n1. Experiment with remote work: If you're skeptical about remote work, start with a pilot group to gauge its benefits and adaptability in your team or company.\n\n2. Create a remote-friendly culture: Foster a working environment that values output and results over physical presence.\n\n3. Overlap work hours: Ensure there's at least a few hours of overlap between the remote team's schedules for collaboration and communication.\n\n4. Transparency is key: Maintain open channels of communication and keep work progress visible to all team members.\n\n5. Regular check-ins: Make it a point to hold one-on-one calls and discussions regularly to keep connected and updated with your remote team.\n\n6. Remove roadblocks: Eliminate any process or decision that can hamper progress and empower your employees to handle tasks independently.\n\n7. Embrace flexibility: Recognize that remote work can be adaptable and doesn't need to follow a strict full-time remote or office model.\n\n8. Invest in the right tools: Utilize digital resources and tools that aid in collaboration, organization, and communication for remote teams.\n\n9. Promote work-life balance: Encourage taking breaks, setting work boundaries, and establishing a healthy work-life balance in the team.\n\n10. Lead by example: As a leader, embrace remote working and its advantages to instill confidence among your team members about this mode of work.\n"
+                ],
+                "audio": {
+                    "size": 2187180,
+                    "duration": 136699
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2979,
+        "name": "Will Power and Self Discipline",
+        "create_date": 1715206485182,
+        "Year": "2003",
+        "tags": [
+            "personal development",
+            "english"
+        ],
+        "summary": "This book provides practical methods and exercises to develop will power and self-discipline. They are taught in a way that they can be performed by everyone, everywhere and at any time. The exercises are aimed at overcoming inner resistance to bring about personal transformation.",
+        "author_name": "Remez Sasson",
+        "about_author": "Remez Sasson has been studying and practicing for many years self-improvement techniques, positive thinking, concentration, meditation, will power, self-discipline, creative visualization, and spiritual development. He has over thirty years of intensive study and has started to lecture and teach about these subjects.",
+        "subtitle": "",
+        "target_group": "The book is targeted at individuals who seek personal development and want to improve their self-discipline and will power. It is suitable for anyone who wishes to possess life skills for managing habits, behaviors and actions. This book is perfect for those who intend to achieve any form of success in life or wish to embark on a self-improvement program.",
+        "book_link": "http://www.successconsciousness.com/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Will power is the inner force driving determined action, overcoming resistance, and enabling success.",
+                "text": [
+                    "Will power is inner strength and determination to make decisions, take action, and accomplish aims despite difficulties. It helps overcome inner resistance and negative habits. A strong will executes plans, studies, exercises, and achieves success. With will power, one can resist temptations, assert oneself, and carry out tasks to a positive end. It provides decisiveness to act now instead of procrastinating. Will power pushes one towards goals with firmness, resolution and persistence. It is the driving force behind perseverance that allows one to follow beliefs despite opposition. Developing will power is valuable for executing ideas and being successful in life."
+                ],
+                "audio": {
+                    "size": 746057,
+                    "duration": 46629
+                }
+            },
+            {
+                "chapter_summary": "Self-discipline is rejecting instant gratification for long-term success through sustained effort and perseverance.",
+                "text": [
+                    "Self-discipline is the ability to reject instant gratification in favor of something better. It involves sacrificing short-term pleasure for long-term gain. A self-disciplined person sticks to their actions, thoughts and behaviors that lead to improvement and success. They keep their promises, follow through on decisions, and complete tasks by set deadlines. Self-discipline enables people to set goals and work steadily towards achieving them through sustained effort over time. It gives them control over their habits, behaviors and reactions. With strong self-discipline, one can withstand pressures and temptations without succumbing to impulses. Anything worthwhile requires sustained effort to accomplish, and self-discipline provides the perseverance to see efforts through to the end. Self-discipline and willpower work together - willpower provides the initiative to start and self-discipline enables the accomplishment. Both skills can be learned and developed over time. They are analogous to physical strength in that they provide the inner power to take action, overcome habits and resist pressure in order to achieve goals."
+                ],
+                "audio": {
+                    "size": 1212499,
+                    "duration": 75781
+                }
+            },
+            {
+                "chapter_summary": "Developing willpower and self-discipline enhances focus, overcomes negativity, and fosters success.",
+                "text": [
+                    "Will power and self-discipline help to overcome laziness, negative habits, and resist temptations. They provide the ability to focus, complete tasks, and achieve goals. Many people lack these qualities due to fear of failure, negative programming, and succumbing to distractions and instant gratification. However, will power and self-discipline can be developed through practice. Exercises like completing boring tasks, eliminating unhealthy habits, and resisting urges strengthen them over time. With persistence, one can gain control over their life, direct their actions consciously, and manifest their full potential. Though the path requires effort, the rewards are self-mastery, success, and fulfillment. By making the choice to develop will power and self-discipline, a person can unlock their inner power and live purposefully."
+                ],
+                "audio": {
+                    "size": 878132,
+                    "duration": 54883
+                }
+            },
+            {
+                "chapter_summary": "Decisive actions and persistence foster self-discipline and inner strength.",
+                "text": [
+                    "Making firm decisions is the first step to developing inner strength and willpower. Decide to stop giving in to bad habits and start manifesting self-discipline. Believe in your ability to follow through on these decisions. Write down your commitment and repeat it daily to reinforce your resolve. When resistance arises, persist anyway - overcoming it builds willpower. You have the power to choose how to respond in any situation rather than reacting automatically. For instance, when someone angers you, choose to stay calm instead of getting upset. With practice, you can break ingrained habits and obtain mastery over your mind and actions. Consistently making empowering choices develops inner fortitude."
+                ],
+                "audio": {
+                    "size": 793286,
+                    "duration": 49580
+                }
+            },
+            {
+                "chapter_summary": "Cultivating patience, perseverance, and conscious choice fosters inner strength and self-discipline.\n",
+                "text": [
+                    "Patience, perseverance and conscious choice are key to developing inner strength and self-discipline. We need patience in all areas of life to avoid anger, misunderstandings and unhappiness. It adds grace, respect and tolerance. Perseverance leads to results. Whether learning a new skill or building muscles, we must persist over time to see progress. Conscious choice gives us control over our actions. We can thoughtfully decide how to respond in any situation rather than reacting without thinking. This strengthens willpower. At first we may feel resistance to changing habits but with patience, attention and perseverance, conscious choice becomes easier. By working through the exercises in this book, we can cultivate patience, perseverance and conscious choice to build inner strength and self-discipline."
+                ],
+                "audio": {
+                    "size": 922017,
+                    "duration": 57626
+                }
+            },
+            {
+                "chapter_summary": "Positive affirmations and visualization enhance willpower and self-discipline.",
+                "text": [
+                    "Maintain a positive attitude about improving willpower and self-discipline. Don't dwell on negative thoughts or listen to naysayers. Think and believe you are strong and can gain more power. Positive thinking requires truly believing your affirmations, not just repeating them sporadically. Replace each negative thought with a positive one. Have unwavering faith and take positive actions for positive results. When you fail, try again with the same optimism.\n\nWords have power, so change negative self-talk to positives like \"I can do this\" and \"My willpower is strong.\" Feel these affirmations are true or at least pretend they are. Your attitude will gradually change, making you stronger, more capable and optimistic. Add visualization of yourself demonstrating willpower and self-discipline in various situations. Focus on the images and don't let contrary thoughts enter your mind. This will help you feel stronger."
+                ],
+                "audio": {
+                    "size": 1013551,
+                    "duration": 63347
+                }
+            },
+            {
+                "chapter_summary": "Boredom dissipates when we cultivate intense focus and mindful presence.",
+                "text": [
+                    "Boredom arises when we cannot focus our attention on the task at hand. When we are deeply engaged in an activity we enjoy, time seems to fly by. But when our minds drift during an uninteresting task, we become restless and bored. \n\nThe key is to cultivate inner strength and willpower to stay focused, even during mundane activities. With practice, we can train our minds to pay full attention to the present moment. Absorption in the task eliminates boredom and frustration. \n\nEven if the activity itself is not stimulating, the act of concentrating intently makes the time pass quickly. We forget everything else when we direct all our mental energy on the task or experience before us. By developing our willpower, we gain the ability to focus at will, regardless of whether the activity piques our interest.\n\nSingle-minded attention and concentration are the antidotes to boredom. When we immerse our awareness in the now, boredom disappears. Time seems to accelerate when we are fully present. With consistent practice, we can cultivate presence and inner strength to remain engrossed in every activity or moment."
+                ],
+                "audio": {
+                    "size": 1217097,
+                    "duration": 76069
+                }
+            },
+            {
+                "chapter_summary": "Strong willpower aids focus, mitigates boredom, and defends individual judgment.",
+                "text": [
+                    "Having a strong willpower allows one to focus their attention and avoid boredom. For example, a man went to a concert but his mind kept wandering and he waited for it to end. Suddenly he realized he should concentrate on the music to enjoy it. Despite distractions, he held his attention firmly on the performance. Soon he was engrossed in the music and lost track of time, with boredom gone. \n\nIn addition, a strong willpower helps one act according to their own judgment rather than blindly following others. Without it, we may find ourselves saying and doing things we later regret, just to gratify someone else's will. We may buy unnecessary items because someone persuaded us. We may even mirror another's anger instead of responding calmly. But with self-control, we can choose to accept or reject outside influences as we see fit."
+                ],
+                "audio": {
+                    "size": 896104,
+                    "duration": 56006
+                }
+            },
+            {
+                "chapter_summary": "Strong desire and motivation are essential for successful self-improvement.",
+                "text": [
+                    "Self-improvement requires desire and motivation. To develop inner strength and self-discipline, you must have a strong desire to change and the motivation to follow through. At first, it's best to keep silent about your efforts until you build willpower. Then criticism won't affect you. Read about and observe strong-willed people to inspire desire and motivation. Think often about the life changes you want that require inner power. Desire and motivation are the engine that pushes you forward. Without them, there is no progress. Approach self-improvement with an ambitious, energetic attitude, not half-heartedly. Real success comes from strong desire and motivation."
+                ],
+                "audio": {
+                    "size": 780747,
+                    "duration": 48797
+                }
+            },
+            {
+                "chapter_summary": "Willpower and self-discipline, like muscles, grow stronger with consistent exercise and patience.",
+                "text": [
+                    "Developing willpower and self-discipline is like exercising muscles. At first, it can seem challenging. But with perseverance and not giving in, gradually the mind accepts the new attitude. As willpower and self-discipline grow stronger through regular practice, confidence and happiness increase too. Some willpower exercises may appear pointless, yet they build inner strength. Every day there are situations requiring willpower and self-discipline. Doing exercises to sharpen them makes their strength available whenever needed, just like training muscles. With persistence, the mind and will align, bringing greater power and endurance.\n\nPerforming exercises can strengthen your inner self. It's best to start with simple, easy exercises first. Don't try difficult ones right away or you may get frustrated and quit. As you gain power, move on to more challenging exercises. Focus on doing a few well rather than many poorly. Quality over quantity. Keep at it and make the exercises a habit. This takes time and effort but is worthwhile. Your mind may resist at first, wanting to remain free and uncontrolled. But sticking with the exercises will increase your inner strength and ability to master your mind. The key is persistence. Do a few easy exercises daily. Slowly increase difficulty. Think often of the benefits. Remind yourself to practice. Building inner power requires patience and discipline. In time, you'll gain the strength to control your mind and live the life you desire."
+                ],
+                "audio": {
+                    "size": 1622099,
+                    "duration": 101381
+                }
+            },
+            {
+                "chapter_summary": "Overcoming resistance via small exercises cultivates willpower and self-mastery.",
+                "text": [
+                    "Inner strength is built by overcoming resistance and conquering habits. At first, the mind resists change and tries to persuade you not to do the exercises that build willpower. It is natural for the mind to want to continue its old habits. However, with consistent practice of small willpower exercises in daily life, resistance fades. These include counting steps while walking, switching which leg crosses over the other when sitting, using the non-dominant hand when eating, and giving up your seat on the bus. Such acts strengthen your willpower muscle. With time, you appreciate and even love the exercises. You experience the positive effects of inner strength on your life. What once seemed difficult becomes easy. You become the master of your life rather than a slave to old habits and weaknesses. Consistently confronting and conquering resistance develops an inner steel and victorious feeling. This makes you want to take on more challenges. In this way, small acts cultivate willpower and self-discipline, gradually transforming your mind into an ally rather than an adversary on the path to self-mastery."
+                ],
+                "audio": {
+                    "size": 1212499,
+                    "duration": 75781
+                }
+            },
+            {
+                "chapter_summary": "Detachment enhances willpower, enabling change and promoting inner peace.",
+                "text": [
+                    "Detachment, or the ability to stay calm and in control of our thoughts and feelings, is key to manifesting willpower. When we are too attached to habits, possessions, or people, it is harder to make changes in our lives. Detachment frees us from fixed patterns of behavior and brings peace of mind. It allows our willpower to flow more easily.\n\nWe can cultivate detachment by not becoming overly attached to unimportant things, delaying emotional reactions, and refusing to indulge worries and fears. With detachment, we keep a clear mind even in turbulence. The exercises for developing willpower also build our capacity for detachment. In time, we can more easily avoid negative thoughts and maintain inner peace."
+                ],
+                "audio": {
+                    "size": 800809,
+                    "duration": 50051
+                }
+            },
+            {
+                "chapter_summary": "Exercising restraint on unimportant desires promotes self-discipline and conscious decision-making.",
+                "text": [
+                    "Desires demand constant satisfaction, often in unrestrained, automatic ways. For example, watching TV, eating snacks, drinking alcohol, talking about an incident, yelling in anger, smoking a cigarette - these desires get satisfied instantly without thought. To gain control and reason in life, become aware of desires and pause before satisfying them. Not every desire must be followed right away. By resisting temptation and urge, one gains inner strength. This doesn't mean interfering with all desires, just those that waste time and energy or cause regret and sorrow. Exercising restraint on unimportant desires builds willpower and self-discipline, like lifting weights builds muscles. After resisting a desire and proving you can, you can satisfy it later if it's not harmful. By sacrificing unimportant desires, you gain strength for when you need it. This teaches awareness of thoughts and ability to choose actions instead of just reacting. The goal is inner power, not extreme self-denial. With practice, you can overcome negative, useless desires and make conscious choices."
+                ],
+                "audio": {
+                    "size": 1231725,
+                    "duration": 76983
+                }
+            },
+            {
+                "chapter_summary": "Daily small decisions reinforce our overall decision-making skills and self-confidence.",
+                "text": [
+                    "Making decisions, even small ones, is an important part of life. We make countless choices each day, from what to eat or wear to how to spend our time. While some decisions require careful thought, most are fairly minor. The ability to decide quickly about small matters develops our overall decision-making skills. This, in turn, gives us the courage and willpower to make major decisions when needed. \n\nTo build this skill, be aware of the many daily choices you make. Take charge and decide for yourself instead of letting others choose for you - even for simple things like what to order at a restaurant. Consider the options briefly, then make a firm decision. Stick to it without regret or second-guessing, even if it turns out not to be the perfect choice. Practicing this habit strengthens your decisiveness and self-discipline. With time, you will gain confidence in your own judgment. This inner power will serve you well when facing life's bigger decisions."
+                ],
+                "audio": {
+                    "size": 996832,
+                    "duration": 62302
+                }
+            },
+            {
+                "chapter_summary": "Performing disliked tasks strengthens willpower, increasing preparedness for life's difficulties.",
+                "text": [
+                    "Performing tasks we dislike strengthens our willpower. Though we may want to avoid certain activities, people or situations, confronting them builds inner fortitude. Like learning a new language requires practice speaking it, training our willpower necessitates doing disagreeable actions. With each unpleasant task we complete, we gain self-discipline. The more we strengthen our will, the better equipped we are to handle life's difficulties. To grow willpower, look for opportunities to do what you'd rather avoid. Start with one disagreeable action daily, then increase. It may seem hard initially, but gets easier. By overcoming reluctance and acting consciously, we become able to successfully face any unpleasant or demanding task without excuses. Our inner muscles grow stronger with each rep."
+                ],
+                "audio": {
+                    "size": 889835,
+                    "duration": 55615
+                }
+            },
+            {
+                "chapter_summary": "Anger management enhances well-being and strengthens relationships through mindful response.",
+                "text": [
+                    "Anger and other negative emotions like worry, fear, and impatience interfere with our well-being and relationships. They arise from frustrations, opposition, and unpleasant experiences that press our mental \"buttons.\" Anger causes us to lose control and give in to instant gratification. It's better not to let anger arise at all. When it does, become aware of it and your body's tension. Take deep breaths, relax, and realize anger's destructiveness. View it detachedly, as if watching a stranger. Use your imagination to defuse anger, like picturing an irritant as something positive. Reflect on anger's uselessness. Don't let yourself get offended, which gives others control. Offense is often misinterpreted. With willpower, rise above hurt feelings. Disregard them with disinterest, power, and calm friendliness. Handled well, anger's arising can strengthen us."
+                ],
+                "audio": {
+                    "size": 963395,
+                    "duration": 60212
+                }
+            },
+            {
+                "chapter_summary": "Will power curbs negativity, fosters positive reactions, and refines verbal control.",
+                "text": [
+                    "Will power serves as a gatekeeper, closing the door to negative feelings, thoughts and words. Well-developed will power enables rejecting unnecessary, futile thoughts and emotions like anger, resentment and depression. Accepting whatever enters the mind shows weak will power. When a negative thought or feeling arises, don't give it attention. Use will power to divert attention to something useful. \n\nWith practice, you can prevent instinctive negative verbal reactions by becoming aware of them and replacing them with positive or neutral statements. For example, saying \"It's a bit chilly\" instead of \"I'll catch a cold.\" Persistence is key in transforming habits.\n\nControlling impulsive speech also builds will power. Resisting the urge to gossip or say whatever comes to mind stores that energy for better purposes. Eliminate negative words from your vocabulary. Refrain from unnecessary remarks to gain control over what you say. This develops the ability to guard secrets and say only what you intend."
+                ],
+                "audio": {
+                    "size": 1103830,
+                    "duration": 68989
+                }
+            },
+            {
+                "text": [
+                    "Final Summary: Remez Sasson's book \"Will Power and Self Discipline\" is a comprehensive guide to harnessing inner strength. The book underscores the importance of will power and self-discipline, stating that these two attributes are critical for success in all aspects of life. The author offers a systematic approach to develop and strengthen these powers. Central to his methodology is the idea of embracing discomfort and intentionally triggering circumstances that require the manifestation of these abilities. \n\n10 Actions to implement from the book:\n1. Consistently remind yourself of your resolution to strengthen your will power and self-discipline.\n2. Do not react in haste or anger. Practice patience and thoughtful response in any situation.\n3. Always finish a task once started.\n4. Choose activities which require willpower and self-discipline. Practice these activities to strengthen those attributes.\n5. Consciously and purposely refrain from fulfilling unnecessary desires or actions.\n6. Wake up early in the morning. Make it a daily habit as it requires will power and self-discipline.\n7. Try to control your eating habits. Avoid succumbing to cravings especially for junk food.\n8. Practice meditation to improve concentration.\n9. Start a self-improvement program and stick to it, however tough it gets.\n10. Do not fall prey to procrastination; complete your tasks in a timely manner. This helps in solidifying your self-discipline."
+                ],
+                "audio": {
+                    "size": 1622517,
+                    "duration": 101407
                 }
             }
         ]
