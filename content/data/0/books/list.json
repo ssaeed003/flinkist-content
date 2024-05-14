@@ -102582,10 +102582,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2971,
         "name": "How to Finish Everything You Start",
-        "create_date": 1714686136030,
+        "create_date": 1714686136031,
         "Year": "2019",
         "tags": [
             "productivity",
@@ -103008,10 +103008,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2976,
         "name": "What to do?",
-        "create_date": 1714686151934,
+        "create_date": 1714686151935,
         "Year": "1902",
         "tags": [
             "history",
@@ -104702,6 +104702,281 @@
                 "audio": {
                     "size": 2643591,
                     "duration": 165224
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2983,
+        "name": "How To Be Weird",
+        "create_date": 1715713268115,
+        "Year": "2022",
+        "tags": [
+            "motivation & inspiration",
+            "english"
+        ],
+        "summary": "In 'How To Be Weird', Eric G. Wilson guides his readers on a journey to embrace and develop their uniqueness. The book is filled with practical exercises that encourage individuals to break free from conformity and discover their peculiarities. It's a celebration of weirdness and a call to challenge homogenization.",
+        "author_name": "Eric G. Wilson",
+        "about_author": "Eric G. Wilson is an author known for his unique style and perspective. He frequently explores themes of individuality, eccentricity, and the strange. He resides in Winston-Salem, North Carolina and brings an unusual yet engaging voice to the literary world.",
+        "subtitle": "An Off-Kilter Guide to Living a One-Of-A-Kind Life",
+        "target_group": "This book targets individuals who are tired of conforming to societal norms and are interested in embracing their weirdness. It's for those seeking a life lived authentically, with novelty, and a fitting resource for creatives, nonconformists, and anyone looking to foster an original perspective on life.",
+        "book_link": "https://www.amazon.de/-/en/Eric-G-Wilson/dp/0143136577/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Embracing weirdness fosters originality and challenges the status quo.",
+                "text": [
+                    "Weirdness challenges conformity and sparks originality. To cultivate your inner weird, become hyperalert to your own curiosities. Keep a notebook to record your observations and emotions. Choose a pencil or pen that feels right, like your old tennis racket or paintbrush. Make art with simple tools - paper, colored pencils, modeling clay. Go for walks and take photos. Play imaginary games. Do things that gently knock you out of your ruts, like breaking a witching stick, making ink from pennies, or coloring your own Tarot deck. The point is not to finish exercises but to swerve your mind and enchant yourself. Through weirdness you can embrace the parts of you that make you different. This is risky but it's how you spark flair. Weirdness questions the status quo and opens new possibilities. It's political. Don't despair at being yourself. Distract yourself and be enchanted. This book gives you 99 ideas how to be weird. In the following you will discover 10 of them. "
+                ],
+                "audio": {
+                    "size": 1057854,
+                    "duration": 66116
+                }
+            },
+            {
+                "chapter_summary": "Create an Overview Effect",
+                "text": [
+                    "When astronauts first view Earth from space, they often experience a profound shift in perspective called the \"overview effect.\" This feeling of awe and interconnectedness with the universe inspired Apollo astronaut Edgar Mitchell to quit NASA and form an institute exploring human potential. Other Apollo astronauts had spiritual awakenings and devoted themselves to new pursuits after returning. You don't have to go to the moon to glimpse this cosmic consciousness. Simply observing nature up close, then looking up at the sky and imagining your cosmic connection, can reframe your worries as small and your heart as vast. A memento from your earthly study can remind you that you're only a perception shift away from syncing with the infinite. This \"overview effect\" arises when space travelers behold Earth's fragility and humanity's unity. Gazing at the ground, then the sky, highlights our cosmic belonging. Simple practices reconnect us to this web when life feels disconnected and anxious."
+                ],
+                "audio": {
+                    "size": 1083768,
+                    "duration": 67736
+                }
+            },
+            {
+                "chapter_summary": "Encourage Moments of Yūgen",
+                "text": [
+                    "Life can easily become routine, with our focus narrowed to survival and understanding. But there are special moments that open our perception to new possibilities. Alan Watts called these yūgen - mysterious sensations of profundity, like watching the sun set over a field of poppies. We cannot explain these moments rationally. They arise unpredictably, silencing our practical concerns and beckoning us to explore. Beyond each new horizon lies another and another, forever. To foster yūgen, Watts suggests setting aside time for a solitary, aimless walk. Recall the anticipation of childhood, when anything could happen. Notice thresholds - doors, gates, clouds - and imagine what lies beyond. Let your mind wander freely. Later, capture the essence of this experience in a sentence, drawing, or object. Store it somewhere special. When life feels stale, take it out and remember: there is always more. Yūgen reminds us life is open-ended, ever-unfolding mystery."
+                ],
+                "audio": {
+                    "size": 1134341,
+                    "duration": 70896
+                }
+            },
+            {
+                "chapter_summary": "Astonish Your Words",
+                "text": [
+                    "Words often fall short in capturing the full intensity of our inner experiences. When trying to express intense emotions like depression, anxiety, or love, the words we commonly use can seem bland or inadequate. Poets redefine words through vivid imagery to bring language closer to lived experience. For instance, Emily Dickinson described her depression as a \"funeral\" in her brain. Redefining the words we use to describe our moods can help us become more intimate with our inner states. By turning our mood into a concrete thing, we can examine it up close, keep it near, or set it aside. Through fresh imagery, we can liberate words from the lexicon and arrive at truer expressions. By doing this, we may gain new understanding of what we feel."
+                ],
+                "audio": {
+                    "size": 861831,
+                    "duration": 53864
+                }
+            },
+            {
+                "chapter_summary": "Turn This Book into a Shovel",
+                "text": [
+                    "Things are often tired of being only one thing. We can liberate objects by using our creativity to transform them into something new. Start with small everyday items. Take a paperclip and bend it into different shapes like a letter, bracelet or worm. There's no such thing as 'paperclip-ness'. Objects are more like verbs than nouns. Their meaning isn't fixed. Practice turning one element into another form of energy. Consider this book. How many things could it become? Maybe a tray, spinning top, weapon, shovel, dollhouse, hat, plate or falling object. The point is to use your imagination to see beyond an object's usual purpose. This exercises creativity and turns hard facts into flexible fantasies. Science says transforming objects improves innovative thinking. And who doesn't want more of that? The magic is seeing past an item's single identity and turning it into something delightfully different."
+                ],
+                "audio": {
+                    "size": 985965,
+                    "duration": 61623
+                }
+            },
+            {
+                "chapter_summary": "Go Sinister",
+                "text": [
+                    "Charles Sanders Peirce was a philosopher who believed being left-handed caused his troubles. He tried to strengthen his right hand to influence his brain. Modern science shows this doesn't work. But learning to write with our non-dominant hand still has value. It helps us see things from a new perspective. We become more open-minded when we try things in an opposite way. Simple exercises like writing your name with the other hand can make you more tolerant and less prone to oversimplification. Gradually writing more with your non-dominant hand develops an \"alter ego\" that provides a fresh viewpoint. Though we can't change our brains by hand exercises, purposefully doing things differently expands our thinking."
+                ],
+                "audio": {
+                    "size": 774060,
+                    "duration": 48379
+                }
+            },
+            {
+                "chapter_summary": "Assemble a Shadow Box",
+                "text": [
+                    "Joseph Cornell found joy in creating art from everyday objects. He frequented antique stores and thrift shops in New York City, gathering an eclectic collection of items like marbles, shells, images of actresses, and passages from books. He carefully arranged these objects in wooden boxes, creating miniature theaters where striking juxtapositions animated the mundane. For example, one box featured a Victorian doll surrounded by painted twigs, representing a fairy tale world. Another contrasted a haughty Medici prince portrait with playful toys, suggesting the spiraling nature of time. The boxes became Cornell's escape from his cramped home life. \n\nTo create your own Cornell box, spend a week gathering random objects that spark your imagination. Choose seven favorites and decorate a shoebox, adding color or fabric as desired. Arrange the objects creatively inside the box, securing some with glue or tape. Display and observe how the box's meaning evolves over time, as you make new connections between the items. Make a seasonal box for each time of year in this artistic, meditative spirit."
+                ],
+                "audio": {
+                    "size": 1202886,
+                    "duration": 75180
+                }
+            },
+            {
+                "chapter_summary": "Arrange a Wunderkammer",
+                "text": [
+                    "Athanasius Kircher was a 17th century German Jesuit who was fascinated by many subjects, including languages, history, geology, medicine, inventions, and the Bible. He curated a famous Wunderkammer, or \"cabinet of curiosities,\" displaying objects related to his diverse interests, like Egyptian artifacts, fossils, and odd inventions. Visitors could hear Kircher's commentary on the objects through a tube to his bedroom. While Kircher's collection exoticized non-Western cultures, artist Amalia Mesa-Bains created a more respectful New World Wunderkammer exhibiting meaningful objects from indigenous cultures. She organized them to represent concepts like memory, struggle, and wonder, healing feelings of loss and displacement. Creating your own Wunderkammer allows you to collect personally meaningful oddities. Your collection may reflect your inclinations, family history, or social group. Hunting for these curiosities makes you more observant of the world and connected to your heart."
+                ],
+                "audio": {
+                    "size": 1135177,
+                    "duration": 70949
+                }
+            },
+            {
+                "chapter_summary": "Design a Mappa Mundi",
+                "text": [
+                    "Ancient maps reveal the dreams of their makers and are confessions made of space. The 1154 Islamic map by al-Sharīf al-Idrīsī was based on interviews with travelers and showed a circular world with Arabia at the center. The European Hereford Mappa Mundi from 1300 expressed Christianity with Eden at the top and Jerusalem at the center. Both maps included mythical monsters, reflecting imagination. To understand yourself, make a mental map. Put your ideal state at the top and your best self at the center. Fill in spaces with symbols of your identity - defenses, anxieties, obstacles. Cluster positive symbols near the top. Color it and hang it to inspire self-reflection. Ancient maps expressed ideals; making your own map reveals self-knowledge."
+                ],
+                "audio": {
+                    "size": 915330,
+                    "duration": 57208
+                }
+            },
+            {
+                "chapter_summary": "Forge a New Identity",
+                "text": [
+                    "Names have power. Famous people like Mary Anne Evans, Eric Blair, Samuel Clemens, Archibald Leach and Caryn Johnson changed their names to reshape their identities and further their careers. Recent research shows that a name can influence personality and appearance. The expectations tied to a name - that a Katherine will be successful or a Bob will have a round face - can lead people to unconsciously change their behavior and looks to match the name. Celebrities likely changed their names to escape constraints and play new roles more successfully. Contemplating a name change can provide relief from insults, insecurity and weariness with one's identity. Even just imagining being someone else named on a folded piece of paper in a wallet can provide a temporary escape before returning, with fresh perspective, to being your old self again. Though names have power, your identity is not wholly defined by the name you currently bear."
+                ],
+                "audio": {
+                    "size": 1067467,
+                    "duration": 66717
+                }
+            },
+            {
+                "chapter_summary": "Pursue Astral Pareidolia",
+                "text": [
+                    "Pareidolia is the perception of meaningful images in random patterns. It is wired in our brains to recognize faces for survival. But while seeing familiar forms is useful, it also makes the world seem monotonous, like a mirror of ourselves. To refresh our connection to the world, we can practice \"astral pareidolia\" - perceiving strange, uncanny forms in the random patterns of stars. By projecting unfamiliar shapes onto the night sky and drawing them, we can rediscover the mystery of the cosmos. This exercise challenges us to see beyond the familiar and expand our imagination. Practicing astral pareidolia renews our sense of creativity and wonder."
+                ],
+                "audio": {
+                    "size": 731010,
+                    "duration": 45688
+                }
+            },
+            {
+                "text": [
+                    "Final Summary: \"How to be Weird\" by Eric G. Wilson is a unique and thoughtful guide on embracing one's individuality and peculiarity. It encourages readers to defy homogenization and conformity and valorizes the specific and the \"other.\" The author, drawing on his own experiences and conversations with colleagues, presents exercises and suggestions that encourage non-conformist thinking and actions.\nEach of these actions encourages divergence from the norm, stimulating individual creativity and a unique perspective on life, which is at the heart of Wilson's message."
+                ],
+                "audio": {
+                    "size": 625684,
+                    "duration": 39105
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2984,
+        "name": "The Like Switch",
+        "create_date": 1715713279710,
+        "Year": "2015",
+        "tags": [
+            "communication",
+            "psychology",
+            "english"
+        ],
+        "summary": "'The Like Switch' reveals the strategies an ex-FBI Agent used to recruit spies and make friends out of foes and provides guidance on how to use that understanding for interacting with others, making friends and maintaining successful relationships.",
+        "author_name": "Jack Schafer, Marvin Karlins",
+        "about_author": "Jack Schafer, Ph.D., is a psychologist, professor, intelligence consultant and former FBI Special Agent. His 15-year-long career in FBI involved conducting counterintelligence and counterterrorism investigations. He developed meaningful strategies to recruit spies and make friends out of sworn foes.\n\nMarvin Karlins is a professor at the University of South Florida and specializes in organizational behavior and business communication.",
+        "subtitle": "An Ex–FBI Agent’s Guide to Influencing, Attracting, and Winning People Over",
+        "target_group": "This book is beneficial for anyone who wants to enhance their interpersonal skills, establish relationships, or interact more effectively with supervisors, colleagues, subordinates, and customers. It's also valuable for those seeking friends or romantic relationships.",
+        "book_link": "https://www.amazon.de/-/en/Jack-Schafer/dp/1476754489/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Overcoming social anxiety and establishing connections requires learning and practicing proven rapport-building techniques.",
+                "text": [
+                    "Making friends can be challenging, but it doesn't have to be. We all have a deep need for connection, yet many people report feeling isolated. With the right skills and techniques, you can overcome social anxiety and develop meaningful relationships. \n\nThe key is learning how to get people to like you without saying a word. FBI behavioral analyst Jack Schafer developed powerful methods for building rapport and trust as part of his work recruiting spies. He later realized these same techniques could be used to make friends and influence people in everyday life.\n\nThe Like Switch presents research-based strategies to improve your Likability Quotient. Salespeople can establish new clients, employees can get along better with coworkers, parents can strengthen bonds with children, and singles can find romantic partners. The techniques allow you to make positive first impressions, maintain existing relationships, and get better service in customer interactions.\n\nMaking friends takes willingness to learn new skills, actually using them in real interactions, and constant practice. With the right tools, you can override fear of rejection and let your natural sociability emerge. Approach social situations with confidence by utilizing these proven methods for getting people to like you. Meaningful connections are within reach if you flip the Like Switch."
+                ],
+                "audio": {
+                    "size": 1405596,
+                    "duration": 87850
+                }
+            },
+            {
+                "chapter_summary": "Nonverbal cues and psychology are key to transforming strangers into friends.",
+                "text": [
+                    "Psychology and nonverbal communication play crucial roles in building friendships and influencing people. The \"Friendship Formula\" consists of four key elements: proximity, frequency, duration, and intensity. This formula is exemplified by the case of \"Operation Seagull,\" where FBI agent Charles gradually gained the trust of a foreign diplomat, Seagull, ultimately recruiting him as a spy.\n\nProximity involves being physically close to someone, increasing their likability. Frequency is about the regularity of interactions, and duration concerns the length of time spent together. Intensity relates to meeting psychological needs through both verbal and nonverbal means. When these elements are effectively combined, they can transform a stranger into a friend.\n\nNonverbal cues, categorized as \"friend signals\" and \"foe signals,\" indicate an individual's openness or suspicion. Mastering these signals is key to turning strangers into friends. Understanding these natural psychological processes can significantly enhance social skills, crucial in a time when digital communication often replaces face-to-face interactions."
+                ],
+                "audio": {
+                    "size": 1301524,
+                    "duration": 81345
+                }
+            },
+            {
+                "chapter_summary": "Effective nonverbal cues facilitate positive first impressions and foster relationships.",
+                "text": [
+                    "Making friends begins with first impressions. Nonverbal signals send messages before a word is spoken. Friend signals like eyebrow flashes, head tilts and smiles make you appear welcoming. Foe signals like staring, invading space or eye rolls push people away. Knowing the difference helps start relationships on the right foot. Smiles must be genuine, with eye wrinkles, not forced. Head tilting exposes the neck, showing you're not a threat. Mirroring posture and gestures shows you're listening and interested. Whispering indicates intimacy. Touching hands reveals interest levels. Watch groups to see if feet point inward or outward, signaling if new people can join. Approach with friend signals, listen first before speaking. Find common ground to connect. Use people's names when you see them again. Making some small mistakes can endear you to others. Practice reading cues when people-watching. Nonverbals reveal if couples are romantic, strained or split. First impressions matter, so make yours a friendly one."
+                ],
+                "audio": {
+                    "size": 1110517,
+                    "duration": 69407
+                }
+            },
+            {
+                "chapter_summary": "Successful friendship requires empathic listening, promoting self-recognition, and mutual goodwill.",
+                "text": [
+                    "Making friends requires focusing your attention on others, not yourself. The key is to make people feel good about themselves. One effective way to do this is by using empathic statements, which show you are listening and understand how the other person feels. For example, saying \"You seem happy today\" when someone is smiling reflects their emotional state back to them. This closes the communication loop, making them feel understood. \n\nAnother technique is allowing people to compliment themselves instead of directly flattering them, which can seem insincere. You can prompt self-compliments by making relevant statements about their attributes, like saying \"It takes dedication to work 60 hours a week\" to someone who put in long hours on a project. This allows them to silently congratulate themselves.\n\nAsking someone to do a small favor for you also makes them feel good, as helping others is rewarding. Just don't overuse this technique. And beware of prejudging people due to the \"primacy effect\" - first impressions bias future interactions. Instead, use third-party compliments to positively influence how others perceive someone prior to meeting them.\n\nThe key is the \"Golden Rule of Friendship\" - making people feel good about themselves. Do this and they will like you and want to make you feel good as well. So focus on their needs and make your interactions about them, not you. This reciprocal goodwill can lead to lifelong friendships and other benefits."
+                ],
+                "audio": {
+                    "size": 1569018,
+                    "duration": 98064
+                }
+            },
+            {
+                "chapter_summary": "Friendship hinges on similarity, reciprocity, self-disclosure, balanced benefits, and positive attributes.",
+                "text": [
+                    "Making friends requires understanding the laws that attract people to each other. Similarity draws people together, as they reinforce each other's views and avoid conflict. Good feelings get associated with nearby people through misattribution. Reciprocity means returning kind acts, making people obligated to befriend you if you befriend them first. Self-disclosure builds closeness when matched. Attractiveness, humor, familiarity through repeated contact, associating with liked groups, and high self-esteem all magnetize others. Playing slightly unavailable intrigues people. A rocky start can lead to a closer bond. Extroverts seek breadth of shallow friends, while introverts have few but deeper ones. Personality types should match. Complimenting others sincerely makes them feel good about you and themselves. In short, making friends relies on bringing out the best in others."
+                ],
+                "audio": {
+                    "size": 983040,
+                    "duration": 61440
+                }
+            },
+            {
+                "chapter_summary": "Effective verbal behavior, encompassing listening, observing, vocalizing, and empathizing, is essential to foster friendship.",
+                "text": [
+                    "Ultimately, the bond of friendship is conversation. Verbal communication plays a large role in making and keeping friends. The words you say and how you listen impacts relationships. There are four key rules for using verbal behavior to activate the Like Switch in others: Listen, Observe, Vocalize, and Empathize (LOVE). \n\nListening fully shows interest in others. Maintain eye contact and let them speak without interruption. Use empathic statements like \"You seem excited about your trip\" to show you are listening. Observing means watching for nonverbal cues before, during and after speaking. Notice signs of discomfort like lip purses or touching lips. Adjust what you say if needed.  \n\nVocalizing wisely also matters. Tone indicates feelings beyond the words. Speed changes urgency. Make pauses to allow others to speak. Avoid sarcasm without tonal cues. Say things that elevate others' status through compliments. Ask for advice instead of just stating facts to avoid putting others on defense. Use elicitation to subtly gather information by making presumptive statements that encourage correction or reciprocity.\n\nEmpathizing demonstrates understanding of others' feelings. \"You seem worried about something\" shows care. This fulfills the need to be recognized, making people feel good and more likely to like you. In short, the LOVE rules allow you to speak the language of friendship through verbal behavior."
+                ],
+                "audio": {
+                    "size": 1589916,
+                    "duration": 99370
+                }
+            },
+            {
+                "chapter_summary": "Mastering nonverbal cues is vital for building and assessing rapport in relationships.",
+                "text": [
+                    "Building close relationships requires establishing rapport, a psychological connection between people. Strangers can become casual acquaintances, friends, or even significant others through strengthening rapport over time. \n\nRapport is built through friend signals like smiling, open body language, mirroring, and intimate but appropriate touching. It's tested by observing these cues reciprocated over time through techniques like the “lead and follow” approach. Strong rapport is indicated by inward leaning, torso repositioning to face each other, grooming behaviors, whispering, and removal of barriers. Lack of rapport is signaled by opposite behaviors like leaning away, asynchronous posture, barriers, and foe signals.\n\nRapport must be calibrated to each relationship. It develops gradually, signaled by progressive removal of barriers, increased eye contact, touching, whispering. Mastering nonverbal cues helps assess rapport at each stage, avoiding misinterpreting behaviors. With practice, one can accurately read rapport levels in various relationships."
+                ],
+                "audio": {
+                    "size": 1149387,
+                    "duration": 71837
+                }
+            },
+            {
+                "chapter_summary": "Nurtured, compassionate, and communicative care sustains long-term relationships.",
+                "text": [
+                    "Long-term relationships require nurturing and care to sustain passion and partnership over time. The key is showing compassion, concern and care for your partner through actions big and small. Listen actively to understand their needs and reinforce positive behaviors with praise. Empathize with their feelings and perspectives. Manage disagreements by allowing them to vent frustrations, then calmly seek solutions. Though all relationships require compromise, sometimes they still fail despite best efforts. But if the love and connection was once strong, it may be rekindled by reminiscing on cherished memories. With consistent nurturing, understanding and communication, relationships can continue to grow and thrive for years. The effort is well worth it for the joy, support and meaning shared lives provide."
+                ],
+                "audio": {
+                    "size": 851382,
+                    "duration": 53211
+                }
+            },
+            {
+                "chapter_summary": "Digital opportunities for relationships abound, yet caution and verification safeguard trust.",
+                "text": [
+                    "The digital world provides many opportunities for building relationships, but also comes with risks. Online communication lacks the nonverbal cues that help us assess others in real life. This makes it easier for people to misrepresent themselves. However, by using techniques to verify information and insisting on visual meetings early on, we can avoid being deceived. The internet allows us to connect with those who share our interests, no matter how obscure. Anonymity also makes some more comfortable opening up. But anything posted online can gain digital immortality, so caution is required. Following etiquette for smartphones, email, and social media protects privacy and relationships. Online dating profiles often enhance attractiveness, but going too far breeds distrust when the truth emerges. Competing hypotheses and other methods help overcome the tendency to trust what we read. Emotional investment and other factors keep people in unhealthy relationships. Early visual meetings expose deception and let nonverbals reveal the truth. Overall, the online world expands possibilities for meaningful relationships if used with care."
+                ],
+                "audio": {
+                    "size": 1288150,
+                    "duration": 80509
+                }
+            },
+            {
+                "text": [
+                    "Final Summary: \"The Like Switch\" by Jack Schafer is an informative guide by an ex-FBI agent that provides actionable methods for influencing, attracting, and winning people over. The book offers a unique perspective on human interactions and encourages the reader to establish more successful interpersonal relationships in any scenario. Through the presentation of powerful tools and techniques, Schafer mobilizes individuals to cultivate great friendships at home, work, or any place where personal interactions unfold. The book underscores that developing meaningful relationships is not simply about luck but the application of scientific knowledge and techniques. \n\n10 Actions to Implement The Learnings From The Book:\n\n1. Practice the verbal prompts and nonverbal cues presented in the book in everyday interactions to foster likedness.\n2. Use the techniques suggested for every new interaction whether it's professional or personal.\n3. Practice, use, and master the techniques constantly as the more you use them, the more proficient you become.\n4. Stay positive and avoid talking about negative topics as this could hinder friendship formation.\n5. Refrain from talking excessively about yourself and ensure the conversations maintain a balance.\n6. Limit the expression of extreme emotions and unnecessary chatter which may switch off the Like Switch.\n7. Be attentive in your conversations and respond effectively to cultivate successful friendships.\n8. Commit to learning and mastering the interpersonal strategies proposed in the book, allowing them to work seamlessly in any interaction like a power tool.\n9. Cultivate a rich understanding of the techniques and apply them appropriately to warrant better deals, improved relationships, and build a clientele base if needed.\n10. Aim to practice understanding nonverbal cues when interacting and check if these are reflective of the techniques suggested in the book, this will ensure effective implementation of the learning from the book."
+                ],
+                "audio": {
+                    "size": 2227304,
+                    "duration": 139206
                 }
             }
         ]
