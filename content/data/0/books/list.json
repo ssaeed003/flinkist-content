@@ -102193,10 +102193,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 1300,
         "name": "Grit",
-        "create_date": 1714662701165,
+        "create_date": 1714662701166,
         "Year": "2016",
         "tags": [
             "psychology",
@@ -104574,6 +104574,134 @@
                 "audio": {
                     "size": 1789701,
                     "duration": 111856
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2986,
+        "name": "The New Testament in Its World",
+        "create_date": 1715703935515,
+        "Year": "2019",
+        "tags": [
+            "religion & spirituality",
+            "history",
+            "english"
+        ],
+        "summary": "The book takes you inside the minds of the first-century faithful and the leaders of the New Testament, providing context to their experiences, challenges, and triumphs. It is essential for anyone seeking an understanding of the New Testament in its early Christian context from a historical, literary, and theological perspective.",
+        "author_name": "N. T. Wright, Michael F. Bird",
+        "about_author": "N. T. Wright is a leading biblical scholar, former Bishop of Durham in the Church of England and current Research Professor of New Testament and Early Christianity at the University of St. Andrews.\n\nMichael F. Bird is a theologian and New Testament scholar, and currently serves as a lecturer in Theology at Ridley College in Melbourne, Australia.",
+        "subtitle": "An Introduction to the History, Literature, and Theology of the First Christians",
+        "target_group": "This book is perfect for people who are interested in Christianity's roots, theology students, and those who want to gain a deeper understanding of the historical context of the New Testament.",
+        "book_link": "https://www.amazon.de/-/en/N-T-Wright/dp/0310499305/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "The New Testament depicts God's plan to restore humanity from chaos through Jesus' sacrificial love.",
+                "text": [
+                    "The New Testament serves as a testament to God's roadmap aimed at saving the world from chaos and idolatrous worship. It engages us in the intricate storyline of creation where humans, originally designed to venerate God, deviated from this path, breaking the divine covenant with God. The documentation relays how Jesus strove to mend the broken agreement and return creation to its original state through his time on earth, his death, and his resurrection. Through engaging with the New Testament's teachings, individuals can align closer with divine truth and integrate the historical account into their own lives. \n\nThe New Testament merges the realms of history, literature, and theology. It records genuine historical events that revolved around Jesus in first-century Judea. Employing narrative techniques, it uses the art of storytelling as an instrument of teaching. Its theology offers insights into our identity, discusses the shortcomings of the world, and sheds light on God's blueprint to rectify these faults. \n\nDuring their exploration of these texts, readers should stay aware of personal biases and approach the teachings from the perspective of God's benevolence. The depth of understanding is derived from the melding of the author's purpose, the message conveyed by the text, and the reader's personal experiences. The more contexts one can interconnect, the more profound one's understanding becomes. \n\nThe New Testament's authority is vested in its message. By delineating the narrative theologically, it provides answers to profound queries and encourages us to anticipate the conclusion with hope and lead our lives accordingly. As improvised performers of the final act, it becomes the church's responsibility to represent these teachings, thereby facilitating the growth of disciples and fostering interaction with the broader world."
+                ],
+                "audio": {
+                    "size": 1986142,
+                    "duration": 124134
+                }
+            },
+            {
+                "chapter_summary": "Jesus was born into a complex world, shaped by Jewish hope and Greco-Roman culture.",
+                "text": [
+                    "This is an exploration of the Jewish history between the iconic Persian and Roman Empires. During this period, Jewish people experienced alternating episodes of foreign domination and self-rule. Notably, governing powers such as the Babylonians, Persians, Greeks, Egyptians, Syrians, and Romans at different times had control over their land, Palestine.\n\nAn important historical event in that era was the Maccabean revolt against the Seleucids in the 160s BC. This led to around a hundred years of partial self-rule under the reign of the Hasmonean dynasty. The Romans became involved during a Hasmonean civil war in the first century BC, leading to the rise of Herod as the king of Judea.\n\nIn Jesus' era, Jewish society was structured hierarchically, with a clear divide between the rich and the poor. Honour, achievements for men and modesty and domestic skills for women were important social values. The Pharisees adhered to the Torah and the oral law, while the Sadducees rejected notions like resurrection. Hopes of divine intervention for rescue, justice, and restoration were central to Jewish belief.\n\nThe Greeks and the Romans had a significant influence on the Jewish culture. Their legacy was the transmission of their language, political systems, and infrastructure. Roman religion centred around public festivities and domestic gods, while philosophy offered various perspectives of life. The Jewish diaspora played a significant role in planting the roots of early Christianity throughout the Empire.\n\nIn conclusion, the world Jesus entered was a mosaic of Jewish aspirations, Greek wisdom, and Roman philosophical ideals."
+                ],
+                "audio": {
+                    "size": 1798896,
+                    "duration": 112431
+                }
+            },
+            {
+                "chapter_summary": "Jesus, a Jewish prophet, saw his sacrificial death as the key to God's kingdom.",
+                "text": [
+                    "The story revolves around Jesus of Nazareth, a prophet from the first-century who firmly believed in the imminent arrival of God's kingdom. He propagated the message that God would soon step in to rescue Israel, chastise the wicked, and lay the foundations of justice and peace. Not just his words, but his deeds too, showcased his exceptional abilities; Jesus had the power to perform miracles and he prophesied God's imminent judgment on the temple in Jerusalem.\n\nPerceiving himself as integral to the advent of God's kingdom, he garnered immense popularity. But this attention also came from some who considered him a threat, particularly the Jewish authorities who saw him as a dangerous revolutionary swaying the masses away from the true path. To them, his popularity and temple protest were ominous. Accused of being a false prophet and a rebel, Jesus was tried and Crucified.\n\nDespite this, a group of loyal followers clung to the belief that he was indeed the Messiah, the chosen one. However, popular Jewish belief during that period envisioned a militaristic saviour who would overthrow the oppressing Roman rule, a role Jesus didn't fit into. Jesus himself visualized his death as the culmination and thus, the climax of his mission. He used the symbolism of the Exodus at his final supper, interpreting his impending death as a sacrificial offering similar to the Passover, aiming to liberate mankind from sin and their spiritual exile.\n\nAdhering closely to the depiction of the suffering servant in Isaiah 53, Jesus believed his death would mark the defeat of evil and the initiation of God's reign. This understanding of Jesus' death and their faith in his resurrection became the core tenet of his disciples' teachings regarding God's kingdom."
+                ],
+                "audio": {
+                    "size": 1861172,
+                    "duration": 116323
+                }
+            },
+            {
+                "chapter_summary": "Jesus' resurrection is crucial to Christianity, embodying divine power, validating ministry, and inaugurating God's kingdom.",
+                "text": [
+                    "Central to Christian faith is the concept of Jesus's resurrection, unlike in Greek and Roman thought where this idea was unfamiliar. In the Old Testament, it suggested the metaphor of Israel's revival, whereas some Jewish writings between the Old and New Testaments, like 2 Maccabees 7, expressed martyrs' aspiration for a literal resurrection. Stories about an empty grave, appearances of Jesus, and the initial disbelief of the disciples draw from early testimonies. Despite being adorned with details, these accounts maintain the essence of the primary records. \n\nProminently, Paul confirmed the authenticity of Jesus' resurrection - a critical turning point that set the course for salvation and a rebirth in Christ. For him and those who spread the gospel, the resurrection of Jesus was not only a demonstration of divine power but also an affirmation of his teachings. Moreover, it marked the origin of the church and initial manifestation of God's realm. This resurrection necessitates a daring leap of faith, ushering believers into new roles in an altered world."
+                ],
+                "audio": {
+                    "size": 1099650,
+                    "duration": 68728
+                }
+            },
+            {
+                "chapter_summary": "Paul's conversion and teachings were fundamental in shaping Christianity's universality.",
+                "text": [
+                    "Paul, originally named Saul, was a significant figure in the early spread of Christianity. Born and trained in the Jewish faith in Tarsus, he was a fervent antagonist of the newborn Christian church due to their belief in Jesus as the Messiah. His radical transformation into Christianity's leading missionary happened after a profound encounter with a resurrected Christ.\n\nAs a missionary, Paul undertook journeys and wrote letters to emerging churches which substantially influenced the shaping of Christianity. He promoted the faith as welcoming to everyone, not just Jews. Even though he was deeply rooted in Judaism, Paul proclaimed that gentiles didn't need to convert to Judaism to be part of Christ's family. He argued that salvation is attained through faith in Christ, not by observing Jewish laws. This philosophy clashed with those who insisted that gentile believers needed to be circumcised. According to Paul, circumcision invalidated the significance of Christ's death, as law observance couldn't deliver righteousness. In his view, righteousness could only be achieved through faith.\n\nPaul uniquely integrated Jewish monotheism with the divinity of Jesus, assigning divine language to Christ along with God the Father. He interpreted the Spirit as an embodiment of God's presence, implementing the Father's will. Paul maintained that God summoned Jews and gentiles alike to unite as one family in Christ, thus fulfilling Old Testament prophecies. Even though he was imprisoned in Rome, Paul's commitment to a unified, culturally diverse church remained unwavering. His writings offer insights into the difficulties faced by early Christianity and illuminate his unwavering devotion to living the gospel."
+                ],
+                "audio": {
+                    "size": 1872457,
+                    "duration": 117029
+                }
+            },
+            {
+                "chapter_summary": "Gospels interpret Jesus' story diversely, emphasizing his suffering, Jewish roots, universal salvation, and divine identity.",
+                "text": [
+                    "The four gospels illustrate diverse portrayals of Jesus in order to deliver key truths. These were drafted later, yet they derive their core content from early oral traditions and firsthand narratives. In the Gospel of Mark, the story primarily emphasizes on the sufferings of Jesus, making it resemble an old biography, likely originated in Rome. Here, Jesus is depicted as the Messiah who endures hardships and as the Son of God who invites people to believe in him and follow his teachings.\n\nIn contrast, the Gospel of Matthew was favoured by many from the beginning. It emphasizes on Jesus being the Messiah for the Jewish people, fulfilling the prophecies in the Old Testament. The teachings of Jesus in this gospel ranged from ethical considerations to practical life advice. Originally intended for the Israelites, it gradually expanded to incorporate Jesus’ orders to the apostles to distribute his teachings worldwide. \n\nOn the other hand, the Gospel of Luke portrays Jesus' efforts to aid the marginalized, emphasizing the Holy Spirit's role in the early church. Luke's portrayal could be seen as both theological and apologetic, creating a depiction of Jesus as the saviour for all and explaining the spread of the gospel. The Book of Acts, associated with Luke, concentrates on Saint Peter, Paul, and the transition of the Gentile mission.\n\nLastly, the Gospel of John delivers an intensified portrayal of Jesus' divine identity through its rich symbolism and dialogues. This gospel is distinctive in recording seven signs and seven 'I am' statements of Jesus. The primary goal here was to instil faith among people, acknowledging Jesus as the divine Messiah and Son of God. Each gospel, through its distinct interpretation based on early oral traditions, collectively contributes to the singular gospel of Jesus Christ."
+                ],
+                "audio": {
+                    "size": 2000770,
+                    "duration": 125048
+                }
+            },
+            {
+                "chapter_summary": "New Testament letters guided early Christians through challenges, promoting perseverance and faithfulness.",
+                "text": [
+                    "During the early days of Christianity, the advent of the Gospel was a daunting task across the Roman Empire. In these demanding times, letters from the New Testament played a crucial role, providing encouragement, and guidance. The letter addressed to the Hebrews, for instance, acknowledged Jesus as higher than figures and institutions from the Old Testament. This letter inspired Jewish Christians to uphold their new faith under Christ and not revert to their old religious habits.\n\nFurther, letters from James and Jude, Jesus' brothers, resonated with his teachings about a virtuous life. They cautioned against false preachers and reassured believers about Jesus' second coming to restore justice. First Peter provided strength to Christians undergoing humiliation and agony, pushing them to be persistent in their faith and hope. \n\nMeanwhile, the second Peter aimed to alert everyone about harmful heresies and mockers. It shifted focus onto Christ's return and the advent of a new creation. John's letters shed light on God's love, and recommended absolute loyalty to the testimony of the apostles about Jesus. Additionally, these letters challenged the early Gnostic heresies that rejected Christ's humanity.\n\nLastly, Revelation delivered an apocalyptic vision of God's superiority and eradication of evil. Through powerful imagery and outer-worldly symbolism, it demanded that the church withstand hardship and bear witness to God's kingdom in their lives.\n"
+                ],
+                "audio": {
+                    "size": 1582393,
+                    "duration": 98900
+                }
+            },
+            {
+                "chapter_summary": "Early Christians determined the New Testament's composition via apostolicity, antiquity, catholicity, and orthodoxy.",
+                "text": [
+                    "The formation of the New Testament wasn't an overnight affair - it evolved over a considerable period, involving lengthy debates and discussions by early Christians. Around the year 200 AD, a consensus had begun to form around a core of texts. This included four gospels, Acts, several of Paul's letters, and the epistles of Peter and John. \n\nHowever, a number of other manuscripts like Hebrews, 2 Peter, 2-3 John, Jude, and Revelation weren't as readily accepted. They faced initial disputes. The endorsement of books hinged on four critical criteria, which were seen as marking an 'authoritative' and 'orthodox' text. \n\nThe first, apostolicity, asked if the writing had an apostle as its source or someone closely related. The second, antiquity, favored texts that originated from the era of Jesus and his apostles. The third parameter, catholicity, gave weightage to those texts that enjoyed wide acceptance among churches spread across different regions. \n\nAnd finally, orthodoxy - a criterion which probed if the text's teachings were consistent with apostolic proclamation and the accepted faith. These extensive verifications and tests eventually culminated in the formalization of the 27-book New Testament canon in the 4th century. Today, these books continue to be recognized as scripture."
+                ],
+                "audio": {
+                    "size": 1427330,
+                    "duration": 89208
+                }
+            },
+            {
+                "chapter_summary": "The New Testament informs holistic mission, embodying Christlike love and guided by the Spirit towards God's kingdom.",
+                "text": [
+                    "The New Testament delineates how to emulate the journey of Jesus and the early church in our present times. It's a tool that unravels the mystery of our existence, elaborates on the issue of evil, and shows the path of redemption through Christ. Even though delivered through a variety of voices, the New Testament strings together a consistent vision of an all-encompassing mission for the church. \n\nThis mission centers around four pillars - spreading the gospel, striving for justice, exhibiting Christ-like love, and contributing to the Kingdom of God. Perceived as a journey, life is interpreted as tracking Jesus's path of sacrifice. The genesis of our hope lies in the resurrection and the assurance of a new creation. As we navigate this course, key qualities like wisdom, truth, freedom, justice, relationships, and beauty intensify in us. Guided by the Spirit, we are inspired to enact the biblical tale with originality and dedication. There's always something new to learn in this journey. Ultimately, the purpose is to tirelessly pursue God's Kingdom and disseminate His love to all corners of the world."
+                ],
+                "audio": {
+                    "size": 1237577,
+                    "duration": 77349
+                }
+            },
+            {
+                "text": [
+                    "The New Testament in Its World by N.T. Wright offers a profound exploration of the New Testament, involving its historical, theological, and literary components. It communicates how the ancient world of first-century Judea dramatically contrasts with our modern context through aspects like languages, philosophy, sociology, and archaeology. The New Testament, according to Wright, is not merely a story to read, but a divine drama in which we participate. The text draws us deeper into the biblical narrative, enabling us to take part in a heavenly story that has the power to mend the disorder in our lives and the world around us. It becomes a framework that helps unfold theological, historical, and spiritual truths that are pivotal for understanding our relationship with God, the world, and ourselves.\n\n10 Actions to Implement the Learnings:\n\n1) Read the New Testament: To understand the richness of its teachings, make reading the New Testament a daily practice.\n\n2) Reflect on Its Impact: Examine how the New Testament has influenced your life, your family, and your church.\n\n3) Study Its Context: Gain a deeper understanding by studying the historical background of the New Testament.\n\n4) Engage with Others: Discuss the New Testament with your friends, family, or church group to explore different interpretations and perspectives.\n\n5) Embody Its Teachings: Translate the teachings of the New Testament into your daily life by practicing love, mercy, and justice.\n\n6) Check Biases: Be aware of your biases and ensure these do not hinder your understanding of the text.\n\n7) Learn About Jesus: Grasp a deeper understanding of who Jesus was and continues to be by reading about his teachings, life, death, and resurrection.\n\n8) Engage in Prayer: Regularly commune with God through prayer, using the New Testament as a guide for your words and thoughts.\n\n9) Understand Textual Criticism: Learn the basics of textual criticism to get more insight into the various manuscripts and their translation processes.\n\n10) Share What You Learn: Share insights, teachings, and lessons learned from the New Testament with others, thus inspiring hope, faith, and a deeper understanding of its teachings in your community."
+                ],
+                "audio": {
+                    "size": 2643591,
+                    "duration": 165224
                 }
             }
         ]
