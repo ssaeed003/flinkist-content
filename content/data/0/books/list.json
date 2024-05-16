@@ -103394,10 +103394,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2972,
         "name": "Investing in U.S. Financial History",
-        "create_date": 1714940582142,
+        "create_date": 1714940582143,
         "Year": "2024",
         "tags": [
             "money & investments",
@@ -105114,6 +105114,185 @@
                 "audio": {
                     "size": 2225214,
                     "duration": 139076
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2988,
+        "name": "Ultralearning",
+        "create_date": 1715876721733,
+        "Year": "2019",
+        "tags": [
+            "learning & education",
+            "career & success",
+            "personal development",
+            "english"
+        ],
+        "summary": "'Ultralearning' is a deep dive into the author's unique approach towards learning hard things quickly. Sharing invaluable insights and techniques, the book is filled with stories of other ultralearners which provide inspiration for the readers. The process of intense self-directed learning can fashion skills you never thought you could develop with tools from this book.",
+        "author_name": "Scott Young",
+        "about_author": "Scott H. Young is a writer, known for undertaking interesting self-education projects. From attempting to learn MIT’s four-year computer science curriculum in twelve months, to learning four languages in one year, Young has constantly challenged himself to stretch the boundaries of traditional learning. His diverse learning experiences and his passion for sharing his explorations continue to influence audiences worldwide. He resides in Vancouver, Canada.",
+        "subtitle": "Accelerate Your Career, Master Hard Skills and Outsmart the Competition",
+        "target_group": "The book 'Ultralearning' is especially suited to individuals who are up for the challenge of learning new skills rapidly and effectively. It is an ideal read for professionals, students, educators, entrepreneurs and those with a keen interest in pushing their boundaries and jump-starting their learning journeys.",
+        "book_link": "https://www.amazon.de/Ultralearning-Strategies-Mastering-Skills-Getting/dp/0008305706/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Ultralearning entails intense, self-directed and optimized acquisition of expertise outside formal education.",
+                "text": [
+                    "In the vast arena of knowledge, several individuals carve their unique paths to acquire expertise. These self-driven learners, referred to as 'ultralearners', opt for unconventional methods of education and set high-impact challenges to speedily master the subject matter. \n\nOne such individual is Benny Lewis, renowned for his expeditions around the globe where he embarked on a journey of fluency in new languages within a span of a mere three months. His secret was his fearless approach of communicating with the locals, which facilitated speedy integration.\n\nRoger Craig, another self-sufficient learner, optimized his preparations for 'Jeopardy!' by scrutinizing the patterns in earlier questions. He fabricated a website enabling himself to rehearse the popular trivia effortlessly, thereby establishing new records on the show.\n\nSimilarly, Eric Barone single-handedly mastered the required skills for video game development over five years and created the popular 'Stardew Valley'. Additionally, another exemplary ultralearner, Scott Young, completed the four-year computer science program of MIT in just a year using freely available online materials. \n\nUltralearning emphasizes intense, self-guided learning while employing optimized strategies. Although its projects can be demanding, these efforts serve as a beacon for accelerated learning. By integrating these methods even in smaller proportions, anyone can significantly enhance their learning capabilities."
+                ],
+                "audio": {
+                    "size": 1574452,
+                    "duration": 98403
+                }
+            },
+            {
+                "chapter_summary": "Ultralearning, a viable practice, accelerates skill acquisition for career resilience amid economic shifts.",
+                "text": [
+                    "Ultralearning is a high-intensity, self-regulated learning technique designed for quickly mastering challenging skills. Currently, 'average' skills are not sufficient due to an economic reality that favors professionals of top-tier expertise. This is because high-skilled jobs are becoming concentrated due to automation, outsourcing, and regionalization. Despite the high cost of traditional education limiting its accessibility, advancements in technology have opened new avenues for skill acquirement.\n\nThe exceptional strategy of ultralearning proves its worth in speeding up career progression through swift skill accumulation. It aids in career shifts by filling skill deficits and enables one to withstand competition by nurturing unique talents. Though innate aptitude matters, the influence of principles and techniques on learning outcomes is paramount. \n\nWith varying levels of commitment, ultralearning projects can fit into diverse schedules: it can take over full-time during a study break, become a part-time endeavor amidst other responsibilities or be integrated within existing learning regimes. The knack for acquiring challenging skills efficiently is invaluable. However, the crucial point of contention remains: Can ultralearning be a teachable technique that anyone ready to embrace its intensity and efficiency can learn?"
+                ],
+                "audio": {
+                    "size": 1446556,
+                    "duration": 90410
+                }
+            },
+            {
+                "chapter_summary": "Ultralearning requires metalearning and taking responsibility for your own progress.",
+                "text": [
+                    "Diving deep into new skills or subjects definitely relies on more than just tenacity. Effectual learning is an intrinsic part of this process, a lesson Tristan de Montebello learnt when he endeavored to master public speaking in a short timeframe. Despite beginning his journey with minimal experience, he fully immersed himself by attending Toastmasters gatherings, self-assessing through his speech videos, and accepting constructive criticism. This exemplar of \"metalearning\", or learning about learning, facilitated his speedy improvement.\n\nIn no time, Montebello was participating in the World Championship of Public Speaking. The significant advancement he made led to others seeking his guidance, consequently catalyzing a career shift. The process of ultralearning transcends simple instructions and leans on core principles. Hallmarks of this learning method involve intense focus, practicing problem areas, self-assessment, and welcoming feedback.\n\nHowever, the stepping stone for all these principles is metalearning. By objectively gauging your skills, understanding the right ways of learning, and incorporating your past knowledge, you can speed up your progress.\n\nUltralearning, when embraced with correct principles, can aid any individual to deeply comprehend and acquire complex skills and topics. The crux lies in assuming accountability for personal learning."
+                ],
+                "audio": {
+                    "size": 1464529,
+                    "duration": 91533
+                }
+            },
+            {
+                "chapter_summary": "Metalearning, learning about learning, catalyzes rapid, effective language acquisition.",
+                "text": [
+                    "Dan Everett's quick acquisition of a new language showcases the power of metalearning - a process of learning about learning. Observing a woman speak an unfamiliar language, Everett carefully jots down words and phrases. These entries form the building blocks to identify how the language works, allowing him to gain basic fluency in just half an hour. \n\nThis is the brilliance of metalearning - equipping learners with tools to process and understand new concepts more comprehensively. A great example could be learning Chinese characters. Knowing that 火 represents \"fire\" is simple learning, but understanding that characters are arranged by radicals expressing meaning is metalearning. It offers a strategic guide to effective learning, helping learn faster and more efficiently.\n\nIn practice, metalearning can be split into two categories: short-term and long-term. In the short-term, applying metalearning involves researching ahead of a project. It requires identifying the \"why,\" \"what,\" and \"how\" of the project. Understanding \"why\" or the motive behind learning can help focus on more relevant aspects. Grasping \"what\" or the concepts, facts, and procedures to be learned helps overcome hurdles. Figuring out \"how\" or the best resources, methods, and environment supports more effective learning. \n\nOn the other hand, long-term metalearning compiles knowledge gained over various projects to establish valuable skills, boost confidence, and craft effective strategies towards ambitious goals. This learning over time shows the importance of consistent effort in realizing metalearning benefits. By mastering metalearning approach, one can optimize their learning process and become an effective \"ultralearner\"."
+                ],
+                "audio": {
+                    "size": 1830661,
+                    "duration": 114416
+                }
+            },
+            {
+                "chapter_summary": "Through deliberate focus, obstacles can be overcome and remarkable achievements obtained.",
+                "text": [
+                    "Despite the obstacles of restricted formal education and societal disapproval hampering women in academia in the 19th century, Mary Somerville emerged as a notable mathematician and scientist. Her remarkable success was rooted in her uncanny knack to concentrate intensely on her studies. Every spare minute she found amidst household chores was directed towards learning and she had the unique ability to resume gruelling mathematical problems effortlessly after breaks. This undeterred focus became her tool to understand, translate and expand advanced scientific work that was predominantly male-driven during that period. \n\nThis journey highlights the three critical aspects of focus—initiation, sustenance, and optimization. To tackle procrastination, one needs to recognize its occurrence and remedies like the 5-minute rule can effectively help get started. Distractions, deriving from environment, task or mind, can pull away focus. Being conscious of distractions can help address or manage them. Optimization of focus involves the perfect balancing act between the arousal level and task complexity. By manipulating environmental stimuli, this balance can be achieved. \n\nAnd so, the journey of Mary Somerville reflects that through sustained and deliberate focus, hindrances can be mitigated and dreams can be realized. Over time, focus can be nurtured and strengthened, thereby facilitating learning even in hostile environments."
+                ],
+                "audio": {
+                    "size": 1554390,
+                    "duration": 97149
+                }
+            },
+            {
+                "chapter_summary": "Direct learning closes gaps between theoretical knowledge and practical application, accelerating skill mastery.",
+                "text": [
+                    "After a long journey from India to Canada to fulfil his dreams of becoming an architect, Vatsal Jaiswal had a hard time securing a job. This was mainly due to the economic recession and an academic portfolio that heavily emphasized design theories more than the practical skills that employers were looking for. Nevertheless, Vatsal persevered. He landed a position at a print shop to gain firsthand experience in creating real blueprints.\n\nIn addition, Vatsal taught himself how to use Revit, a popular architecture software. He harnessed his newly-gained technical knowledge to create a fresh portfolio that catered to the preferences of potential employers. This boosted his employability leading to numerous job opportunities. This is a testament to the power of direct learning and its relevance to real-world situations.\n\nRegrettably, a large number of students still rely on indirect learning methods like traditional classroom instruction, online courses, or textbooks. The problem with this approach is that it doesn’t translate well to new, unfamiliar contexts. However, direct learning, which seeks to closely mimic real-world situations, can bridge this gap.\n\nDirect learning involves strategies like project-based learning, immersion, simulations, and overkill challenges which push learners beyond their comfort zone. This approach may be demanding, but it contributes to profound and long-term learning. By aligning the study process closely to real-world application, it becomes easier to transfer acquired knowledge and skills, leading to fast mastery."
+                ],
+                "audio": {
+                    "size": 1666403,
+                    "duration": 104150
+                }
+            },
+            {
+                "chapter_summary": "Franklin's rise reflects the power of targeted improvement in writing mastery.",
+                "text": [
+                    "Benjamin Franklin, who initially plunged into writing to escape his obligatory toil in his brother's firm, journeyed from Boston to Philadelphia and began his life. In this new city, he nearly had nothing and was unrecognized, but he managed to get a job in a printing company before finally establishing his own. His creation, Poor Richard's Almanack, achieved tremendous global success that he could retire early. However, his pen's significant influence on the world was most evident in his later years. \n\nFranklin, a science enthusiast, preferred practical results over lofty theories, and his writings reflected this nature. His lucid style appealed to both ordinary readers and scholarly circles, making him globally renowned. From winning alliances to neutralizing adversaries, his polished writing skills shone brightly. He honed these skills, particularly noticed in his amendments to the Declaration of Independence, through persistent training since his youth.\n\nAfter a youthful debate exposed the flaws in his persuasive writing, Franklin decided to diligently hone his skills. He studied magazine articles, aimed to reconstruct the arguments days later from memory as an exercise. To widen his word bank, he transformed prose into verses using rhyming synonyms. He shuffled essay pointers to understand the chronology of ideas better. Once he grasped the mechanics of writing, he shifted focus to manner — opting for humble inquiries instead of stark contradictions.\n\nThis hard work bore early success, evident in his popular Silence Dogood essays. His ability to write from varying viewpoints, developed through practice, was an asset for his creation Poor Richard's Almanack and his political constructs. The significant part of Franklin's success lies in his writing prowess— not just the extent of his talent and work, but the way he trained - breaking down writing into components for refinement. His systematic analysis and practice to strengthen areas of weakness depict the effectiveness of focusing on weak points to attain higher skills."
+                ],
+                "audio": {
+                    "size": 2150400,
+                    "duration": 134400
+                }
+            },
+            {
+                "chapter_summary": "Retrieval practice, despite seeming paradoxical, is a superior learning technique fostering stronger memory and understanding.",
+                "text": [
+                    "Retrieval practice is a highly effective learning strategy, which requires an individual to recall information from memory instead of just passively going through it. The act of recalling information strengthens memories and deepens understanding. Noted Psychologist William James suggested the effectiveness of expending internal efforts to recollect information instead of returning to the source material. A research study conducted by Karpicke and Blunt has emphasized this point. The study found that college students who tested themselves through retrieval practice actually learned more than those who merely reviewed the material or drew up concept maps. Interestingly enough, students initially predicted the opposite effect. \n\nThis brings up an unusual paradox - oftentimes, it is hard to pinpoint the most successful techniques for productive learning. Retrieval introduces desirable complications which can enhance learning, the more challenging the retrieval is, the better, as long as the information can be successfully recalled. Compared to the conventional recognition tests like multiple choice, cued recall tests are more efficient. A slight delay in retrieval can lead to better retention in comparison to immediate testing. Feedback on mistakes is a crucial element of the retrieval process. \n\nRetrieval practice also has a forward testing effect, enhancing future learning. Attempting to solve unexplored problems that require unlearned knowledge can help in developing mental navigation strategies and focus, which in turn, assist in better learning down the road. Practical implementation of retrieval practice might include the use of flash cards, free recall, turning notes into questions, and setting up challenges to solve. The aim should be to recall without referring back to the source material. While repeatedly recalling frequently used knowledge helps, having a range of knowledge aids problem-solving, achieving an optimal learning method through a combination of passive exposure and active retrieval. Like the great mathematician Ramanujan, who singly derived Carr's mathematical theorems, retrieval practice could indeed be instrumental for genius-level ideas."
+                ],
+                "audio": {
+                    "size": 2240679,
+                    "duration": 140042
+                }
+            },
+            {
+                "chapter_summary": "Ultralearners use immediate, corrective feedback and metafeedback for rapid, effective learning.",
+                "text": [
+                    "The process of becoming an expert at anything often relies on feedback, and those who learn intensively understand the importance of receiving it frequently and swiftly to boost their growth. There are various types of feedback; outcome feedback gives a measure of progress but doesn't include details; informational feedback pinpoints errors without giving correctional advice; and corrective feedback, the most beneficial type, highlights mistakes and provides solutions, although this requires expert intervention. It's essential that feedback be taken as a tool for improvement, not a personal attack. \n\nThe best time to get feedback is immediately after putting in a strong effort, rather than too early. Using noise cancellation can help cut out random influences in feedback, while maintaining a balance of difficulty can enhance unpredictability and information absorption. Metafeedback, or feedback about the learning process itself, is also important. \n\nHigh-intensity, fast feedback can reduce fear of failing as it inspires maximum effort. Remember, feedback is only useful if it is remembered, so linking it with spaced reviews and additional tests can reinforce memory. \n\nHence, those who accumulate knowledge at a rapid rate exploit feedback for swifter learning. This approach helps them to take the brunt of mistakes early on, and then they can avoid them more comfortably later."
+                ],
+                "audio": {
+                    "size": 1531402,
+                    "duration": 95713
+                }
+            },
+            {
+                "chapter_summary": "Retaining learned knowledge relies on strategic practice, overlearning, and effective mnemonics.",
+                "text": [
+                    "Every now and then, learning outweighs remembering. Imagine being Nigel Richards, who attained the title of French World Scrabble Champion by mastering volumes of French words, yet didn't speak a word of French! This story illustrates how temporary retention is, why it's hard to hang onto learned skills, and the techniques one could use to enhance it.\n\nAccording to the chapter, there are three culprits behind why learned content slips through our fingers. Somewhere atop this list is skills waned over time, shoved aside by the incoming rush of fresh memories, or lost in the absence of reminders needed to keep the memory vivid.\n\nHowever, this inevitable process of forgetting can be decelerated by employing a few simple techniques, such as spacing out practice sessions, mastering a skill till it becomes instinctive, taking learning a step beyond the point of mastery, and utilising memory-aid techniques. As the adage goes, \"cramming doesn’t cut it\", spreading out study sessions is deemed more effective for stronger memory retention.\n\nSome things shall stand the test of time like remembering how to ride a bike - an example of procedural knowledge - that tends to stick around for longer. Taking up a challenge to learn more than what you need to might seem daunting but overlearning is an unlocked secret to better retention. Mnemonic devices can facilitate committing specific information to mind but they are not a foolproof solution for automatic recall as they require a significant upfront investment.\n\nRemembering is just a slice of the learning pie; converting knowledge into a deep understanding which forms the basis for developing intuition is equally vital. So even though forgetting is a part of life, by applying the right strategies, it's possible to hold on to more of that hard-earned knowledge and skills."
+                ],
+                "audio": {
+                    "size": 1844035,
+                    "duration": 115252
+                }
+            },
+            {
+                "chapter_summary": "Feynman's brilliance derived from relentless practice and unique learning techniques.",
+                "text": [
+                    "Renowned physicist Richard Feynman had a reputation for his incredible intuitive skills. Nonetheless, it wasn't inborn genius that gave him his \"magic\", but rather the outcome of persistent efforts and innovative learning strategies. From the get-go, Feynman prioritized understanding the essence of principles over merely attending to the apparent features of problems. It led him to the fundamentals of problem mechanisms.\n\nAnother crucial strategy was self-proving. Feynman didn't just blindly accept others' findings, but rather indulged in proving things to himself to gain deep comprehension. Concrete examples were his starting point, which helped make abstract concepts easier to grasp. Further, Feynman wasn’t afraid to ask seemingly \"dumb\" questions, a testament to his commitment not to fool himself into prematurely believing he understood something.\n\nArguably his most effective technique was simulating teaching scenarios. Feynman would explain concepts as if imparting knowledge to someone else. It was a method that helped to verbalize his thoughts, thus highlighting any potential gaps in his understanding. He found this method helpful in understanding complex concepts, solving difficult problems, and amplifying his intuition on various subjects.\n\nApart from being remarkably intelligent, Feynman harmoniously coupled persistent practice with an explorative mindset, which honed his abilities. So, impressive as he was, it’s important to remember that his peculiar \"magic\" stemmed not so much from natural talent as it did from his distinctive learning methodologies."
+                ],
+                "audio": {
+                    "size": 1702765,
+                    "duration": 106423
+                }
+            },
+            {
+                "chapter_summary": "Vincent van Gogh's relentless experimentation drove his evolution into a brilliant artist despite early failures.",
+                "text": [
+                    "Vincent van Gogh, revered as one of the most influential painters in history, didn't begin his artistic journey with evident talent nor did he start early. After trying his hand at various professions without much success, he embarked on his artistic path in his late twenties. Initially, his sketching skills were subpar and art schools rejected him. Regardless, van Gogh's tireless pursuits of trial and error led him to develop his signature, vibrant style.\n\nHe wholeheartedly embraced new techniques and theories. His diligent studies ranged from reading instruction manuals to imitating the works of masters like Millet. He ventured into using different materials following his artist friends' suggestions. While much of the feedback thrown his way was discouraging, van Gogh remained undeterred. He played with everything from subtle, muted palettes to daring, vivid color schemes, and his commitment to constant discovery allowed him to create an approach that suited his strengths and bypassed his weaknesses.\n\nIn order to learn from van Gogh's approach, there are three components of experimentation that can be implemented. Diverse learning materials, resources, and methods are the first level. Developing different techniques within the specific skill forms the second level, and finally, exploring different styles, much like van Gogh's journey with color and brush strokes.\n\nTo experiment effectively, it's vital to cultivate a growth mindset - the conviction that talents can be honed through constant discovery and learning. Some helpful strategies to encourage this include imitating and then innovating upon proven models, comparing methods by testing them side by side, and incorporating new restrictions to add creativity.\n\nMerging unrelated skills can produce strong results, as can pushing one's boundaries to their extremes, reminiscent of van Gogh. Experimentation provides a way to find personal approaches that highlight strengths while working around weaknesses. It can also drive creativity and eliminate unproductive practices. Thanks to his fearless quest for new artistic horizons, van Gogh was able to voice his brilliant creativity against all odds."
+                ],
+                "audio": {
+                    "size": 2263249,
+                    "duration": 141453
+                }
+            },
+            {
+                "chapter_summary": "Effective lifelong learning combines aggressive self-directed strategies with formal education.",
+                "text": [
+                    "Acquiring new skills and knowledge demands an organized approach, time investment, and dedication. It always begins with investigating how others have grasped the subject or skill previously, uncovering appropriate resources, seeking out practical learning experiences, and penning down specific time slots for learning. \n\nDuring the learning process, it's essential to stay attentive, actively seek feedback, and continually practice to improve memory retention. After the process, take a step back to reflect on your progress, and decide whether it's time to move onto the refinement of the skill, relearning it, or sticking to what you've learned.\n\nOne such method for gaining knowledge is ultralearning, which is a form of intensive, self-guided learning. However, it's not the only strategy that counts. Lighter, more casual learning habits can also be effective, offering spontaneous and rewarding learning experiences once the basics are solidified. \n\nOn the other hand, traditional education plays a crucial part too, as it offers certification, conducive learning surroundings, and a community environment that further supports the learning journey.\n\nUltralearning aims to grow and expand opportunities via concentrated effort. It doesn't reject other existing paths to learning, but rather exists as another tool in the toolbox.\n\nThe key to successful lifelong learning lies in adopting the right principles and retaining a growth mindset. With these in hand, the passion for learning can truly thrive."
+                ],
+                "audio": {
+                    "size": 1564003,
+                    "duration": 97750
+                }
+            },
+            {
+                "chapter_summary": "Judit Polgár's chess mastery proves geniuses can be cultivated with focused, early training.",
+                "text": [
+                    "Known as the greatest female chess player, Judit Polgár ascended the chess world's ranks due to an experiment initiated by her father, László Polgár. He was driven by his belief that geniuses are made, not born. As part of his experimental approach, he trained Judit and her sisters, Zsuzsa and Zsófia, from an early age to become chess prodigies. Beginning lessons at the tender age of three with a specific focus by six years old, he ensured that learning was always enjoyable and paired with positive reinforcement, rule out any kind of forcefulness, and introduced the concept of self-learning. \n\nThe sisters dedicated countless hours each day to studying and understanding chess, which eventually led them to compete against older and more experienced male players. Ultimately, Judit emerged as a trailblazer in the chess world, clinching the title of the youngest chess grandmaster at just 15. She also had the opportunity to compete against the world champion, Garry Kasparov. Judit's success against male competitors chipped away at ingrained biases against women in the chess world. \n\nWhile László's approach was not flawless, it underscored the power of concentrated, specialized training from an early age, thus fostering expertise. This experience underscores the pillars of ultralearning, including focus, directness, drills, feedback, and retention. Judit's ability to foster her own unique style of play underscored the role of innovation and instinct. Collectively, the Polgár sisters' journey affirms the transformative power of self-guided, intensive learning, spotlighting its potential to deliver mastery, even in daunting areas."
+                ],
+                "audio": {
+                    "size": 1714050,
+                    "duration": 107128
+                }
+            },
+            {
+                "text": [
+                    "Final Summary: Ultralearning by Scott Young is an insightful book that provides effective strategies for learning anything faster. It provokes a call to action, with a central focus on practical application of knowledge. The book illustrates nine key principles of successful ultralearning projects, including 'metalearning', 'focus', and 'directness', among others. The author encourages readers to take control of their learning process by focusing on efficiency, effectiveness, and intensity, regardless of whether they can dedicate full-time or part-time to it.\n\n10 specific actions reflective of the learnings from the book:\n\n1. Begin all learning endeavors with Metalearning. Understand the broad scope of what you're learning before diving in.\n2. Cultivate Focus. Work in dedicated chunks of time without distraction.\n3. Adopt Directness. Implement practical application of knowledge during learning.\n4. Tackle your shortcomings through the Drill principle. This involves consciously addressing your weakest area for better overall learning.\n5. Make use of Active Recall. Test yourself frequently to better retrieve information.\n6. Embrace constructive Feedback. Don’t shy away from criticism, it can help you grow.\n7. Prioritize Retention. Revisit and practice what you learn to avoid losing it over time.\n8. Develop Intuition. Ground your learning in fundamental concepts before scaling complexity.\n9. Challenge yourself via Experimentation. Move beyond your comfort zone and engage in thoughtful risk-taking for accelerated learning.\n10. Start a smaller ultralearning project. Align this project with your professional or personal interests, adjust the principles to your timetable and situation.  You can start with a few hours per week and progressively increase.\nRemember, the biggest gain from 'Ultralearning' is about replacing ignorance with self-growth, achieving ambitious goals, and maximizing your potential."
+                ],
+                "audio": {
+                    "size": 2240679,
+                    "duration": 140042
                 }
             }
         ]
