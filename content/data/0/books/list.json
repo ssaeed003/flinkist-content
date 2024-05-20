@@ -104068,10 +104068,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2977,
         "name": "Authority Marketing",
-        "create_date": 1715372270789,
+        "create_date": 1715372270790,
         "Year": "2019",
         "tags": [
             "marketing & sales",
@@ -105538,6 +105538,223 @@
                 "audio": {
                     "size": 2810775,
                     "duration": 175673
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2991,
+        "name": "Ethics in the Public Domain",
+        "create_date": 1716232649070,
+        "Year": "1996",
+        "tags": [
+            "philosophy",
+            "english"
+        ],
+        "summary": "A collection of essays discussing ethical implications in law and politics, the book navigates complex problems concerned with personal and societal well-being, diversity, rights, and freedom. It advances the concept of 'The Ethics of Well-Being' and evaluates its implications in the public domain.",
+        "author_name": "Joseph Raz",
+        "about_author": "Joseph Raz is a preeminent philosopher recognized for his contributions to legal, moral, and political philosophy. His work often revolves around the nature of law, morality, and the intricate issues they encompass.",
+        "subtitle": "Essays in the Morality of Law and Politics",
+        "target_group": "This book is aimed at legal and political science scholars, philosophy enthusiasts, researchers, policymakers, and anyone interested in understanding intricate aspects of ethics in law and politics.",
+        "book_link": "https://www.amazon.de/-/en/Joseph-Raz/dp/0198260695/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "The book scrutinizes morality, well-being, and the societal dynamics of law through theoretical arguments.",
+                "text": [
+                    "This collection of essays dives into political and legal philosophy, introducing key concepts such as well-being, belonging, and the essence of law. Initially aiming to apply general moral views to practical situations, the analysis evolved, revealing new complexities that required innovative thinking.\n\nWell-being is central, focusing on its active and belonging components. The active aspect raises questions about personal activities' influence on well-being and the balance between insufficient and overwhelming challenges. Belonging discusses diversity and the limits of pluralism, questioning whether well-being promotion should be the core of ethics or if ethics encompasses a broader spectrum.\n\nThe work also questions whether philosophy always provides clear guidance, noting that tough decisions often leave theory insufficient, offering logical choices without ultimate answers.\n\nLegal philosophy is examined through essays describing law as societal standards, exploring the connection between law and morality with a balanced perspective. This collection offers insightful, thought-provoking arguments on morality, well-being, and the nature of law."
+                ],
+                "audio": {
+                    "size": 1214171,
+                    "duration": 75886
+                }
+            },
+            {
+                "chapter_summary": "Promoting well-being requires creating opportunities but ultimate flourishing is self-determined.",
+                "text": [
+                    "A person's well-being depends greatly on their ability to wholeheartedly pursue valuable activities and relationships. While only individuals can make their own lives successful, others can help create conditions that facilitate well-being. Providing basic capacities through education and healthcare enables people to take advantage of opportunities. Securing adequate access to options prevents exclusion from valuable pursuits. Fighting bigotry promotes self-respect. Discharging duties may require disruption and adjustment but need not entail sacrifice. The well-being of others cannot justify overly easy paths, as meaning stems from overcoming genuine challenges. Ultimately, though we can profoundly impact others' lives, their flourishing remains in their own hands."
+                ],
+                "audio": {
+                    "size": 855980,
+                    "duration": 53499
+                }
+            },
+            {
+                "chapter_summary": "Challenges the belief that duties are derived from rights, linking both to individual well-being.",
+                "text": [
+                    "Let's explore the connection between rights and duties in the sphere of moral and political philosophy. A common notion is that duties are secondary to rights, being mainly derived from them. This perspective posits that rights are dominant because they provide benefits, while duties only serve to limit freedom. \n\nHowever, probing this perspective brings up some lingering doubts. Not all duties necessarily evolve from rights. In fact, there can be self-imposed duties that serve personal well-being rather than focusing on the rights of others. Essentially, rights and duties are both intertwined within a broader concept of personal well-being. Personal well-being isn't just about having desires fulfilled; it's also about pursuing meaningful activities. This opens up the possibility of duties to oneself – for instance, the responsibility to act in a fashion that preserves self-respect.\n\nSome valuable pursuits such as friendship, need a sense of duty between friends for it to be defined clearly. Hence, some duties actually shape the very nature of worthwhile experiences. Ultimately, duties shouldn't be downplayed as limitations derived from rights. They can also be sources of human well-being and contribute to valuable relationships indeed. Duties offer a sense of liberation by paving the way for meaningful undertakings and bonds. \n\nTherefore, it's essential to challenge the overarching emphasis on rights and advocate for a balance between the roles of rights and duties in the realms of moral and political philosophy."
+                ],
+                "audio": {
+                    "size": 2031281,
+                    "duration": 126955
+                }
+            },
+            {
+                "chapter_summary": "Rights protection serves both individual interests and the common good, influencing societal values.",
+                "text": [
+                    "Rights serve to protect individual interests, yet their importance often exceeds the value of those interests. This seeming mismatch can be explained by the fact that rights also serve the common good. \n\nCivil and political rights in liberal democracies protect freedoms that allow individuals to shape their lives, like freedom of speech, religion, and contract. But they also create an open society and culture that benefits everyone, even those who don't exercise those rights. The common good enabled by rights can be more valuable to people than exercising the rights themselves.\n\nSo rights are justified not just by the interests of right-holders but also by their contribution to the common good. Their role in serving both individual and public interests makes the protection of rights a complex political matter involving the courts. Through upholding individual rights, the courts end up shaping society's values and traditions. This \"politics of the common good\" differs from ordinary democratic politics focused on competing interests. The courts are well-suited to it due to their concern for legal principles over partisan politics."
+                ],
+                "audio": {
+                    "size": 1207902,
+                    "duration": 75494
+                }
+            },
+            {
+                "chapter_summary": "Political philosophy should seek truth via reason, despite societal belief diversity.",
+                "text": [
+                    "How should political philosophers handle the varying opinions and beliefs present in society?John Rawls and Thomas Nagel both champion the idea of \"epistemic abstinence.\" Simply put, this is the avoidance of judging the accuracy of principles of justice, focusing instead on achieving agreement.\n\nBoth Rawls and Nagel believe that principles of justice should be built on broadly accepted beliefs, not on unproven truths, in order to keep societal stability intact. Rawls in particular insists that arriving at a consensus based on common beliefs, rather than metaphysical truths, is the key to maintaining unity in a diverse society.\n\nTaking it further, Nagel posits that principles should be impartially justified, and no controversial truths should be used to defend them, especially when it pertains to enforcing policies. Both philosophers promote avoiding truth evaluations about justice. According to them, justifying principles should be undertaken through reasoning, and not solely on consensus, though consensus indeed holds value.\n\nThe counter to their argument is that justice inherently relies on truth. By striving only for consensus - especially when it’s potentially based on false assumptions - the risk of societal instability grows larger. Thus, the underlying message suggests that while it's beneficial to acknowledge diverse views and encourage consensus, political philosophy should not shy away from the truth. The act of evaluating principles through reasoning and truth, as supposed to settling merely on consensus, should be the main focus."
+                ],
+                "audio": {
+                    "size": 1723663,
+                    "duration": 107729
+                }
+            },
+            {
+                "chapter_summary": "The text advocates for liberalism, autonomy, and value pluralism within democratic societies.",
+                "text": [
+                    "The concepts of liberalism, skepticism, democracy, autonomy, and value pluralism are explored through the lens of individual freedom and personal well-being. It is argued that relying solely on global value skepticism doesn't support toleration as it dismisses reasons to believe in it. Rather, perceiving one's own limitations and fallibility isn't an indicative of flaws, but more so a recognition of the conditions surrounding the acquisition of knowledge. This recognition of potential for belief correction promotes a critical rationality attitude. This mentality has ramifications for political systems, allowing for regular reassessment of policies, even though this achieves limited toleration. \n\nIn relation to democracy, it's argued that the reasoning behind democratic decisions isn't necessarily to reflect individual preferences, but rather to strive for truth and sound decision-making. Despite the mandatory nature of erroneous decisions within a democratic system, truth and soundness are the ultimate objectives, with honest belief as the pathway to these goals.  \n\nAdvocating for a liberalism rooted in autonomy and value pluralism emphasizes numerous diverse, yet valuable, ways of life. Autonomy becomes valuable when it enhances well-being via making self-defining decisions amidst various desirable options; however, this requires a suitable environment backed by public culture and shared good, recognizing that autonomy is interdependent with others' welfare. \n\nFinally, it's suggested that governments should foster valuable activities while deterring worthless ones, without jeopardizing autonomy. This can result in tolerating seemingly immoral actions that harm no one, as the use of coercion effectively denies individuals sovereignty over their lives. In this manner, a strong case is made for respecting individual freedom based on personal autonomy and the accompanying prosperity."
+                ],
+                "audio": {
+                    "size": 2056777,
+                    "duration": 128549
+                }
+            },
+            {
+                "chapter_summary": "Self-determination is justified when balanced with human rights and pragmatic considerations.",
+                "text": [
+                    "The right to self-determination for encompassing groups that share a common culture and identity is justified when it promotes prosperity, dignity and self-respect. However, this right is not absolute. It must be balanced against the interests of non-members and fundamental human rights. Though self-government is valuable, it has costs. Independence should serve individual well-being. Majority groups in a territory may decide on self-rule if their motivations are right. But their sovereignty depends on protecting inhabitants' basic rights and preventing harm to other nations. Overall, national identity matters greatly to human fulfillment. Yet no group's aspirations outweigh everyone's basic interests. Thus, pragmatic considerations bound the case for self-determination."
+                ],
+                "audio": {
+                    "size": 811258,
+                    "duration": 50704
+                }
+            },
+            {
+                "chapter_summary": "Freedom of expression fuels pluralism and self-determination in a liberal society.",
+                "text": [
+                    "Freedom of expression is a vital part of a free society, allowing people to openly discuss ideas, portray aspects of life, and validate diverse ways of living. While most people may not highly value their own right to free expression, it serves the public good in many ways. Public expression gives visibility and reassurance to minority groups and subcultures. It also facilitates the transmission and evolution of cultural traditions. However, authorities sometimes want to restrict free expression of unpopular ideas. Outright censorship carries a symbolic condemnation of associated lifestyles. Balancing these factors, freedom of expression should be strongly protected, though not absolutely. Its special legal status can be justified pragmatically, as courts are relatively isolated from short-term political pressures. Ultimately, free expression enables the pluralism and self-determination essential to a liberal society."
+                ],
+                "audio": {
+                    "size": 1036956,
+                    "duration": 64810
+                }
+            },
+            {
+                "chapter_summary": "Liberal multiculturalism respects cultural diversity while protecting individual freedoms and fostering harmonious coexistence.",
+                "text": [
+                    "Multiculturalism, an acknowledgment of the existence and cohabitation of multiple cultural or ethnic groups within a society, entails respect for differing cultural identities as well as the protection of individual rights. This concept, also known as liberal multiculturalism, holds that a person's well-being is linked to being part of a respected and prosperous cultural group. After all, it's through cultures that we gain diverse life options, shape our personal identities and foster social relations.\n\nAcknowledging the concept of value pluralism is essential in multiculturalism. This idea asserts that a variety of sometimes conflicting values can be valid, which can naturally lead to tensions between cultures. Despite these contradictions, multiculturalism promotes adjustments within cultures to enable coexistence while preventing forced assimilation. It upholds the rights of individuals to choose their cultural affiliations.\n\nImplementing liberal multiculturalism is a delicate balancing act. It respects non-liberal cultures, yet calls for them to embrace liberal values such as tolerance and individual freedom. Amidst criticisms that it could unknowingly defend oppressive practices or weaken social solidarity, liberal multiculturalism can drive positive cultural reforms, safeguard individual rights, and nurture a broader civic culture.\n\nStrategies include but are not limited to cultivating multicultural education, supporting legal accommodation, endorsing cultural institutions, promoting inclusivity in public spaces, and initiating economic reforms. Ultimately, the goal of liberal multiculturalism is to cultivate a harmonious coexistence among the diverse cultural groups that make up a society."
+                ],
+                "audio": {
+                    "size": 1869949,
+                    "duration": 116872
+                }
+            },
+            {
+                "chapter_summary": "The nature of law integrates positivist considerations and moral reasoning within societal institutions.",
+                "text": [
+                    "Examining the nature of the law can be similar to trying to understand the gears in a clock - it's complex, multi-faceted, and often depends on the perspective. If you're a linguist, you'd likely view the law as a collage of authoritative words while a lawyer might see it as the backbone of court decisions. However, neither viewpoint captures the law's entirety.\n\nInstead, imagine law as a city's government. It operates within a wider societal context, influencing and influenced by a range of factors outside itself. Of course, courts play a major role in this \"city,\" settling conflicts with firm rulings. Yet, they sometimes draw upon ethical guidelines not strictly defined in law books to issue these verdicts.\n\nThink of law as an event planner who has to make decisive and binding arrangements. This stage where tangible decisions are made is separate from the moral deliberation phase - much like choosing a party's theme is different from discussing potential themes.\n\nIt's important to recognize that legal proceedings use both legal and non-legal considerations in their verdicts. Understanding law then shouldn't rely solely on ethical debates - it needs to stand on its own two feet, free from moral arguments. That said, defending this perspective of law inevitably involves some evaluation and analysis about how society should be organized."
+                ],
+                "audio": {
+                    "size": 1427330,
+                    "duration": 89208
+                }
+            },
+            {
+                "chapter_summary": "The author argues that the 'sources thesis' best captures law's authoritative nature.",
+                "text": [
+                    "Let's dive into the intricacies of law and morality. There are three dominant views that attempt to define what law is. Firstly, we have the sources thesis, which holds that law is made entirely of rules rooted in social facts, and not based on any moral judgment. Then we have the incorporation thesis, which suggests that the law comprises not only social-fact rules but also what is inferable from those rules. Lastly, we have the coherence thesis, which proposes that law includes these source-based rules and the morally sound justification for those rules.\n\nNow, the thing with law is, it inherently asserts authority, and to do so legitimately, it must serve as a bridge between morality and action. This is where the coherence thesis falls short because it permits laws that are not grounded in social-source facts. The incorporation thesis also stumbles as it includes elements beyond what legal entities had intended.\n\nOn the contrary, the sources thesis aligns most fittingly with the law's authoritative claims. It enables lawmakers' intentions to be attributed based on tangible social facts. This respects the law's purpose to issue verdicts on how people should behave. Even though law can generate disagreement and overstep explicit declarations, its existence is reaffirmed by social realities, not moral evaluations."
+                ],
+                "audio": {
+                    "size": 1497129,
+                    "duration": 93571
+                }
+            },
+            {
+                "chapter_summary": "The law's inner logic, influenced by conventions, institutions, and judicial powers, drives its evolution amid external forces.",
+                "text": [
+                    "The law has an inner logic that guides its development, even though it is also shaped by external forces. This inner logic stems from three key factors: legal conventions, existing institutions, and directed judicial powers. \n\nLegal conventions, like styles of argumentation, affect how courts approach developing the law. Existing institutions provide reasons to reform the law gradually to align with changing conditions. Directed judicial powers impose duties on courts to shape the law based on certain objectives or moral principles. For example, the doctrine invalidating contracts that corrupt public life directs courts to strike down deals like exchanging campaign contributions for policy promises. Though external political and social forces influence the law's growth, this inner logic explains its systematic tendencies to perpetuate its own traditions."
+                ],
+                "audio": {
+                    "size": 893596,
+                    "duration": 55850
+                }
+            },
+            {
+                "chapter_summary": "Legal rights, derived from various sources, intertwine with moral arguments and institutional interests.",
+                "text": [
+                    "Legal rights are interests recognized and protected by law. They justify holding others subject to duties to serve those interests. Legal rights can derive from statutes, precedents, or successful justification by other legal rights. Justification involves showing the right protects an interest. Justified rights have legal implications. They justify other rights and duties. They also direct courts to develop law further protecting the interest. But justification depends on moral arguments. So justified rights only have legal force if enacted or made precedent. Still, justification shows rights are morally valid and reasons to make them legally binding. \n\nLegal rights need not match prior moral rights. Laws can create new interests generating new moral rights. Or laws can mistakenly recognize non-existent rights. But laws intending to recognize moral rights often succeed in creating moral rights by that recognition. \n\nLegal rights' implications are not absolute. They can be overridden by weightier considerations. But this doesn't deprive them of concrete implications, only shows they are defeasible. \n\nRights of officials and corporations protect institutional interests. This indirectly protects others' interests. \n\n\"Liberty rights\" are not rights, just absence of duties. Rights are grounds for holding others to duties, not merely freedom to act."
+                ],
+                "audio": {
+                    "size": 1498383,
+                    "duration": 93649
+                }
+            },
+            {
+                "chapter_summary": "Global coherence in law overshadows essential political untidiness and the doctrine of authority.",
+                "text": [
+                    "Coherence is valued in the law, but only locally, not globally. Coherence theories aim to impose complete coherence on the whole legal system. But law is inherently political and untidy. Imposing global coherence idealizes law, diminishing the doctrine of authority and the role of politics. \n\nCoherence as intelligibility is valuable, but philosophical coherence means mutual support among propositions. This cannot justify beliefs alone. People can be epistemically at fault even if their beliefs cohere. Justification depends on objective standards too. \n\nConstitutive coherence theories take legislation and court decisions as their base, and find principles that best explain them. But the authority argument shows law's content depends on authorities' intentions and reasons. Courts should be as morally sound as possible, not conform to imperfect statutes. \n\nAdjudicative coherence says courts should extend imperfect statutes coherently. But coherence is not an independent virtue outweighing justice. Conflicting values mean compromises, pluralism and incoherence. Only locally, for consistency, does coherence matter. Globally, the inherent untidiness of politics should remain."
+                ],
+                "audio": {
+                    "size": 1346246,
+                    "duration": 84140
+                }
+            },
+            {
+                "chapter_summary": "Legal reasoning is a complex interplay of morality, doctrine and specialized rules.",
+                "text": [
+                    "Legal reasoning involves utilizing and evaluating norms, rights, and duties in various situations, a skill not just limited to judges but employed by everyday people as well. Some may argue that this process follows a unique set of rules, though in reality, it's simply the application of general logic to legally-relevant topics. There's ongoing debate about whether legal reasoning should rely purely on legal reasons, or if it can incorporate moral ones too. While some believe law and morality are separate intellectual entities that can intersect, morality remains an indispensable element, governing all thought and rationality.\n\nLegal reasoning is not just a technical process of applying certain rules. It has a profound relationship with societal dynamics and isn't purely a technical skill. Legal decisions at times may be driven by legal expertise alone, but the integration of moral understanding is critical. Legal decisions can alter moral duties, and there can be situations where morality provides no clear direction for choosing the best decision. In such cases, it's the decision itself that sets the right course.\n\nThe role of morality is more profound in law than in personal life. It engages with fairness, coordination among individuals, and expectation protection. When morality doesn’t specify a preference, the doctrine - a principle or policy - can establish consistency and uniformity. Doctrine is subservient to morality, but when moral guidance is absent, doctrine ensures that decisions are not solely based on judicial preferences.\n\nIn summary, moral and doctrinal reasons are intricately woven into the process of legal reasoning, dominating at different stages depending on the situation."
+                ],
+                "audio": {
+                    "size": 1892937,
+                    "duration": 118309
+                }
+            },
+            {
+                "chapter_summary": "The obligation to obey the law is situational, not a universal duty.",
+                "text": [
+                    "The obligation to obey the law has been a longstanding topic of debate in political philosophy. The core question is whether citizens have a prima facie moral duty to obey the laws of a reasonably just state. In the 1960s, civil strife led to renewed interest in this question. Some theorists argued citizens do have such an obligation, either for instrumental reasons (the state needs obedience to function) or fairness (citizens must contribute to the system they benefit from). \n\nHowever, other theorists have challenged this view. They argue there is no general obligation to obey even just laws. The extent of any obligation varies based on the law and person. For core laws like prohibitions on murder, people should follow moral reasons, not legal duty. And many laws aim to coordinate behavior, which requires widespread conformity, not universal obedience. Plus, the government can still function without full obedience, through non-authority means like contracting. \n\nThis denial of a general obligation returns to early modern political theory, which grounded authority in consent and voluntary undertakings. People today do not uniformly feel obligation or loyalty to their state. So it is society, not theory, that has changed to reject general obedience. Though limited, obligations can still arise from the state's expertise, from coordination needs, and from loyalty to community. But these are not comprehensive rationales. The obligation to obey thus depends on circumstances, not blanket duty."
+                ],
+                "audio": {
+                    "size": 1676852,
+                    "duration": 104803
+                }
+            },
+            {
+                "chapter_summary": "Consent alone cannot fully legitimize political authority due to its inherent paradoxes.",
+                "text": [
+                    "The idea that government legitimacy rests on consent of the governed is deeply embedded in Western thought. However, this idea faces paradoxes. On one hand, authority seems to conflict with autonomy. If people must obey authorities, they surrender their own judgment. On the other hand, consenting to be bound seems inconsistent with autonomy. Why should one's current consent bind one's future self? \n\nThe essay argues consent alone cannot ground political authority. First, autonomy does not require deciding everything oneself. One can wisely exercise autonomy by consenting to be ruled in certain matters. However, consent to government is unlike ordinary consent. Governments claim unbounded power over all aspects of life. Such unlimited consent cannot be justified by autonomy's value. \n\nSecond, consent could legitimize limited government that respects two conditions: directives lead subjects to act rightly, and autonomy matters more than correct decisions on some issues. But governments that meet these conditions may be legitimate without consent. \n\nFinally, consent has expressive value as an act of trust in government. This value justifies consent where conditions for legitimacy are nearly met. However, trust is only valuable when well-placed. Most attitudes of trust arise through socialization, not formal consent. So consent plays a marginal, ceremonial role in legitimizing government. Though embedded in Western thought, consent alone cannot ground political authority."
+                ],
+                "audio": {
+                    "size": 1739128,
+                    "duration": 108696
+                }
+            },
+            {
+                "chapter_summary": "\"The rule of law's effectiveness relies on cultural, institutional factors, and democratic tradition.\"",
+                "text": [
+                    "The rule of law is a political doctrine with different meanings and justifications across countries. Its core principles include public promulgation of laws, no punishment without law, clarity in laws, and reasoned judgements by independent courts after fair hearings. However, the effects and significance of these principles vary based on each country's culture and institutions. \n\nThe rule of law cannot be justified as a universal moral standard. Rather, it depends on cultural and institutional factors to succeed. In modern democracies, the rule of law helps balance legislative supremacy with legal tradition. It requires faithful application of laws by the judiciary and other institutions. But it also empowers courts to constrain the legislature when needed to uphold coherence and continuity in the legal system. \n\nThe rule of law has two key virtues in pluralistic, rapidly changing societies. First, it provides bureaucratic justice that protects individuals through predictable, fair application of clear laws. Second, it enables democratic adaptation while sustaining legal continuity. For these to work, democratic culture and traditions of judicial independence are essential. Overall, the rule of law's merits are significant but imperfect. We must remain aware of its limitations, while striving to minimize them."
+                ],
+                "audio": {
+                    "size": 1443631,
+                    "duration": 90227
+                }
+            },
+            {
+                "text": [
+                    "Final Summary: \"Ethics in the Public Domain\" by Joseph Raz provides readers with a profound understanding of the intersections between ethics, law, and politics. The author explores various subjects from the notions of well-being, the implications of rights to one's well-being, to the dynamics of national self-determination, and the complex relationship between law and morality. Raz emphasizes how ethical principles underpin political and legal frameworks, and how these influence individual and societal well-being. He also challenges traditional views on duty and rights, suggesting an approach that prioritizes well-being and considers the complexities of diversity.\n\n10 Specific actions:\n\n1. Reflect on your core principles - Investigate your ethical standpoints and reassess your values based on Raz's ethical interpretations. \n\n2. Prioritize well-being - Implement strategies in your daily life that promote your well-being and those around you. \n\n3. Respect rights - Ensure you're respecting others' rights in all your actions, considering their impacts on individual well-being.\n\n4. Engage in healthy debates - Raz underlines the importance of discourse in shaping politics and society. Engage in informed discussions about ethics.\n\n5. Evaluate your duties - Based on Raz's perspective on duties and rights, revisit your responsibilities and explore their ethical dimensions.\n\n6. Advocate for diversity - Raz discusses the challenges and values of diversity. Promote tolerance and respect for cultural, ideological, and personal differences in your community.\n\n7. Grapple with complexity - Raz encourages us to engage with complex issues. Don’t shy away from exploring difficult topics, whether they concern law, ethics, or politics.\n\n8. Study legislative processes - Understanding how politics influences laws and societal norms can broaden your perspective and help you be a more informed citizen.\n\n9. Emphasize on self-directed actions - In line with Raz's emphasis on independent choice and well-being, focus on self-determining actions that contribute positively to your life and society.\n\n10. Educate others - As the understanding of ethics in public life is essential, make efforts to educate others about their rights, duties, and the broader societal implications. \n\nThese steps can help translate the complex philosophical concepts discussed by Raz into practical actions that contribute to personal development and societal well-being."
+                ],
+                "audio": {
+                    "size": 2832927,
+                    "duration": 177058
                 }
             }
         ]
