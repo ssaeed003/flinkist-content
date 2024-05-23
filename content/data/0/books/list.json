@@ -99331,10 +99331,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2939,
         "name": "Scaling Up Skalieren auch Sie!",
-        "create_date": 1712869070445,
+        "create_date": 1712869070446,
         "Year": "2014",
         "tags": [
             "management & leadership",
@@ -104255,10 +104255,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2981,
         "name": "Multipliers",
-        "create_date": 1715374612736,
+        "create_date": 1715374612737,
         "Year": "2010",
         "tags": [
             "management & leadership",
@@ -105755,6 +105755,320 @@
                 "audio": {
                     "size": 2832927,
                     "duration": 177058
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2992,
+        "name": "Alles geben",
+        "create_date": 1716422684488,
+        "Year": "2023",
+        "tags": [
+            "biography & memoir",
+            "german"
+        ],
+        "summary": "In 'Alles geben' setzt sich Neven Subotić intensiv mit dem Konzept der Gerechtigkeit auseinander. Er blickt auf sein Leben und seine Karriere zurück, um zu untersuchen, wie jeder Einzelne dazu beitragen kann, eine gerechtere Welt zu gestalten. Das Buch enthält eine Kritik an der Fußballindustrie, erzählt aber auch persönlich von Subotićs Rückkehr nach Deutschland, seinem Erfolg in der Bundesliga und der darauffolgenden Hinterfragung des materialistischen Erfolgs. Dies brachte ihn dazu, sein Leben seiner Stiftung und dem Einsatz für globale Gerechtigkeit zu widmen.",
+        "author_name": "Neven Subotić",
+        "about_author": "Neven Subotić, geboren im Jahr 1988, ist ein bekannter ehemaliger Profifußballer, der vor allem für seine Engagements bei Borussia Dortmund, dem 1. FC Köln und Union Berlin in Erinnerung bleibt. Seit dem Jahr 2012 setzt er sich aktiv für seine eigene Stiftung ein, mit deren Hilfe er dazu beitragen möchte, eine gerechtere Welt zu gestalten. Jährlich unternimmt er Reisen nach Äthiopien, um die Projekte persönlich zu besuchen, die von seiner Stiftung unterstützt werden.",
+        "subtitle": "Warum der Weg zu einer gerechteren Welt bei uns selbst anfängt",
+        "target_group": "Dieses Buch wendet sich an Leser, die ein Interesse an persönlicher Entwicklung, sozialer Gerechtigkeit und Gesellschaftskritik haben. Es nimmt Sie mit auf eine Reise der Selbstreflexion und gesellschaftlichen Analyse, die dazu anregt, eigene Handlungen und gesellschaftliche Normen zu hinterfragen. Auch Fußballfans werden die Einblicke hinter die Kulissen eines Profispielers spannend finden.",
+        "book_link": "https://www.amazon.de/-/en/Neven-Suboti%C4%87/dp/3462005235/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Seine Fußballkarriere stand in Konflikt mit seinem Bestreben, die weltweite Ungleichheit zu bekämpfen.",
+                "text": [
+                    "Neven Subotic führte ein bemerkenswertes Doppelleben: Einerseits war er professioneller Fußballer, andererseits ein Philanthrop, der sich dafür einsetzte, Bedürftigen sauberes Wasser zur Verfügung zu stellen. Dieser Weg war nicht immer einfach, da seine Trainer und Teamkollegen häufig seine Hingabe zum Fußballspiel in Frage stellten und seine wohltätigen Aktivitäten als Ablenkung betrachteten. Aufgrund dieser einzigartigen Interessenkombination wurde er oft als \"der andere Fußballer\" bezeichnet.\n\nEs war eine entmutigende Aufgabe, Hilfsanfragen abzulehnen, doch Subotic blieb unerschütterlich in seinem ehrgeizigen Vorhaben, durch seine Stiftung die globale Ungleichheit zu bekämpfen. Letztendlich führten ihn diese Erfahrungen zu einer noch größeren Mission: Er entschied sich, seine Fußballkarriere zu beenden und seine ganze Aufmerksamkeit der Schaffung einer gerechteren Welt zu widmen.\n\nDie Entscheidung für diesen Weg war nicht leicht, doch diese einzigartigen Erfahrungen prägten Subotics Lebenswerte und bestimmten sein Handeln. Nun hofft er, seine Geschichte als Leuchtfeuer zu nutzen, um andere zu inspirieren und zu ermutigen, einen Sinn und eine Bedeutung in ihrem Leben zu finden. Er lädt jeden dazu ein, seine Plattform, unabhängig von ihrer Größe, zu nutzen, um zu einer ausgewogeneren Welt beizutragen."
+                ],
+                "audio": {
+                    "size": 1327856,
+                    "duration": 82991
+                }
+            },
+            {
+                "chapter_summary": "Neven Subotics Reise und Weltanschauung wurden geprägt durch die Flucht vor Konflikten und die Hinwendung zu empathischer Gerechtigkeit.",
+                "text": [
+                    "Nach seiner Flucht aus Jugoslawien nach Deutschland fiel es Neven Subotic in seiner Kindheit schwer, die Konzepte von Krieg und Flucht zu verstehen. Sein Leben schien normal zu sein, geprägt von Freundschaften und Schultagen, doch unter der Oberfläche gab es merkliche Unterschiede. Die harte Arbeit seiner Eltern, um den Lebensunterhalt zu sichern, war unübersehbar, und Geschenke waren nicht so üppig vorhanden wie bei anderen.\n\nEine besondere Erinnerung bleibt ihm besonders im Gedächtnis: Ein Lastwagen voller Hilfsgüter, bestimmt für Kinder in Jugoslawien. Das Festklammern an der Schokolade schien wichtig - warum durfte er sie nicht behalten? Später verstand Subotic die Bedeutung dahinter: Es ging um Teilen, Mitgefühl und Gleichberechtigung.\n\nIm Alter von zehn Jahren musste er Deutschland verlassen. Trotz des Wunsches zu bleiben und Freunde und Zukunftspläne zu haben, führte der Weg in die USA. Ein neues Leben, geprägt von Arbeit und Hoffnung, wurde zur Normalität, während seine Eltern unermüdlich daran arbeiteten, ihm Zugang zur Bildung zu ermöglichen.\n\nDas Nachdenken über Privilegien, Chancen und den Geburtsort wurde für Subotic immer bedeutender. Die Diskrepanz zwischen denen, die im Überfluss leben, und denen, die Hunger leiden, war nicht zu übersehen. Reisen nach Äthiopien lösten Schuldgefühle wegen des eigenen Wohlstands aus.\n\nDiese persönliche Geschichte prägte Subotics Verständnis und lehrte ihn, dass harte Arbeit unerlässlich ist und Rückblick nicht hilft. Er sieht die Möglichkeit, sein Glück und seine Chancen zu nutzen, um ein Stück Fairness in die Welt zu bringen."
+                ],
+                "audio": {
+                    "size": 1693988,
+                    "duration": 105874
+                }
+            },
+            {
+                "chapter_summary": "Neven Subotic hat durch seine Migrationserfahrung und seine Fußballkarriere gelernt, wie man Herausforderungen meistert, Ehrgeiz aufbaut und Widerstandsfähigkeit beweist.",
+                "text": [
+                    "Aufgrund des Krieges in Bosnien war die Familie von Neven Subotic gezwungen, ihre Heimat zu verlassen. Sie fanden in Deutschland Zuflucht, wo Subotic seine Begeisterung für Fußball entdeckte. Sein Vater, ein Mann von großer Disziplin und Ehrgeiz, vermittelte ihm diese Werte durch den Sport. Schließlich zog die Familie weiter in die Vereinigten Staaten, wo Subotic die Möglichkeit erhielt, sich dem US-Nationalteam anzuschließen - eine Entwicklung, die seinen Vater sehr stolz machte. Subotic erkannte jedoch die Chance, nach Europa zurückzukehren und seiner Leidenschaft für Fußball nachzugehen. Die Widerstandsfähigkeit und Entschlossenheit der Familie, immer wieder neu anzufangen, unterstreicht den prägenden Einfluss des Vaters. Er lehrte Subotic, niemals aufzugeben - eine Lektion, die er auf seiner gesamten Reise zu schätzen gelernt hat."
+                ],
+                "audio": {
+                    "size": 859742,
+                    "duration": 53734
+                }
+            },
+            {
+                "chapter_summary": "Der rasche Erfolg im professionellen Fußball hat verdeutlicht, dass Reichtum nicht zwangsläufig persönliche Erfüllung bieten kann.",
+                "text": [
+                    "Stell dir vor, du bist ein junger Fußballer in Deutschland und steigst rasant zu einem bekannten Bundesliga-Spieler mit einem sechsstelligen Gehalt auf. Dieser plötzliche Reichtum hat das Leben von Neven Subotic komplett umgekrempelt, mit Luxusautos, prächtigen Häusern und einem verschwenderischen Lebensstil. Anfangs war er unsicher, wie er mit seinem neu erworbenen Reichtum umgehen sollte und gab übermäßig viel für unnötige Dinge aus. Mit der Zeit jedoch erkannte Subotic, dass dieser Lebensstil seine Zufriedenheit nicht erhöhte und führte zu Unzufriedenheit und Verwirrung hinsichtlich des Sinns seines Lebens. Er sah das Potenzial seines Reichtums, anderen zu helfen, und begann, echte Bedürfnisse von zweifelhaften Anfragen zu unterscheiden. Subotic ist der Überzeugung, dass Spieler ihren Wohlstand dazu nutzen können, die Welt Schritt für Schritt zu einem besseren Ort zu machen."
+                ],
+                "audio": {
+                    "size": 921182,
+                    "duration": 57574
+                }
+            },
+            {
+                "chapter_summary": "Jürgen Klopp hat in mir als Trainer und Mentor Respekt und Selbstvertrauen hervorgerufen.",
+                "text": [
+                    "Die Fußballkarriere von Neven Subotic bei Borussia Dortmund unter Jürgen Klopp war eine transformative Erfahrung. Klopp war weit mehr als nur ein Trainer; er fungierte als Vaterfigur und Mentor, der bei der persönlichen und beruflichen Entwicklung Unterstützung leistete. Er lehrte seine Spieler, wie man mit Fehlern umgeht, gab ihnen Orientierung und stärkte ihr Selbstvertrauen, indem er sie respektvoll behandelte und ihr Potenzial erkannte. Subotic lernte, die Fans, die zunächst als distanzierte Cheerleader erschienen, als engagierte Unterstützer zu schätzen. Unvergessliche Momente mit den Fans vertieften sein Verständnis für die Bedeutung des Fußballs und ließen ihn erkennen, dass das Spiel ohne sie seinen wahren Charakter verlieren würde."
+                ],
+                "audio": {
+                    "size": 759849,
+                    "duration": 47491
+                }
+            },
+            {
+                "chapter_summary": "Die Faszination des Fußballs entsteht durch das Gemeinschaftsgefühl und die Fairness, die jedoch leider häufig von Geschäftsinteressen in den Schatten gestellt werden.",
+                "text": [
+                    "Für Neven Subotic ist Fußball mehr als nur ein Spiel, es ist eine tiefe Leidenschaft, die in Gemeinschaft und Gerechtigkeit verwurzelt ist. Doch der Sport zeigt auch eine dunkle Seite, etwa durch heruntergespielte Verletzungen und einen immensen Leistungsdruck. Die Karrieren der Spieler sind oft kurz und mit Risiken verbunden, wobei der Sport häufig mehr auf Geschäftsinteressen als auf Prinzipien ausgerichtet ist. Dennoch ist Subotic der Überzeugung, dass eine Veränderung innerhalb der Fußballgemeinschaft möglich ist. Spieler, die als Vorbilder fungieren, können soziale Verantwortung übernehmen und zu einem faireren, menschlicheren System beitragen, das die Tugenden des Sports in den Vordergrund stellt. Jeder Einzelne hat dabei eine Rolle in dieser Transformation zu spielen."
+                ],
+                "audio": {
+                    "size": 786599,
+                    "duration": 49162
+                }
+            },
+            {
+                "chapter_summary": "Wahres Engagement erfordert ein Verständnis für die Herausforderungen anderer, nicht nur sporadische Spenden.",
+                "text": [
+                    "Als junger Profifußballer setzte sich Neven Subotic in Kinderheimen für benachteiligte Kinder ein. Obwohl seine Beiträge Anerkennung fanden, stellte er ihren wahren Wert in Frage. Seine häufigen Reisen konfrontierten ihn mit der Armut und brachten ihn dazu, soziale Probleme intensiver zu durchdringen. Gespräche mit Freunden aus unterschiedlichen Lebenswelten erweiterten seine Sichtweise noch mehr. Subotic kam zu der Erkenntnis, dass \"echtes Engagement ein Verständnis für die Kämpfe anderer erfordert, nicht nur sporadische Spenden.\" Er verspürte den Wunsch, einen spürbaren Unterschied zu machen und zu etwas Größerem und Bedeutsamerem beizutragen."
+                ],
+                "audio": {
+                    "size": 680437,
+                    "duration": 42527
+                }
+            },
+            {
+                "chapter_summary": "Ein erfolgreicher Fußballer wandelt sich zum Humanitären und findet seine Erfüllung darin, sich aktiv in der globalen Wasserkrise zu engagieren.",
+                "text": [
+                    "Neven Subotic, ein professioneller Fußballer, der in Deutschland tätig ist, war unzufrieden mit seinem von Materialismus geprägten Lebensstil. Ein Buch weckte in ihm die Erkenntnis, nach einem tieferen Lebenssinn zu suchen. Sein Engagement in sozialen Projekten und seine Recherchen zur globalen Wasserkrise führten dazu, dass er eine Stiftung gründete, um den Zugang zu sauberem Wasser in Äthiopien zu verbessern. Diese Mission veränderte ihn persönlich und führte dazu, dass er seinen Lebensstil einschränkte und sich vollständig dieser Aufgabe widmete. Trotz Kritik hielt Subotic an seinem Glauben an globale Gerechtigkeit fest, statt sich von nationalistischen Gesinnungen leiten zu lassen. Sein Engagement für andere wurde zum Weg, auf dem er Erfüllung und einen neuen Lebenssinn fand."
+                ],
+                "audio": {
+                    "size": 826723,
+                    "duration": 51670
+                }
+            },
+            {
+                "chapter_summary": "Subotic bewundert die Selbstlosigkeit und das Engagement der Äthiopier, die sich trotz aller Widrigkeiten für die Verbesserung ihrer Gemeinschaft einsetzen.",
+                "text": [
+                    "Neven Subotics Reise nach Äthiopien brachte ihn mit Menschen zusammen, die sich trotz ihrer Armut dafür engagieren, ihre Gemeinschaften zu verbessern. In Mosambik begegnete er Jose, der sich selbstlos für den Zugang zu sauberem Wasser einsetzte. In Äthiopien traf er auf Mulu, einen Schulleiter, der trotz begrenzter Ressourcen die Bildung ausbaute, und Whib, einen Geologen, der Dörfern half, ohne dabei auf persönlichen Gewinn aus zu sein. Ihre Geschichten zeigten auf, wie Menschlichkeit trotz aller Schwierigkeiten gedeihen kann. Subotic erkannte seine privilegierte Position und konzentrierte sich darauf, Ungleichheit zu mindern, inspiriert von ihrem selbstlosen Engagement für das Gemeinwohl."
+                ],
+                "audio": {
+                    "size": 751072,
+                    "duration": 46942
+                }
+            },
+            {
+                "chapter_summary": "Eine Partnerschaft, nicht eine Patronage, ist entscheidend für globale Gerechtigkeit und um die Widerstandsfähigkeit Afrikas zu würdigen.",
+                "text": [
+                    "Das Leben in Afrika repräsentiert eine andere Realität, die von harter Arbeit und Wasserknappheit geprägt ist. Trotz der Herausforderungen sind die Menschen dort herzlich und lebensfroh. Während Europa von den günstigen Ressourcen Afrikas profitiert, leben viele Einwohner in Armut. Neven Subotic ist der Ansicht, dass globale Gerechtigkeit nur erreicht werden kann, wenn wir unsere Denkweise ändern und Afrikaner nicht als bedürftig, sondern als gleichberechtigte Partner ansehen. Es ist von entscheidender Bedeutung, ihre Geschichte und Kultur zu respektieren und ihre Widerstandsfähigkeit zu würdigen. Partnerschaften, die auf gegenseitigem Wachstum und Lernen basieren, sind der Schlüssel zu einer ausgewogenen Welt, in der Gerechtigkeit und Wohlstand gemeinsam geteilt werden."
+                ],
+                "audio": {
+                    "size": 829649,
+                    "duration": 51853
+                }
+            },
+            {
+                "chapter_summary": "Der Zugang zu sauberem Wasser, ein fundamentales Recht, fördert nicht nur die Würde und Gesundheit, sondern lässt auch Gemeinschaften aufblühen.",
+                "text": [
+                    "Sauberes Wasser ist nicht nur lebensnotwendig, es trägt auch zur Wahrung der Würde bei. Dennoch haben Milliarden von Menschen keinen Zugang dazu. In den ländlichen Gebieten Äthiopiens müssen die Menschen weite Wege zurücklegen, um an verschmutztes Wasser zu gelangen, was Krankheiten und sogar Todesfälle zur Folge hat. Eine umfassende Lösung, die Brunnen und sanitäre Einrichtungen beinhaltet, könnte diese Situation verbessern. Neven Subotic unterstreicht, wie sauberes Wasser dazu beiträgt, die Würde der Gemeinschaft wiederherzustellen, Kindern eine Konzentration auf ihre Bildung ermöglicht und sowohl die Gesundheit der Frauen als auch die Landwirtschaft verbessert. Die Wertschätzung für den einfachen Zugang zu sauberem Wasser sollte uns stets an dessen unschätzbaren Wert erinnern. Subotic ist der Überzeugung, dass jeder neu gebaute Brunnen einen Schritt in Richtung Fortschritt darstellt, denn Wasser ist gleichbedeutend mit Leben."
+                ],
+                "audio": {
+                    "size": 980532,
+                    "duration": 61283
+                }
+            },
+            {
+                "chapter_summary": "Subotic zieht Vergleiche zwischen seinen Kriegserlebnissen aus der Kindheit und den gegenwärtigen Konflikten in Äthiopien, wobei sein Fokus auf humanitären Anstrengungen liegt.",
+                "text": [
+                    "Neven Subotic zieht eine Parallele zwischen seinen eigenen Kriegserfahrungen aus seiner Kindheit während des Jugoslawienkriegs und den gegenwärtigen Konflikten in Äthiopien, wo seine Stiftung aktiv ist. Seit 2020 ist Äthiopien von einem Krieg zwischen der Zentralregierung und Tigray heimgesucht, der alarmierende Menschenrechtsverletzungen und zivile Opfer mit sich bringt. Subotics Hauptaugenmerk liegt auf humanitären Maßnahmen inmitten dieser Krise. Seine Stiftung kooperiert mit lokalen Partnern in Tigray, um Brunnen zu bohren und die Wasserversorgung sicherzustellen, trotz der Herausforderungen, die der Krieg mit sich bringt. Durch die Ausweitung seiner Bemühungen auf Kenia und Tansania unterstreicht Subotic die Notwendigkeit, lebenswichtige Ressourcen in Krisenzeiten bereitzustellen und betont die Wichtigkeit der Versorgung mit grundlegenden Bedürfnissen."
+                ],
+                "audio": {
+                    "size": 942915,
+                    "duration": 58932
+                }
+            },
+            {
+                "text": [
+                    "Finale Zusammenfassung: \"Alles geben\" ist eine tiefgründige Erzählung von Neven Subotic, einem angesehenen Fußballspieler, der seinen Glauben an eine gerechtere Welt und die Rolle, die jeder Einzelne bei deren Gestaltung spielen kann, zum Ausdruck bringt. Das Buch schildert seinen Weg vom Profifußball zur Philanthropie und gewährt Einblicke in die Beweggründe, die Subotic zu diesem dramatischen Wandel veranlasst haben. Im gesamten Buch betont Subotic immer wieder die Bedeutung, nicht nur Mitgefühl für die Ungerechtigkeiten der Welt zu empfinden, sondern auch aktiv etwas dagegen zu unternehmen. Das Buch dient als Aufruf zum Handeln und ermutigt jeden Leser, seine Ressourcen - Geld, Zeit, Gedanken - zur Verbesserung der gesellschaftlichen Verhältnisse einzusetzen. Subotic hebt hervor, dass \"Alles geben\" weniger darum geht, Perfektion zu erreichen, sondern vielmehr den Willen zu haben, sich selbst und die Welt um sich herum stetig zu verbessern, im Bewusstsein, dass der Kampf für Gerechtigkeit niemals endet.\n\n10 konkrete Maßnahmen zur Umsetzung der Erkenntnisse:\n\n1. Selbstreflexion: Frage dich stets, was du wirklich willst, wer du sein möchtest und wie du gesellschaftlich Einfluss nehmen kannst.\n\n2. Strebe stetige Verbesserung an: Strebe stets nach Verbesserung, sowohl in dir selbst als auch in der Welt. Ziele auf das Optimum, nicht auf das Minimum.\n\n3. Gib alles: Nutze alle Ressourcen, die du hast - Zeit, Geld oder Gedanken - um einen Unterschied zu machen, sei es in deinem unmittelbaren Umfeld oder in der Welt im Großen.\n\n4. Denke global: Erkenne und verstehe die Auswirkungen, die dein Handeln auf globaler Ebene haben kann, denn wir sind eine vernetzte Gemeinschaft.\n\n5. Uneingeschränkte Großzügigkeit: Gönn dir den Luxus des Genusses, aber gleiche ihn mit großzügigen Gesten aus. Selbstbelohnung sollte unsere Fähigkeit zu geben nicht einschränken.\n\n6. Fordere Ungerechtigkeit heraus: Erkenne die Ungerechtigkeiten in deiner Umgebung, betrachte sie als deine Aufgabe und arbeite daran, sie zu bekämpfen.\n\n7. Teile Wissen: Sammle Wissen und Erfahrungen und teile sie mit Organisationen in deinem Netzwerk, um effektive Veränderungen zu bewirken.\n\n8. Flexibler Idealismus: Akzeptiere, dass es keinen perfekten Zustand gibt, aber beharre darauf, dein Ideal zu verfolgen, denn es ist eine treibende Kraft.\n\n9. Nimm Unbequemlichkeiten in Kauf: Hab den Mut, den Status quo zu ändern, auch wenn es anfangs einschüchternd oder unangenehm ist; es führt oft zu neuen Erfahrungen und Beziehungen.\n\n10. Tägliche Integration: Integriere die Mission, alles zu geben, in deinen Alltag, nicht nur als jährliches Ereignis. Das könnte bedeuten, die Lebensdauer deiner Geräte zu verlängern, deine grünen Einkäufe zu erhöhen, Petitionen zu unterzeichnen oder regelmäßige Spenden zu tätigen."
+                ],
+                "audio": {
+                    "size": 3212016,
+                    "duration": 200751
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2993,
+        "name": "Give Everything",
+        "create_date": 1716422693841,
+        "Year": "2023",
+        "tags": [
+            "biography & memoir",
+            "english"
+        ],
+        "summary": "In 'Alles geben', Neven Subotić questions and analyzes the concept of justice, reflecting on his life and career to explore how an individual can contribute towards creating a more equitable world. The book provides a critique of the football industry whilst also being a personal narrative of Subotić's journey back to Germany, his success in the Bundesliga, and the subsequent questioning of materialistic success, which led him to devote his life to his foundation and the fight for global justice.",
+        "author_name": "Neven Subotić",
+        "about_author": "Neven Subotić, born in 1988, is a former professional football player, notably for Borussia Dortmund, 1. FC Köln and Union Berlin. Since 2012, he has been working for his foundation, through which he strives to contribute to a more righteous world. Every year, he travels to Ethiopia to visit the projects facilitated by his foundation.",
+        "subtitle": "Why the Path to a Fairer World Begins with Ourselves",
+        "target_group": "This book is intended for readers who are interested in personal development, social justice, and societal critique. It is a journey of self-reflection and societal analysis that prompts the reader to question their own actions and societal norms. Football enthusiasts would also find interest in the behind-the-scenes experience of a professional player.",
+        "book_link": "https://www.amazon.de/-/en/Neven-Suboti%C4%87/dp/3462005235/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "His football career conflicted with his ambition to address global inequality.",
+                "text": [
+                    "Neven Subotic juggled an interesting double-life, one as a professional footballer and the other as a philanthropist providing clean water to those in need. It wasn't an easy path, as his coaches and team members often questioned his dedication to the game, viewing his charity work as a diversion. His unique blend of interests consequently earned him the title, \"the different footballer.\"\n\nTurning down pleas for assistance was a daunting task, yet Subotic remained steadfast in his ambitious quest to shrink the global inequality gap through his foundation. Eventually, these experiences led him to embark on an even bigger mission: quitting football and committing his attention fully to making the world more equitable.\n\nChoosing this path wasn't straightforward, but these unique experiences significantly molded Subotic's life values and directed his actions. His hope now is to use his story as a beacon to inspire and encourage others to discover a sense of purpose and meaning in their lives. He invites everyone to use their platform, however big or small, to contribute to a more balanced world."
+                ],
+                "audio": {
+                    "size": 1179898,
+                    "duration": 73744
+                }
+            },
+            {
+                "chapter_summary": "Fleeing conflict and embracing empathetic justice shaped Neven Subotic's journey and worldview.",
+                "text": [
+                    "Growing up in Germany after escaping Yugoslavia, Neven Subotic found it difficult to comprehend the concept of war or escape as a child. Life seemed normal, filled with friends and school days, but differences existed beneath the surface. His parents' hard work to secure a livelihood was evident, and presents weren't as abundant as they were for others.\n\nA particular memory stands out of a truck filled with aid goods destined for children in Yugoslavia. Holding on to the chocolate felt important—why couldn't it be kept instead? Later, Subotic understood the significance: it was about sharing, compassion, and equality.\n\nAt the age of ten, leaving Germany became necessary. Despite longing to stay and having friends and future plans, the journey led to the USA. Starting a new life filled with work and hope became the norm, as his parents tirelessly tried to provide access to education.\n\nReflecting on privileges, opportunities, and birthplace became significant for Subotic. Realizing the disparity between those living in abundance and those facing hunger was unavoidable. Trips to Ethiopia evoked guilt about wealth.\n\nThis personal history shaped Subotic's understanding, teaching him that hard work is essential and looking back is not. He sees the opportunity to utilize fortune and chances to weave bits of fairness into the world."
+                ],
+                "audio": {
+                    "size": 1445720,
+                    "duration": 90358
+                }
+            },
+            {
+                "chapter_summary": "Neven Subotic learned overcoming adversity, ambition, and resilience through migrations and football.",
+                "text": [
+                    "Neven Subotic's family was forced to flee Bosnia due to war. Seeking refuge in Germany, Subotic began engaging in football. His father, ambitious and disciplined, instilled these values through sports. They eventually migrated to the United States, where Subotic had the chance to join the U.S National Team, pleasing his father. Subotic foresaw the opportunity to return to Europe and pursue his passion for football. The family's resilience and determination to start afresh repeatedly highlight the father's influence, teaching Subotic to never give up, a lesson he cherished throughout his journey."
+                ],
+                "audio": {
+                    "size": 632790,
+                    "duration": 39549
+                }
+            },
+            {
+                "chapter_summary": "Rapid professional football success revealed wealth's inability to provide personal fulfillment.",
+                "text": [
+                    "Imagine being a young soccer player in Germany, swiftly rising to a renowned Bundesliga player with a six-figure salary. This sudden wealth transformed Neven Subotic's life, bringing luxury cars, houses, and a lavish lifestyle. Initially unsure of what to do with his wealth, he spent excessively on needless items. Over time, Subotic realized this lifestyle didn't increase his happiness, leading to dissatisfaction and confusion about his life's purpose. Understanding the potential of his wealth to support others, he began discerning genuine needs from dubious requests. Subotic believes players can turn their fortunes towards making the world a better place, even in small increments."
+                ],
+                "audio": {
+                    "size": 707186,
+                    "duration": 44199
+                }
+            },
+            {
+                "chapter_summary": "Jürgen Klopp, as a coach and mentor, instilled respect and self-belief in me.",
+                "text": [
+                    "Neven Subotic's football career under Jürgen Klopp at BVB Dortmund was transformative. Klopp was more than a coach; he was a father figure and mentor, aiding in personal and professional development. He taught players to handle mistakes, offered direction, and boosted self-belief, treating them with respect and recognizing their potential. Subotic learned to appreciate fans, initially distant cheerleaders, as dedicated supporters. Memorable moments with fans deepened his understanding of football's significance, realizing that without them, the essence of the game would be lost."
+                ],
+                "audio": {
+                    "size": 610638,
+                    "duration": 38165
+                }
+            },
+            {
+                "chapter_summary": "Football's allure lies in community and fairness, overshadowed by business interests.",
+                "text": [
+                    "For Neven Subotic, football is a profound passion rooted in community and justice. However, the sport's dark side reveals itself through injuries downplayed and immense performance pressure. Players' careers are brief and risky, with the sport centered more on business than principles. Subotic believes change is possible within the community. Players, as role models, can address social responsibilities, contributing to a fairer, more humane system that emphasizes the virtues of the sport. Every individual has a role to play in this transformation."
+                ],
+                "audio": {
+                    "size": 580963,
+                    "duration": 36310
+                }
+            },
+            {
+                "chapter_summary": "True engagement requires understanding others' struggles, not just occasional donations.",
+                "text": [
+                    "As a young professional soccer player, Neven Subotic volunteered in children's homes and supported underprivileged kids. Though praised for his contributions, he questioned their true value. Frequent travels exposed him to poverty, prompting him to understand social issues deeply. Conversations with friends from different backgrounds further expanded his perspective. Subotic realized true involvement required more than occasional donations; it demanded genuine understanding of others' struggles and a willingness to delve deeper. He yearned to make a tangible difference, contributing to something larger and more profound."
+                ],
+                "audio": {
+                    "size": 618997,
+                    "duration": 38687
+                }
+            },
+            {
+                "chapter_summary": "A successful footballer turns humanitarian, finding fulfillment through global water crisis activism.",
+                "text": [
+                    "Neven Subotic, a professional footballer in Germany, found himself unsatisfied with his materially driven lifestyle. A book triggered his realization to seek a deeper purpose. Engaging in social activities and researching the global water crisis, he initiated a foundation to improve access to clean water in Ethiopia. This mission transformed him personally, leading him to downsize his lifestyle and devote himself fully. Despite criticism, Subotic believed in global justice over nationalist sentiment. His commitment to serving others became the channel through which he found fulfillment and a new sense of purpose."
+                ],
+                "audio": {
+                    "size": 664973,
+                    "duration": 41561
+                }
+            },
+            {
+                "chapter_summary": "Subotic admires Ethiopians' selflessness and dedication towards communal upliftment amidst adversity.",
+                "text": [
+                    "Neven Subotic's journey to Ethiopia introduced him to individuals devoted to improving their communities despite poverty. In Mozambique, he met Jose, who ensured clean water access selflessly. In Ethiopia, he encountered Mulu, a head teacher expanding education despite limited resources, and Whib, a geologist aiding villages instead of seeking personal gain. Their stories highlighted humanity flourishing amidst hardship. Subotic recognized his privileged outlook and focused on alleviating inequality, inspired by their spirit of selfless service for the greater good."
+                ],
+                "audio": {
+                    "size": 636551,
+                    "duration": 39784
+                }
+            },
+            {
+                "chapter_summary": "Partnership, not patronage, is vital for global fairness and honoring Africa's resilience.",
+                "text": [
+                    "Living in Africa presents a different reality defined by arduous work and water worries. Despite hardships, the people are warm-hearted and cheerful. Europe prospers from Africa's inexpensive resources while its inhabitants live in poverty. Neven Subotic believes achieving global justice requires shifting our mindset from viewing Africans as needy to equal partners. Respecting their history and culture and appreciating their resilience is essential. Establishing partnerships for mutual growth and learning is key to a balanced world where justice and prosperity are shared by all."
+                ],
+                "audio": {
+                    "size": 616489,
+                    "duration": 38531
+                }
+            },
+            {
+                "chapter_summary": "Clean water access, a basic right, enhances dignity, health, and fosters thriving communities.",
+                "text": [
+                    "Clean water is essential for survival and dignity, yet billions lack access to it. In rural Ethiopia, people walk long distances for polluted water, causing diseases and fatalities. A holistic solution with wells and sanitary infrastructure can turn this around. Neven Subotic highlights how clean water restores community dignity, allows children to focus on education, and improves women's health and agriculture. Appreciating easy access to clean water should remind us of its value. Subotic believes that every new well promises progress, as water equates to life."
+                ],
+                "audio": {
+                    "size": 608966,
+                    "duration": 38060
+                }
+            },
+            {
+                "chapter_summary": "Subotic parallels his childhood war experiences with current conflicts in Ethiopia, focusing on humanitarian efforts.",
+                "text": [
+                    "Neven Subotic parallels his childhood experiences during the Yugoslavian war with current conflicts in Ethiopia, where his foundation operates. Since 2020, Ethiopia has faced war between the central government and Tigray, with alarming human rights violations and civilian casualties. Subotic's focus is on humanitarian efforts amidst the crisis. His foundation collaborates with local partners in Tigray to drill wells and ensure water supply, despite war challenges. Expanding efforts to Kenya and Tanzania, Subotic emphasizes providing essential resources during crises, highlighting the importance of tending to basic necessities."
+                ],
+                "audio": {
+                    "size": 713038,
+                    "duration": 44565
+                }
+            },
+            {
+                "text": [
+                    "Final Summary: \"Alles geben\" is a thoughtful narrative by Neven Subotic, a renowned football player, who expresses his belief in a just world and the role that everyone can play in realizing it. The book tells the story of his journey from professional football to philanthropy, giving insight into the motivations that led Subotic to make the dramatic change. Throughout the book, Subotic repeatedly emphasizes the importance of not only being sympathetic to the injustices of the world, but also taking action against them. The book serves as a call to arms, encouraging each reader to make use of their resources - money, time, thoughts - to improve societal conditions. Subotic also underlines that being \"all in\" is not about achieving perfection but about the will to continuously improve oneself and the world around them, knowing that the fight for justice has no finish line.   \n\n10 Specific Actions to Implement Learnings:\n\n1. Self Reflection: Always ask yourself what you truly want, who you want to be and how you can make a societal impact. \n\n2. Don't Stop Improving: Always strive for improvement, in yourself and in the world. Aim for the maximum, not the minimum. \n\n3. Give All In: Whatever resources you have - time, money, or thoughts - give them towards making a difference, whether it's in your immediate surroundings or the larger world. \n\n4. Go Global: Measure and understand the impact your actions can have globally because we are a connected community. \n\n5. Unrestricted Generosity: Allow yourself the luxury of indulging but balance it with acts of generosity. Being self-rewarding should not curb our capacity to give. \n\n6. Challenge Injustice: Recognize the injustices around you, consider them your task and work towards addressing them. \n\n7. Share Knowledge: Gather knowledge and experiences and share them with organizations within your network to create effective change. \n\n8. Flexible Idealism: Accept that there is no perfect state of being, but persist in chasing your ideal, as it is a driving force. \n\n9. Embrace Uncomfortability: Summon the courage to change status quo, even if it's intimidating or uncomfortable at first; it often leads to novel experiences and relationships. \n\n10. Daily Integration: Integrate the mission to give all in into your daily routine, not just as an annual event. This could mean extending the life of your gadgets, increasing your green buys, signing petitions, or making regular donations.  "
+                ],
+                "audio": {
+                    "size": 2807849,
+                    "duration": 175491
                 }
             }
         ]
