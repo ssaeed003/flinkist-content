@@ -104362,10 +104362,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2980,
         "name": "The Spiritual Man",
-        "create_date": 1715467602536,
+        "create_date": 1715467602537,
         "Year": "1968",
         "tags": [
             "religion & spirituality",
@@ -104579,10 +104579,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2986,
         "name": "The New Testament in Its World",
-        "create_date": 1715703935515,
+        "create_date": 1715703935516,
         "Year": "2019",
         "tags": [
             "religion & spirituality",
@@ -106069,6 +106069,273 @@
                 "audio": {
                     "size": 2807849,
                     "duration": 175491
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2994,
+        "name": "Frames of Mind",
+        "create_date": 1716639186301,
+        "Year": "1983",
+        "tags": [
+            "learning & education",
+            "psychology",
+            "science",
+            "english"
+        ],
+        "summary": "'Frames of Mind' presents the argument for multiple relatively autonomous human intelligences, the 'frames of mind' of the title. Gardner draws on psychological research, biological sciences and insights from different cultures to support his theory. These different intelligences can be developed and combined in various ways by individuals and cultures, making them a powerful tool for understanding human cognition.",
+        "author_name": "Howard Gardner",
+        "about_author": "Howard Gardner is a developmental psychologist who has widely studied the development of symbolic skills in normal and gifted children, as well as the impairment of such skills in brain-damaged adults. He has worked extensively in the cognitive and behavioral sciences. His work expands beyond the conventional scope of academia and has made a significant impact in the field of education.",
+        "subtitle": "The Theory of Multiple Intelligences",
+        "target_group": "This book is aimed at psychologists, cognition scientists, educators, and policy-makers interested in a broader understanding of intelligence. It's also useful for those interested in pedagogical techniques and individual learning styles.",
+        "book_link": "https://www.amazon.com/Frames-Mind-Theory-Multiple-Intelligences/dp/0465024335/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "The book advances the theory of multiple intelligences, challenging traditional IQ-focused understanding.",
+                "text": [
+                    "Human intelligence and potential are vast panoramas of interest. There is a deeply entrenched belief that human's intellect can be gauged on a single scale of IQ score. However, this notion is challenged by the theory of multiple intelligences which believes that individuals possess diverse kinds of intelligence in varied areas. \n\nThe conventional perception of intelligence pivots around logical abilities, reasoning strength and depth of knowledge. Consequently, this culminates into people ranking and categorizing others solely on a single score of IQ. This limited perspective, however, dismisses many forms of intellectual behavior that are cherished globally, like the skill of navigation, the art of memorizing religious scriptures or the craft of composing music.\n\nVarious evidences are mentioned which have been obtained from a wide range of fields such as studies of prodigies, brain damage cases, cultural psychology and more. These studies strongly endorse the existence of eight distinct and relatively independent intelligences like musical, spatial, and logical-mathematical, among others. These varied intelligences integrate in a manifold manner within individuals.\n\nAn attempt is made to extend the boundaries of cognitive psychology by incorporating insights drawn from biology, anthropology and education. The ultimate objective is the early recognition of children’s cognitive profiles to enhance their educational journey. It further aspires to assist policymakers in devising more impactful interventions for unfolding human potential across diverse cultures. Hence, the theory of multiple intelligences surfaces as an indispensable concept whose recognition is long overdue."
+                ],
+                "audio": {
+                    "size": 1787611,
+                    "duration": 111726
+                }
+            },
+            {
+                "chapter_summary": "The evolution of intelligence understanding progresses amidst persistent theoretical limitations.",
+                "text": [
+                    "In the journey to understand intelligence, there have been multiple shifts in perspective. Initially, theories like phrenology tried to link the shape of the head to mental capabilities. Although such theories were eventually discredited, they did open a path towards the concept of brain function localization. A new science, psychology, started to seek general rules regulating human cognition, such as memory and perception.\n\nIndividual differences in capabilities were examined via tests triggered by Galton's work, leading to the surge and subsequent controversy of IQ tests. Piaget provided a unique developmental perspective, proposing that as children grow, their cognition navigates through specific stages. His theory was primarily centered on the aspects of science and logic reasoning. But, this theory had its own shortcomings. It appeared too age specific, didn't capture other forms of specialization, and seemed to overlook creativity.\n\nA fundamentally different approach to cognition, called \"information processing\", tried to dissect and detail every step associated with problem-solving. This approach painted a more flexible view of cognition. Nonetheless, it had its limitations too. It lacked a comprehensive theory linking diverse processes and had a narrow focus on problems of mathematics and logic. Selecting among the competing models remained ambiguous.\n\nIn a nutshell, understanding intelligence is still a work in progress. It continues to grapple with capturing the full spectrum of human cognition, particularly creativity, and effectively incorporating biological factors. A thorough theory might still be missing, but consistent empirical research and theoretical work are continually adding depth to our understanding of this complex phenomena."
+                ],
+                "audio": {
+                    "size": 1945182,
+                    "duration": 121574
+                }
+            },
+            {
+                "chapter_summary": "Understanding human intellect requires exploring brain's architecture, genetic influences and environmental factors.",
+                "text": [
+                    "Our mind has a wide spectrum of intellectual capabilities, allowing us to perceive and comprehend the world we live in and interact with it. These abilities probably have a foundation in our brain system. The growth and demonstration of different cognitive capacities are influenced by both genetic and environmental factors. Although genetics serves as a blueprint, it does not rigidly predetermine our fate. Development is adaptive and flexible, with crucial intervention points that can change the course of development. Various neural systems mature differently, indicating different critical periods and lifelong adaptability levels.\n\nStudying the brain's structure reveals organization that corresponds to cognitive functions, including columns or modules and larger separate areas. Certain regions specialize in specific cognitive tasks, though complex behaviors usually engage multiple areas. The explanation that aligns cognitive function with specific brain parts, known as localization of function, is deemed the most accurate model.\n\nAmong these concepts, there's the theory of \"modularity\", which suggests that the mind has evolved unique computational mechanics or \"intelligences\" that function through their own principles, activated by specific information. While these mechanisms primarily work independently, they can collaborate for more intricate cognition. Recognizing these modular intelligences is crucial to comprehend the diverse human intellect forms."
+                ],
+                "audio": {
+                    "size": 1496293,
+                    "duration": 93518
+                }
+            },
+            {
+                "chapter_summary": "Multiple intelligences theory proposes diverse, culturally-valued intellectual competences.",
+                "text": [
+                    "Intelligence isn't just about being smart. In fact, it's a multifaceted concept that involves a host of skills used in problem-solving and the creation of culturally valuable products. According to the theory of multiple intelligences, human beings have a variety of independent intellectual abilities. In order for an ability to be considered an intelligence, it has to fulfill certain criteria: it should help in resolving issues or creating products, it should assist in finding new problems or gaining new knowledge, and it should be represented in a symbolic system.\n\nThese intelligences are not the same as sensory systems, general skills like analysis, or specific computing mechanisms. They function following their own processes and are rooted in specific biological factors. Furthermore, these intelligences are merely potentials that can serve good or harmful purposes. So, while the term \"intelligence\" is often seen as positive, the moral consideration of an intelligence depends entirely on how it is utilized.\n\nThese intelligences can be seen as practical skills for carrying out tasks. Despite being incomplete, the pursuit of a set of intelligences, based on empirical evidence, can provide a framework of great utility. The target here is not to have a conclusive or exhaustive list, but a collection of competencies that are valued cross-culturally. The theory of multiple intelligences is all about classifying and improving the way human intellect is discussed, considering current scientific findings. Despite its limitations, it offers valuable insights to many by providing a comprehensive overview of human intellectual abilities."
+                ],
+                "audio": {
+                    "size": 1692316,
+                    "duration": 105770
+                }
+            },
+            {
+                "chapter_summary": "Language symbolizes human intelligence, enabling communication, expression, and cultural diversity.",
+                "text": [
+                    "Humans are defined by their intelligence, and a significant part of this intelligence is our ability to use language. Think about a baby's initial coos and babbling noises. By the time the child is two, those noises start forming into words and short phrases. As the child grows to four or five years old, they're conversing fluently in their native language. This growth in linguistic skills isn't accidental, but founded on their innate abilities to understand the meanings, sounds, and grammatical rules of language.\n\nAnother key aspect of language is writing, which is a progression from oral language. Aspiring writers spend a considerable amount of time practicing to master the art of language, learning to shape narratives and express emotions effectively. Exceptional writers possess a unique talent for expressing ideas and emotions vividly.\n\nLanguage plays multiple roles across different cultures. For instance, in societies without written language, people with exceptional oral storytelling abilities were highly valued. The skill of rhetoric and the ability to remember were essential for leaders' rise to power. Playful use of words and verbal contests exhibit linguistic agility. Even today, language remains a crucial tool for communication, explanation, and self-expression.\n\nIn essence, language is a distinctive facet of human intelligence. Every person possesses this universal ability to varying degrees of strength. Certain regions of the human brain are specialized for key elements of language. These can be impaired selectively, but the main components of language, including phonology, syntax, semantics, and pragmatics, are testament to the intricate and evolved capabilities of the mind."
+                ],
+                "audio": {
+                    "size": 1809763,
+                    "duration": 113110
+                }
+            },
+            {
+                "chapter_summary": "Music, a universal human ability, combines cognition, communication, and enjoyment.",
+                "text": [
+                    "Music has always been a part of human life, deeply ingrained in every culture around the world. It's an ability inherent to all, emerging at different stages starting from infancy. While some individuals display remarkable and prodigious talent without effort, everyone else has the potential to become competent through education and exposure.\n\nThe cognitive process of understanding music isn't just about hearing it; it's a complex task that involves the perception and interpretation of different components - pitch, rhythm, melody, and more. When listening to music, the brain is working to turn these individual elements into patterns that the listener recognizes and connects with.\n\nHowever, these particular mechanisms in the brain that work on music cognition can be selectively compromised, leading to difficulties in music perception. Despite such challenges, music retains its allure due to its crucial function in promoting communication, providing enjoyment and serving as a binding force within social groups.\n\nThus, music stands as one of the crucial forms of human intelligence. Not in an academic or mathematical sense, but as a powerful and universal language that speaks to the very core of our beings. It is more than just the sum of its beats and melodies, it's an integral part of who we are as a species."
+                ],
+                "audio": {
+                    "size": 1374667,
+                    "duration": 85917
+                }
+            },
+            {
+                "chapter_summary": "Logical-mathematical intelligence evolves from infancy, guided by innate skills and cultural factors.",
+                "text": [
+                    "At a very young age, infants start their journey of acquiring logical-mathematical intelligence through simple actions like handling objects. As they grow, they learn about the permanence of objects, how to categorize different objects and make simple cause and effect connections. At around 4-5 years of age, a child learns that counting provides accurate knowledge about the number of objects in a collection, signaling the onset of actual numerical understanding.\n\nSoon after, around 6-7 years of age, kids understand that the number of objects remains unchanged irrespective of how they're arranged. They also learn the basics of addition and subtraction. Teenagers, on the other hand, start to grasp complex mental operations that involve symbols and hypothetical situations. This helps them develop abstract reasoning skills and cleverly navigate higher mathematics.\n\nA knack for recognizing patterns, abstract thinking, and reasoning form the backbone of mathematical talent. Exceptional mathematicians are not only passionate about solving complex problems but also thrive in the thrill of tracing elegant solutions. Their work demands complete focus and the joy of breakthroughs is unmatched. Though mathematical productivity generally peaks early in life, the pace of development varies for everyone.\n\nRegardless of the diversity in numerical systems among non-Western cultures, certain fundamental competencies of logical-mathematical intelligence are universal. All societies have their own ways of counting, categorizing, estimating and reasoning. Education helps children develop abstract thinking, objective analysis and critical thinking skills, which lay the foundation for the field of science. However, the concepts of math and science don't remain static but evolve over time.\n\nLastly, the ability of logical-mathematical thought stems from a network of neural circuitry, making it more susceptible to overall cognitive decline as opposed to specific brain lesions. In essence, logical-mathematical thought is a unique human intellectual ability, it starts developing in infancy, and can fluctuate because of cultural differences."
+                ],
+                "audio": {
+                    "size": 2318837,
+                    "duration": 144927
+                }
+            },
+            {
+                "chapter_summary": "Spatial intelligence enhances visualization, imagination, and comprehension of the visual world.",
+                "text": [
+                    "Understanding the world visually and accurately and being able to mentally manipulate these perceptions is what defines spatial intelligence. Think of it as being able to identify various types of objects, and picturing what they would look like from different angles. It's a skill that gradually evolves as a child grows - from infants getting a handle on moving objects and space, to toddlers forming immovable mental images. \n\nAs children go to school, they learn to alter these mental images, like mentally rotating a cube. This evolves even further in adolescence, as they grasp abstract concepts regarding space and learn to connect them to concrete examples. \n\nThis form of intelligence isn't just beneficial for child growth but shines in many areas like science due to its problem-solving prowess. Having spatial displays often simplifies complex data making progression smoother. But science isn't its sole domain; visual arts flourish with spatial intelligence. Artists need to comprehend the world in a unique way to recreate it on canvas, mastering techniques to depict perspectives. \n\nFurthermore, for those who appreciate art, superior spatial abilities allow them to distinguish styles and assess artworks. Even though visual perception plays a major role, spatial intelligence isn’t confined to just this, encompassing mental imagery and abstract concepts. So, spatial intelligence isn’t just about understanding the world you see, but visualizing, imagining, and comprehending it, as a whole."
+                ],
+                "audio": {
+                    "size": 1630876,
+                    "duration": 101930
+                }
+            },
+            {
+                "chapter_summary": "Marcel Marceau demonstrates bodily-kinesthetic intelligence through skilled, expressive pantomime.",
+                "text": [
+                    "With a spotlight on Marcel Marceau, the celebrated mime artist, the essence of bodily-kinesthetic intelligence is elucidated. Marceau has a unique ability to employ his bodily movements and gestures to effectively portray diverse actions, objects, events, personalities, and even abstract notions. His performances demand an exceptional command and harmonization of physical movement. \n\nThrough his adept body movements, Marceau can mimic running, falling, climbing and others, making the actions palpable to the audience without actual props. Furthermore, he can illustrate objects by designating their silhouette through gestures and pretending to engage with them. His precise and exaggerated nonverbal communication makes it possible for audiences to identify the objects, actions, and stories he seeks to express.\n\nBodily-kinesthetic intelligence fundamentally involves mastering how to navigate one's entire body or parts of it, like hands and fingers, for either practical or expressive functions. It is distinct from verbal intelligence, although it can be integrated with it. Research indicates that it involves intricate brain processes, yet it may be selectively impaired in certain disorders.\n\nThis form of intelligence evolved over millions of years in primates and early humans, most prominently when they began to use tools. In children, it gradually develops, starting from basic motor skills, proceeding to more sophisticated object manipulation and symbolic thinking. In diverse cultures, physical skills are valued in various ways, manifesting in arts, sports, or practical abilities. Training and study can refine bodily intelligence, enabling individuals to perform gracefully, accuratly and skillfully."
+                ],
+                "audio": {
+                    "size": 1882906,
+                    "duration": 117682
+                }
+            },
+            {
+                "chapter_summary": "Personal intelligences reflect cultural synthesis of individual feelings and social pressures.",
+                "text": [
+                    "Understanding oneself and understanding others—known as intrapersonal and interpersonal intelligences respectively—are nurtured through developing subtle distinctions pertaining to feelings and motivations. Different cultures have various perspectives on selfhood and personhood, creating a balance between inner experiences, external behavior, individualism, and social integration. Yet, all cultures need to incorporate the social and individual aspects of life to form a concept of selfhood.\n\nTechniques such as therapy, literature, and religious codes can encourage the growth of personal intelligences. These tools offer symbolic systems helpful in interpreting experiences. This idea finds echoes in the world of neuroscience too; conditions such as epilepsy and studies on split-brain patients point to the presence of unique neurological underpinnings for intra- and interpersonal processing.\n\nPerception of self in every culture is a sum total of how personal feelings and societal pressures mingle. A society focused on \"particles,\" like the West, underscores the importance of individual freedom. In contrast, a \"field\" society emphasizes the significance of social context in framing personal experiences. Undeniably, cultures vary in their understanding of personhood, notable personal traits, roles requiring personal expertise, and more. However, the universal obligation is to harmonize the inner and outer features of life into a comprehensible sense of self."
+                ],
+                "audio": {
+                    "size": 1708199,
+                    "duration": 106762
+                }
+            },
+            {
+                "chapter_summary": "The theory of multiple intelligences proposes diverse cognitive skills beyond general intelligence.",
+                "text": [
+                    "There's a thought-provoking theory that proposes that our intellectual capacity isn't just a single, inherited trait. Instead, it suggests that we have a number of distinct intellectual abilities, each one a different way of processing information and problem-solving. These different cognitive skills all work together, building upon each other to enable us to carry out intricate activities. This theory, known as the theory of multiple intelligences, also identifies the key components within each of these intelligences. For instance, linguistic intelligence involves processes such as phonological and grammatical processing.\n\nThe theory coincides with other theories that suggest our minds have distinct neural structures, each \"tuned\" to certain types of input. It takes this idea a step further though, defining these modules at a level that's relevant to education. It is still under research to see if these detailed modules actually merge to form broader areas of intelligence. \n\nThis theory doesn't cover certain aspects of psychology such as motivation, attention and self-concept, but that's not to say they're unrelated to our intelligences. With regard to our sense of self or identity, the theory suggests that it's not a separate domain, but rather, it emerges out of the coalescence of our multiple intelligences, mediated by culture and systems of symbols.\n\nThe understanding of our minds through the lens of this theory could face changes or even be disproved, should it fail to explain core human intellectual activities, or should there be major criticisms with its evidence, or if another theory offers a better explanation. But for the time being, it's aimed at offering a useful model to understand the multi-faceted nature of our minds."
+                ],
+                "audio": {
+                    "size": 1829825,
+                    "duration": 114364
+                }
+            },
+            {
+                "chapter_summary": "Symbols bridge biological structures and cultural abilities in human cognition.",
+                "text": [
+                    "Symbols play a crucial role in human intelligence and social development, serving as a bridge between biology and anthropology — two fields offering different views on cognition. While biology delves into the functions of the nervous system, anthropology explores how ability varies across cultures. Symbols serve as a link, allowing the nervous system to absorb cultural elements such as words and stories, and societies to evaluate the creations of individuals.\n\nA fascinating illustration unfolds during childhood when undeveloped intelligences start to become part of symbolic activities. This happens as kids interact with their surroundings from infancy, gradually mastering diverse symbol systems throughout their preschool years. As they grow older, symbolic practices continue to evolve, shaped by cultural systems and notations.\n\nOf course, debates arise, such as when cognitive abilities are most adaptable, the solidity of developmental stages, and the capacity for environmental interventions to diminish individual differences. Still, it's clear that well-timed interventions can greatly boost proficiency in many aspects.\n\nIntelligences, it's important to remember, don't act in isolation. They interact with cultural norms and values, and different combinations of intelligences are harnessed for varied social tasks. This dynamic interplay between cultural requirements and individual capabilities allows for a range of effective pairings.\n\nUnderstanding symbolic mastery and deployment is the kernel to grasp how individuals become valuable contributors to their communities. As such, the journey of one's cognitive development depends heavily on their cultural experiences and interactions."
+                ],
+                "audio": {
+                    "size": 1829825,
+                    "duration": 114364
+                }
+            },
+            {
+                "chapter_summary": "Education, a universal cultural element, ranges from tribal instruction to formal schooling, shaping societal norms and developing diverse competences.",
+                "text": [
+                    "Mastery of diverse skills forms a critical component of broadening one's intelligence. This education is not only about acquiring competence, but also understanding the processes that nurture skill development and how to evaluate these qualities. The potent interplay between teaching and learning dates back to our earliest civilizations, where the responsibilities of adulthood were imparted on the young generation in a seemingly effortless manner.\n\nCeremonies that signify the passage from childhood to adulthood are viewed as important learning occasions in many societies. These rites are seen as challenges that foster discipline and skill learning. More significant than simply mastering skills, these rites also teach the essential understanding of transitioning into societal adulthood. They provide emotional learning, shedding light about personal feelings and relationships, equipping individuals to handle crucial life events like marriage and death.\n\n'Bush schools' serve as learning grounds where children grasp important communal skills over a span of years under the guidance of an experienced figure. The children engage in experiences like mock battles that test their capabilities and also inspire group cohesion and courage.\n\nApprenticeship systems offer another platform for comprehensive skill development. Over several years, an individual works closely with a master, observing them and gradually mastering the craft. The success of the apprenticeship is marked by the creation of a masterpiece.\n\nFormal schools, originally established to efficiently teach literacy, prioritize explicit knowledge and written communication. Despite the decreasing emphasis on interpersonal skills, individual intelligence can still be nurtured through optional activities. Even though critics accuse formal schools of narrow-mindedness and insensitivity, effective institutions can positively influence a child’s attitude towards learning.\n\nScience, another critical learning component, beautifully marries factual truths with explanatory frameworks. While non-scientific reasoning can be surprisingly versatile in everyday life, science helps nurture unique combinations of logical, mathematical, and linguistic thought. And like all other learning avenues, it too, is contingent on a society’s goals, needs, and acceptance of its far-reaching impacts.\n"
+                ],
+                "audio": {
+                    "size": 2501485,
+                    "duration": 156343
+                }
+            },
+            {
+                "chapter_summary": "Multiple intelligences theory advocates for culturally-contextual, tailored education, bolstered by technology.",
+                "text": [
+                    "Exploring how the theory of multiple intelligences can be employed to assess the success of various educational approaches, we're shown examples like the Suzuki Talent Education in Japan. Here, kids as young as 7-8 perform intricate violin compositions, a feat achieved through a mix of group collaboration and honing individual skills. It's similar to the way competition is balanced in the Japanese workplace - encouraged between societies but minimized amongst employees.\n\nIn Brazil, Paulo Freire's literacy initiative utilized politically enlivening language and in the U.S., Sesame Street captivated children with entertainment. The common thread is adapting the educational technique to the cultural context. When methods are launched without cultural customization, like the implantation of Western curricula in Iran and China, it leads to failures. \n\nTo avoid this, the recommendation is to examine the intellectual characteristics of students, and custom-fit educational methods to those traits. This could denote emphasizing areas of strength versus reinforcing weaknesses. Specific strategies could be identified to align with an individual's talents and requirements. Here, technology can lend a hand by swiftly suggesting alternative teaching methods.\n\nAt the crux, remember, it doesn't simply stop at educating an individual. Educators should also take a step back to view the bigger picture—they need to keep sight of overarching societal objectives during the planning process. After all, the ability to weave together complex wholes is a crucial form of intelligence for those creating policies."
+                ],
+                "audio": {
+                    "size": 1676016,
+                    "duration": 104751
+                }
+            },
+            {
+                "text": [
+                    "\"Frames of Mind\" by Howard Gardner introduces the groundbreaking concept of multiple intelligences. He argues that human intellect cannot be understood through the traditional notion of a single general intelligence. Instead, Gardner proposes the idea of multiple intelligences -- independent intellectual capacities people can possess. Through evidence from several fields of scientific study, he reaffirms the existence of these distinct forms of intelligence. They are, in his opinion, integral to how individuals perceive and interact with the world around them. While the primary focus of his work is academic, revealing critical insights for educators and policy makers, it also has profound practical implications for anyone seeking to understand and foster their innate intellectual potentials.\n\n10 Actions: \n\n1. Identify Your Strengths: Reflect on and identify your personal strengths in terms of multiple intelligences, using Gardner's categories as a guide.\n\n2. Cross-Training: Just as physical cross-training enhances overall fitness, engage in activities that stimulate different types of intelligence to broaden your cognitive capabilities. \n\n3. Embrace Diversity: Recognize the value of diverse intelligences in various contexts, such as in group projects and team dynamics.\n\n4. Foster Inclusivity: Advocate for educational and professional environments that acknowledge and respect the multiple intelligences, thereby promoting inclusivity. \n\n5. Expand Teaching Techniques: If you're an educator, diversify your teaching techniques to reach students with different kinds of intelligences.\n\n6. Apply in Daily Life: Try seeing everyday challenges through the lens of different intelligences to gain new perspectives and solutions. \n\n7. Intellectual Growth: Commit to lifelong learning and intellectual growth across the spectrum of intelligences. \n\n8. Encourage Others: Help those around you recognize their unique intelligences and strengths, fostering self-awareness and boosting confidence. \n\n9. Consult Experts: Consult cognitive and educational professionals for additional strategies to foster multiple intelligences. \n\n10. Public Policy Influence: Engage with community leaders and policy makers to implement a framework that promotes understanding and development of multiple intelligences in educational and community settings. Use Gardner's work to support your arguments."
+                ],
+                "audio": {
+                    "size": 2729691,
+                    "duration": 170606
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2995,
+        "name": "Don't Call It That",
+        "create_date": 1716639211807,
+        "Year": "2013",
+        "tags": [
+            "marketing & sales",
+            "communication",
+            "english"
+        ],
+        "summary": "'Don't Call It That' is a workbook offering a unique, hands-on approach to the naming process in branding and design. Going beyond just theoretical aspects, the book presents a series of engaging exercises that lead from one to the next, arming the reader with the tools and confidence to create memorable brand names that stick.",
+        "author_name": "Eli Altman",
+        "about_author": "Eli Altman is a seasoned designer with a unique approach towards branding and design. He's known for his hands-on and practical approach to the naming process, exceeding the bounds of standard conventions in order to create memorable and interesting brand names. Besides being a prominent figure in the design industry, he is also recognized for his collaborative spirit and knack for understanding the objective and spirit of his subjects.",
+        "subtitle": "A Naming Workbook",
+        "target_group": "This book is especially aimed at entrepreneurs, startup enthusiast, marketing professionals, creatives, and anyone who's interested in the art of naming a brand, a company, or a product. With insightful advice and exercises, it guides the user through the hands-on process of creating a name that not only garners attention but also accurately represents the brand's spirit.",
+        "book_link": "https://www.amazon.com/-/de/dp/B00I1MRY80//?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Names are powerful narratives that shape perceptions and create experiences.",
+                "text": [
+                    "In a world cluttered with brands and marketing, a name serves as the first impression. It's essential in determining what catches a person's eye amidst the bombardment of stimuli. An appealing name captivates the audience, kindles curiosity, and reveals your perspective of the world. \n\nTo master the art of naming, an effective approach is to focus initially on examples of bad names, as identifying the flaws is an easier task than pinpointing the strengths. Names that fail to make an impact are typically overly descriptive or way too broad. They could also be meandering sequences of letters devoid of any meaning or simply dull and uninteresting.\n\nOn the contrary, a powerful name is daring, having a clear ambition, exuding personality, and carrying a strong sense of purpose. It narrates your story, encapsulating aspects of your identity and your significance in the world. In essence, a name can be likened to a thesis statement. It sets the tone and shapes the rapport you desire to establish. \n\nIn short, naming isn't an intricately complex task. Rather, it's an exercise in delivering something simple yet profoundly persuasive."
+                ],
+                "audio": {
+                    "size": 1262236,
+                    "duration": 78890
+                }
+            },
+            {
+                "chapter_summary": "Distinctive branding, not conformity, fosters business uniqueness and memorability.",
+                "text": [
+                    "Choosing a name for a business or product might seem daunting, yet it's crucial not to succumb to unnecessary challenges. Start with mapping out how to stand apart from your rivals - in other words, define your positioning. This process will provide clarity on the feelings and perceptions the name should inspire. Don’t obsess over securing the perfect .com website. Users have grown accustomed to alternate endings like .net. Similarly, you could brush aside the convention of a name being easily pronounceable. Remember, peculiar yet unique names tend to stick in the mind.\n\nAll potential names might have perceived downsides, yet a robust branding and design strategy can build supportive links that offset shortcomings. Common terms like \"innovation\" are often best avoided as they might imply a preference for conformity rather than distinction. Unconventional names, on the other hand, narrate their unique story, capturing attention.\n\nTherefore, armed with distinct positioning and effective presentation, a unique name becomes a powerful tool rather than a drawback."
+                ],
+                "audio": {
+                    "size": 1138938,
+                    "duration": 71184
+                }
+            },
+            {
+                "chapter_summary": "Creative, evocative naming grabs attention, elicits reaction, and fosters genuine connection.",
+                "text": [
+                    "Coming up with the perfect name for a company or product involves creating an environment free from distractions where creativity can thrive. In this serene thinking space, let your mind wander and explore different words that evoke a feeling, such as subtlety, comedy, or confidence. Instead of merely describing the product, aim to incite an emotion. The best names don't sell but pique interest. \n\nCompany naming differs from child naming - standing out often takes priority, even if it may seem odd or ridiculous. Captivating names can reduce risk by grabbing attention and refusing to oversimplify for mass appeal. Instead, strive to establish a genuine connection with your target audience. Successful brands resonate because they communicate directly and appeal personally.\n\nWhen naming your company, aim to evoke an emotional response - a smile or a question, rather than providing all the information upfront. Cater to the intelligence and curiosity of potential customers. A name that is not instantly understood can often be more engaging as it offers a reason for the audience to pay attention."
+                ],
+                "audio": {
+                    "size": 1213335,
+                    "duration": 75833
+                }
+            },
+            {
+                "chapter_summary": "Exploring varied sources and an open mind can uncover distinctive brand names.",
+                "text": [
+                    "When it comes to naming a company or product, it may appear as a challenging task, but it need not be. The most suitable names usually emerge from exploring existing words rather than conjuring up something unique from scratch. Digging deeper than just the common places - for instance, mining regional dialects, dusting off old magazines, plumbing the depths of myths and arcane trades - can reveal some unexpected treasures. Starting with descriptive or suggestive names can be effective, but broadening your search criteria can open up a world of other options such as poetic sounding names, those that feel foreign or ones that get the adrenaline pumping. Essentially, you're on the quest to find a name which tells your brand’s story in an out-of-the-box way. It's not reasonable to judge your first-try name against well-established brands. Instead, concentrate on whether it encapsulates your goals and stands out from your competition. Remember, perfection is elusive, so keep an open mind for names with the potential to flourish. Patience is key here - give your findings ample time before making any firm decisions. Embark on the journey to find your unique brand name with the excitement of an explorer, and who knows, you might stumble upon a name that turns your brand into a standout."
+                ],
+                "audio": {
+                    "size": 1358785,
+                    "duration": 84924
+                }
+            },
+            {
+                "chapter_summary": "Choosing a company name involves strategic decision, trademark research, and gauging reactions.",
+                "text": [
+                    "Selecting your company's name is a strategic decision that needs serious thought and care. Consulting too many people can lead to selecting bland and safe names, hence it's best to minimize external input. Also, sidestep cliched or overused names picked merely because they're available online. Remember, your company exists beyond the virtual realm, demanding its name to be conversational and worthy of print on business cards. \n\nCarving out some time for research ensures that your selected names aren't already claimed or trademarked. A quick Google search combined with terms related to your industry can reveal whether competitors are already using these names. For a detailed check, a consultation with a trademark attorney would be useful, they can rate your name choices from the least to the most risky. Aiming towards the safer end of the scale can avert legal complications in the future.\n\nSubsequently, shorten your list to 3-5 potential names. To test their impact, state them confidently as if you're introducing your enterprise, for instance, \"I'm starting a [blank] called [blank]\". Rather than seeking opinions, observe people's spontaneous reactions. The best names provoke curiosity and interest. With astute strategizing and the perfect name choice, you can set your company apart and convey its distinct narrative."
+                ],
+                "audio": {
+                    "size": 1392222,
+                    "duration": 87014
+                }
+            },
+            {
+                "text": [
+                    "\"Don't Call It That\" by Eli Altman takes a hands-on approach to the art of naming a brand. It underscores the critical importance of a brand name in letting people know how you view the world around you. The book emphasizes the significant influence imparted by a brand name, as it's often the first thing anyone comes in contact with. It's the first impression of a product or a service. The book offers numerous activities and exercises designed to guide readers through the process, emphasizing the need for evocative, interesting, attention-grabbing names that differentiate a brand and evoke curiosity and intrigue.\n\n10 Steps to Implement Learnings:\n\n1. Create a concise, clear expression of your brand's core idea or focus. Keep it straightforward yet engaging.\n\n2. Brainstorm a list of potential brand names, including those that are risky, funny, bold, or simply interesting.\n\n3. Strive to evoke mystery, obscurity, romance, subtlety, comedy, and confidence through your brand name choices to garner attention.\n\n4. Remember your audience. Ask yourself what type of name would resonate with them and potentially draw them in.\n\n5. Avoid immediately seeking feedback from a large group as multiple voices can stifle creativity. Instead, discuss your ideas with a select few trusted individuals.\n\n6. Be prepared to fail early. Understand that a great name won't materialize instantaneously and creative endeavors often require a process of trial and error.\n\n7. Explore different categories of names. Don't limit your creativity to literal names. Metaphorical or abstract names can be just as compelling.\n\n8. Experiment with names outside of your comfort zone. Sometimes, the best names are the ones that initially seem the riskiest.\n\n9. Consider how the name resonates with you personally. Confidence in your brand name can influence how others perceive it as well.\n\n10. Understand the significance of copyright and respect for intellectual property laws. Ensure that your final selected name doesn't infringe on any trademarks or copyrights."
+                ],
+                "audio": {
+                    "size": 2322599,
+                    "duration": 145162
                 }
             }
         ]
