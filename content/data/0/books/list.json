@@ -104707,10 +104707,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2983,
         "name": "How To Be Weird",
-        "create_date": 1715713268115,
+        "create_date": 1715713268116,
         "Year": "2022",
         "tags": [
             "motivation & inspiration",
@@ -106336,6 +106336,154 @@
                 "audio": {
                     "size": 2322599,
                     "duration": 145162
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2996,
+        "name": "Trading in the Zone",
+        "create_date": 1716811557177,
+        "Year": "2000",
+        "tags": [
+            "money & investments",
+            "career & success",
+            "english"
+        ],
+        "summary": "'Trading in The Zone' is a highly insightful guide into the psychology of successful trading. It takes you through the necessary steps to achieving a trader's mindset while identifying common mistakes that prevent many from reaching their financial goals.",
+        "author_name": "Mark Douglas",
+        "about_author": "Mark Douglas is a professional trading coach, author, and speaker. He has dedicated his career to understanding the psychology of trading and helping others gain a mastery over market uncertainties.",
+        "subtitle": "Master the Market with Confidence, Discipline, and a Winning Attitude",
+        "target_group": "This book is ideal for both novice and professional traders seeking a deeper understanding of the psychology behind successful trading and learning to navigate market uncertainties with confidence and discipline.",
+        "book_link": "https://www.amazon.com/-/de/dp/0735201447?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Developing a successful trading mindset involves embracing risk and dismantling fear-driven tendencies.",
+                "text": [
+                    "Building a successful trading career necessitates harnessing the right mindset. Traditional trading approaches were rooted in fundamental analysis, which is essentially predicting prices by studying economic conditions. This tactic, unfortunately, proved inconsistent as it disregarded the unpredictable elements of human emotion and behavior influencing price fluctuations. \n\nThis led to the advent of technical analysis, which operates by identifying patterns in price trends. Despite having the power to forecast price movements, traders found it difficult to mirror these predictions into monetary gains. The answer lies in learning to comprehend individual psychology, or mental analysis. \n\nTrading is inevitably riddled with risks and ambiguities, and the point where most traders stumble is mentally assimilating these hazards. Human nature, which dislikes loss and mistakes, propels fear and results in errors such as rushing into impulsive trades or clinging to losses beyond justified limits. \n\nHere's where the small percentage of consistently successful traders diverge from the rest. They train themselves to welcome risk and remain self-assured even in face of uncertain outcomes. This liberates them to engage and disengage in trades with ease, guided by market pointers, undeterred by hesitation or apprehension.\n\nThe journey towards cultivating a trader's mindset demands defeating deep-seated habits that obstruct trading triumph. This entails breaking down existing attitudes and notions that trigger fear and errors. A trader must aim for a mindset that is accepting and confident. This outlook renders trading seamless and devoid of stress. \n\nThe trader in this narrative represents the future version of oneself that needs nurturing, even if it seems contrary to existing sentiments. With a receptive and adaptable mindset, this transformation is indeed within reach."
+                ],
+                "audio": {
+                    "size": 1976946,
+                    "duration": 123559
+                }
+            },
+            {
+                "chapter_summary": "Successful trading demands self-control, objectivity, and disciplined behavior rather than random actions.",
+                "text": [
+                    "Trading provides an unbounded playground for creative thinking, but this boundless game could also lead to potential perils due to the absence of strict, external guidelines. For traders to thrive, they must build internal mental frameworks to direct their actions. However, often people develop a resistance towards rules after being subjected to them their entire lives. Trading randomly may seem like dodging responsibility, but it acts as a roadblock to consistency.\n\nThe aspect of trading that presents unpredictable rewards can lure traders into a reckless attitude. This pattern is almost addictive, tempting traders to throw discipline out of the window. Approaches that might have proved successful in navigating social settings won't yield results in trading. Traders cannot manipulate the market as they might manipulate their social environments.\n\nInstead, the power lies in controlling their perceptions, interpretations, and actions. Only with self-discipline and impartiality can they steer their trades in a way that serves their best interests. By doing so, they can attain a level of consistency in the outcomes of their trades. In essence, clear perception combined with disciplined actions paves the path to success in trading."
+                ],
+                "audio": {
+                    "size": 1306122,
+                    "duration": 81633
+                }
+            },
+            {
+                "chapter_summary": "Taking responsibility in trading fosters consistency, confidence, and growth.",
+                "text": [
+                    "Trading successfully hinges on a key concept: taking responsibility. This sounds easy, yet it poses a tough challenge. It requires traders to have a deep appreciation of their role in their wins and losses. \n\nUnfortunately, the tendency for many traders is to pin their losses on the market, rather than accepting their part in it. Hoping for the market to somehow meet their expectations, they find themselves wrong-footed when this doesn't materialize. This is an incorrect perspective. A market's sole job is to enable trading, nothing more. It is a battleground where some traders lose money, while others seize the chance to make profits. \n\nCompounding this issue, the pang of losing can remind traders of instances in their childhood when they lost cherished items. Consequently, traders start to see the markets as formidable foes that are out to rob their joy, viewing every loss as a personal affront. \n\nThis misinterpretation of the market often leads traders to believe that the solution lies in acquiring more market knowledge. However, the real solution lies in a shift in mindset. Traders have to understand that markets are merely playing fields, and the meaning we attach to them depends on us. \n\nTaking full responsibility helps align traders' actions with their goals. Opportunities to make trades ceaselessly appear, and the trader is no longer at odds with the market or with themselves. Accepting this position fosters a creative and victorious mindset. It enables traders to learn from their experiences more quickly since they anticipate positive results and see all outcomes as a learning opportunity. \n\nLosses are part of the trading process and are not to be dreaded. Similarly, thrilling wins should not drive one towards reckless behavior. Embracing responsibility entails recognizing that trading results stem from one’s perspective and actions. Leading with responsibility creates consistent, confident traders that cultivate steadily growing financial gains."
+                ],
+                "audio": {
+                    "size": 2150400,
+                    "duration": 134400
+                }
+            },
+            {
+                "chapter_summary": "Consistent trading success comes from mastering risk acceptance and mental clarity.",
+                "text": [
+                    "Developing a successful trading mentality is crucial for consistent outcomes. However, it's not a walk in the park, despite the deceptive ease that successful trades may portray. The significant distinguishing factor between successful traders and others isn't in their actions but in their attitude towards trading. Consistency is a derived mindset, heavily influenced by beliefs and perspective. \n\nTo be consistently successful in trading, it's essential to understand and accept the inherent risks without letting fear paralyse decision-making. It's fear that makes room for mistakes, creates barriers to information, and disrupts the alignment with the market's flow. By acknowledging the fact that losses are inseparable parts of trading, traders can learn to operate without emotional distress. \n\nA shift in perspective becomes crucial here, one that fuels focus and keeps traders in sync with the market's rhythm. The optimal mindset sees no threats in market fluctuations, offering no room for fear or bravery. Numerous top traders have mastered such a mature mental milieu.\n\nFlawed beliefs that induce fear are not uncommon in novice traders. However, amending these restrictive thoughts is achievable with the right mental conditioning. By replacing these fear-based beliefs with empowering ones that are rooted in probabilities, traders allow themselves to embrace risks and perform optimally. This elimination of internal contradictions and conflicts paves the way for uninhibited interaction with the market."
+                ],
+                "audio": {
+                    "size": 1631712,
+                    "duration": 101982
+                }
+            },
+            {
+                "chapter_summary": "Successful trading requires overcoming bias and maintaining disciplined, objective interpretations.",
+                "text": [
+                    "Our interpretations of life are heavily guided by our previous experiences and beliefs. Whenever we stumble upon new information, our brains often link it with what is already familiar, influencing our understanding. This inherent and automatic process has its downside though, as it can morph the truth and limit what we envision as possible. Let's look at this through the eyes of traders. They sometimes interpret market signs negatively if they've recently suffered losses, or too positively if they're on a winning streak. But to succeed in trading, the thing to do is to acknowledge this natural inclination for association, and make a conscious effort to see each moment's opportunities without any bias.\n\nFrom realizing these mental struggles, we can find ways to take charge of our responses and brain state, discern market indications more accurately, and steer clear from fear, hesitation, and overconfidence. Maintaining consistent success in trading demands a balance between the inherent habits and patterns that guide our brain's responses, and the act of seeing each market signal for what is objectively is. \n\nThis isn't an overnight change, but with a steady commitment and practice, we can slowly overcome the restrictive habits our brain forms, broaden what we consciously perceive and, in return, tap into our full potential."
+                ],
+                "audio": {
+                    "size": 1430256,
+                    "duration": 89391
+                }
+            },
+            {
+                "chapter_summary": "Acceptance of market uncertainty broadens perception and enforces sound risk management in trading.",
+                "text": [
+                    "The market is a vast and dynamic entity, reflecting the numerous perspectives of traders about what the future holds for prices. It is a cocktail of diverse elements, giving it an unpredictable nature - anything can happen at any given moment. This is the reality top-notch traders readily accept. They acknowledge the uncertainty of the market, allowing for an unbiased interpretation of market information. Moreover, this understanding of the market's unpredictability forces them to manage their risks efficiently on every business deal as there's no absolute certainty of outcomes.\n\nHowever, most traders flounder in their acceptance of this uncertainty. They make business decisions under an illusion of predicting the next turn of events. This mindset prevents them from seeing all the information and potential opportunities, and often leads them to ignore crucial risk management practices such as identifying risks beforehand, cutting losses at the right time and systematically reaping profits. \n\nSuccess in trading demands embracing the inevitable fact that \"anything can happen.\" Adopting this principle broadens a trader's view, aligns their mindset with actual market scenarios and forces the adoption of effective risk management. It liberates from the confines of rigid expectations, encouraging a true view of the market."
+                ],
+                "audio": {
+                    "size": 1409358,
+                    "duration": 88085
+                }
+            },
+            {
+                "chapter_summary": "Successful trading, like casinos, relies on managing probabilities, not predicting outcomes.",
+                "text": [
+                    "Trading successfully over time is similar to how casinos make consistent profits from games with random outcomes. This is achieved by ensuring the odds or probabilities are leveraged in one's favor. Successful trading involves looking at it as a numbers game. \n\nThere are two mindset levels that are crucial. On a smaller scale, recognizing that each trade outcome is random. On the larger scale, understanding that given a large number of trades, one's strategy or edge will come into play. Casinos follow the same notion; they never concern themselves with the outcome of a single game. However, they know that over a significant number of games, they're bound to win - this is often termed 'the house always wins'. \n\nTraders versed in probability thinking share a similar perspective. They are comfortable with the uncertainty of individual trades but have faith that using their overall strategy will yield profits over time. This involves battling the natural human tendencies to avoid failure and to seek certainties. \n\nPredicting the outcome of a trade invariably puts one at risk emotionally when the outcome is adverse. However, probability thinking encourages the acceptance of the fact that there are many market variables that can't be controlled - these can affect any given trade in unforeseen ways. \n\nWith no solid expectations, traders can absorb information without getting influenced by fear. Losses become a part of the process, a necessary cost of the overall business. Wins are systematically collected. In this scenario, each trading moment may carry an element of surprise, but an overall strategy ensures consistent results. Embracing the truths of probability not only minimizes emotional risks but also opens the door to unlocking one's true trading potential."
+                ],
+                "audio": {
+                    "size": 1874546,
+                    "duration": 117159
+                }
+            },
+            {
+                "chapter_summary": "Mastering mental skills and risk acceptance, not just profit-seeking, ensures successful, consistent trading.",
+                "text": [
+                    "Understanding and applying the right mental skills in trading is as important as making profits. This requires maintaining a balanced mindset, being emotionally detached yet observant enough to identify and seize trading opportunities. Confidence is key, but it shouldn't tip into overconfidence especially when dealing with the uncertainties and risks inherent to the trade. By acknowledging and accepting these risks, traders can interpret market signals without fear or tensions.\n\nThere are five truths crucial to developing the right attitude towards trading. Firstly, unpredictability is inevitable in the market, making any outcome possible in any given time. Secondly, profits don't require foresight of the future, just an understanding that trading is all about playing the odds. Thirdly, profitable and non-profitable trades have no pattern, they randomly occur maintaining a specific probability to a certain edge. Fourthly, this edge only indicates a higher chance of success, not a guarantee. Lastly, every instance in the market is distinctive and non-recurring.\n\nAdopting these truths into one's core beliefs helps traders adapt and match their expectations with the market's volatile nature. It shifts their focus to important strategies such as defining, managing, and playing to their advantage. This real-time approach encourages traders to stay present in the 'flow of the moment', poised to maximize opportunities as they arise, empowering them to consistently 'enter the zone'. With this mental agility, traders reap the benefits of a fluid, dynamic, and opportunistic trading experience."
+                ],
+                "audio": {
+                    "size": 1779252,
+                    "duration": 111203
+                }
+            },
+            {
+                "chapter_summary": "Our beliefs, shaped by language and experiences, selectively define our perceived truths.",
+                "text": [
+                    "Life as we know it is shaped by the beliefs we hold. Our beliefs work to control our perception of information, form our expectations, dictate our actions, and influence how we feel about each outcome. These beliefs come into being through language. For instance, the feeling of being cared for is experienced by a baby, but the idea of it being pleasant comes when language gives it a form and connects it to the memory. \n\nIt's important to understand that beliefs provide a restricted viewpoint, not an unequivocal reality. In a world where expectations are constantly met, beliefs would mirror reality perfectly, and perpetual satisfaction would be guaranteed. But since this is not usually the case, it implies that beliefs cannot fully encompass the gamut of possibilities the world offers. Given the boundless possibilities available, beliefs can only be deemed true relative to a specific objective at a particular time. \n\nBeliefs that create satisfaction are beneficial, while those leading to dissatisfaction are ineffective, given the context. In this sense, truth is the result fulfilling our objectives, shaping our expectations, guiding our actions, and determining our feelings. When all these aspects align well with our situations, then we can say that the truth has truly served us well."
+                ],
+                "audio": {
+                    "size": 1381355,
+                    "duration": 86335
+                }
+            },
+            {
+                "chapter_summary": "Beliefs, resisting change and operating unconsciously, significantly impact trading success.",
+                "text": [
+                    "It is revealed that our beliefs, when it comes to trading, not only seem to have their own life but also resist any force that might alter them. It doesn't matter if we want them to express themselves or not, our beliefs remain active and continue to influence our actions, often unconsciously. \n\nA closer look at beliefs discerns three distinct properties. Firstly, they are resistant to change. Attempts to completely eliminate or ignore them do not bring any fruitful results. Instead, gradually draining away energy from one belief and transferring it to a more beneficial one seems to work better.\n\nSecondly, once triggered, beliefs produce a powerful energy that cannot be easily stopped. An excellent example is the frequent conflict experienced by traders, who struggle to balance the belief in probabilities with their fear-based beliefs about the market. To successfully think in probabilities, traders must firmly believe in the uniqueness of each moment.\n\nLastly, beliefs shape our perception and behaviour, often without our conscious knowledge. It's quite common for detrimental beliefs about self-worth and deservingness, for instance, to be operating at an unconscious level, and still negatively affect trading.\n\nTo consistently succeed in trading, it's important to understand these characteristics of beliefs and learn how to manage them effectively. It involves an active commitment to train the mind to anticipate unique outcomes and neutralize any restrictive beliefs that suggest otherwise. By doing this, one can objectively analyze market data, free from the influence of fear or distortion."
+                ],
+                "audio": {
+                    "size": 1645505,
+                    "duration": 102844
+                }
+            },
+            {
+                "chapter_summary": "Mastering trading requires mastering psychology, discipline, and accepting uncertainty.",
+                "text": [
+                    "Imagine trading as a game, where the player must navigate a sea of numbers and probabilities, similar to a casino. In the long run, the player who adheres strictly to rules and established systems comes out on top, turning a profit over a multitude of transactions. \n\nInitially, the unpredictability and spontaneity of trading can feel unnerving. People instinctively seek structure and analysis in their actions, but the fluctuating market defies such order. Therefore, coming to terms with this uncertainty becomes crucial. \n\nTo cultivate an effective trading mindset, it's important to keep the following five truths in mind: It's important to define the risk before entering a trade to eliminate hesitation. Profits should be accepted as they come without trying to predict the market surge. Regular scrutiny of strategies is necessary to avoid any slip-ups. The critical aim should be consistency, cultivated through understanding the psychology behind trading and perfecting it. After continuous practice, trading becomes a second nature.\n\nSuccess doesn't lie in certain character traits but stems from the persistent belief in one's ability along with a behavioral change aligning with one's objectives. Strive for growth through sheer will and discipline, constantly checking actions and thoughts. Shift attention to things that are of utmost importance. \n\nSecuring great results demands unyielding belief, patience, and continuous effort. The capacity for trading, like any skill, is honed with time, trade after trade. The mindset should be centered around maximizing chances, similar to a casino's strategy. Believe in the process, not mere predictions. The success formula in trading is the combination of your unique advantage and how well you put it into action."
+                ],
+                "audio": {
+                    "size": 1963572,
+                    "duration": 122723
+                }
+            },
+            {
+                "text": [
+                    "\"Trading in the Zone\" by Mark Douglas is an insightful guide to mastering the market with confidence and discipline. The book sheds light on the essence of trading, emphasizing the psychological realities and the importance of having a sound state of mind in dealing with the uncertainties of the market. As the author implies, trading can be mastered, and achieving a stress-free trading experience is possible. The book teaches how to adjust attitudes and beliefs about trading to act fearlessly yet not recklessly. It focuses on thinking in probabilities, flawless execution of a trading system, and creating a belief in one's consistency as a trader. Douglas offers a simple trading exercise designed to integrate these factors at a functional level, propelling readers towards optimum trading mindset and success.\n\n10 Actions:\n\n1. Embrace trading as a risk management business where the best possible decisions are taken based on probabilities.\n2. Build and strengthen self-trust needed to operate in an environment with unlimited possibilities.\n3. Strictly adhere to a trading system and ensure flawless execution.\n4. Train the mind to think in probabilities and adopt the five fundamental truths shared in the book.\n5. Create a strong, unshakeable belief in personal consistency as a trader.\n6. Strive to move from a mechanical stage to a subjective stage of trading.\n7. Develop an understanding of the market's perspective in order to sync one's mind with it.\n8. Learn new ways to express oneself. Challenge and change existing beliefs about trading that could limit success.\n9. Continuously work on personal growth, recognizing that the successful trader one wishes to become is a future version of oneself that needs to be grown into.\n10. Execute the trading exercise presented in Chapter 11 of the book to anchor and install new beliefs about trading at a functional level. This will further help in operating out of a carefree, confident state of mind with no internal conflict."
+                ],
+                "audio": {
+                    "size": 2285400,
+                    "duration": 142838
                 }
             }
         ]
