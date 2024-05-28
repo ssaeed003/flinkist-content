@@ -105119,10 +105119,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2988,
         "name": "Ultralearning",
-        "create_date": 1715876721733,
+        "create_date": 1715876721734,
         "Year": "2019",
         "tags": [
             "learning & education",
@@ -106700,6 +106700,164 @@
                 "audio": {
                     "size": 2540355,
                     "duration": 158772
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 2999,
+        "name": "How to Start a Cult",
+        "create_date": 1716935051801,
+        "Year": "2021",
+        "tags": [
+            "entrepreneurship",
+            "marketing & sales",
+            "english"
+        ],
+        "summary": "How to Start a Cult is a guidebook for businesses and brands aspiring to create a captivating and committed following. The book presents the Cult Commandments, a bulletproof method leveraged by the author, Jody Raynsford, in building cults for various businesses. It encourages readers to create a polarizing message, celebrate difference, and persistently communicate their mission amidst other ground-breaking tactics.",
+        "author_name": "Jody Raynsford",
+        "about_author": "Jody Raynsford is a dedicated cult building expert. Using his refined CultBrand methodology, he helps brands attract and cultivate a devoted following. Through engaging speaking events, he introduces the Cult Commandments in a new and refreshing way. His expertise spans many industries, from technology to legal services, and he is known for his ability to help brands resonate with their audience on a deep, impactful level.",
+        "subtitle": "Be bold, build belonging and attract a band of devoted followers to your brand",
+        "target_group": "The book is designed for brands, businesses, and marketers who want to go beyond traditional branding and create a magnetic, dedicated following. It's also intended for adventurous readers, leaders, and entrepreneurs who seek innovative strategies in marketing and fostering business growth.",
+        "book_link": "https://www.amazon.com/-/de/dp/1913717690/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Building brand loyalty today demands fostering a sense of belonging, mirroring cults.",
+                "text": [
+                    "Sticky loyalty of customers towards brands isn't as commonplace as it once was, thanks to a surge in alternatives and distractions. The modern market demands that brands shift their focus from leaning heavily on rational benefits provided to customers, to creating an emotional connection that instills in them a sense of identity and belonging. This approach turns customers into avid followers who are more likely to stick around, as opposed to becoming capricious consumers constantly scouring the market for the next better thing.\n\nTaking a leaf out of the book of cults can be quite enlightening here. Cults excel in drawing and retaining ardent followers by fulfilling the basic human need to belong. Hence, successful brands of today are creating mini-cults. Their zealous followers are drawn towards and feel aligned with the purpose and values of the brand. Apple and Tesla stand as shining examples of this cult-brand phenomena. However, even smaller scale companies can build an equally devoted following.\n\nThe key lies in conveying a powerful and emotionally resonant message that can start with drawing just one devoted follower. Hence, given the right approach, any brand can create that sense of belonging which builds a dedicated entourage of followers."
+                ],
+                "audio": {
+                    "size": 1290657,
+                    "duration": 80666
+                }
+            },
+            {
+                "chapter_summary": "An authentic personality and engaging content can foster a fiercely loyal cult following.",
+                "text": [
+                    "This remarkable journey began with a simple, unplanned accident. Two friends caught up in casual banter on Skype, unknowingly planting seeds for something greater. Bad Boy Running, their impromptu podcast, took flight surprisingly fast. In no time, it grabbed the attention of thousands of fervent listeners, all of whom resonated with its candid, brazen spirit. The community played an immense role in its evolution, nudging the hosts to produce longer episodes, offer branded merchandise, and organize meet-and-greet events. Anyone who belonged felt an invisible bond, cemented by insider jokes and spontaneous traditions that lent a unique character to the podcast.\n\nThe hosts remained consistent, never parting ways from the upfront manner that underlined their maiden venture. A sizeable segment of their listener base became so enamored by the podcast that they wore their commitment, literally, in the form of tattoos - a testament to the level of connection they shared. Albeit in jest, the hosts remarked on their 'cult' status, appreciating that they had built a loyal listener base by being genuinely themselves.\n\nThis incident signifies the power of authenticity, of being unapologetically yourself, and not letting reputation or societal norms dictate your actions. It showcases that if you have the courage to reveal your true personality and confront the fact that some might not like it, you can cultivate a strong, passionate, and dedicated following. It certainly takes a bold spirit to lead this way, but the thrill of a \"cult\" following makes the challenge worth it."
+                ],
+                "audio": {
+                    "size": 1696078,
+                    "duration": 106005
+                }
+            },
+            {
+                "chapter_summary": "Successful growth and evolution require bold action despite fear and comfort zone boundaries.",
+                "text": [
+                    "Acting on knowledge rather than just acquiring it is a significant factor in achieving success. Many are aware of what they need to do to better their lives or businesses yet remain inactive. This inaction often stems from emotional or psychological hindrances. For instance, fear - fear of failure, the unknown, or judgement. The idea that big changes can result in catastrophes or the loss of what they've already achieved can scare individuals. However, stagnation can often be more perilous than embracing a drastically new direction, often leading businesses on a gradual downhill trajectory that's even harder to recuperate from.\n\nThe allure of comfort is another hindrance. A natural instinct to resist change as it thrusts individuals out of their comfort zones is normal—but it's essential to remember that true growth resides in the discomfort zone. Giving importance to ego-driven objections that fear discomfort only prevents seizing potential opportunities.\n\nThe fear of being judged is widespread, but it is essential to note that judgement is unavoidable. In fact, it can indicate that something noteworthy is being done. It's advisable to concentrate on goals rather than worrying about the judgement of others. \n\nAlso, waiting for the perfect time to instigate major changes often results in indefinite delays. There will always be some objection or crisis to grapple with, but if an idea is worthwhile, the right time to act is immediately. Letting fear dictate delays only paves the way towards suffering.\n\nAddressing these hurdles requires bold action—pushing past objections and initiating the needed changes. Conducted with the right attitude, these changes can spark intrigue and drive momentum. Ultimately, evolution is a prerequisite for growth because what lead to current success might not catapult one to future triumphs."
+                ],
+                "audio": {
+                    "size": 1966080,
+                    "duration": 122880
+                }
+            },
+            {
+                "chapter_summary": "Achieving cult-like brand devotion needs boldness, commitment, and deep consumer connections.",
+                "text": [
+                    "Building and expanding a dedicated following, almost like a cult, necessitates both commitment and boldness. It first calls for a superior product or service that will reflect your commitment to your group of followers. This process will certainly weed out any weak offerings because only authentic devotion will be able to stand the test. This is not about treating your followers as simple consumers, but instead, fully committing to them. It's about understanding their desires, actively listening to them, and engaging them at an emotional level. This approach fosters strong bonds and can lead to your brand becoming interwoven with their identities. \n\nEmbarking on this journey with the aim to make a significant impact may initially be accompanied by self-doubt, but it's crucial to course through this unease. Maintain an open mind and be ready to embrace counterintuitive techniques. Even if it means stepping away from previously adopted conventional routes, being bold and audacious now becomes your only way forward. Express what you genuinely feel and behave in ways that resonate with your authentic self. Although it might initially seem intimidating, emancipation soon follows.\n\nRekindle your connection to your original mission and principles. Recall why you embarked on this venture initially. What were the goals you aimed to accomplish? Over time, even minor compromises can gravely deviate your path. Use the discrepancy between your current position and your desired goals as a source of inspiration. Remember, it is with commitment and audacity, that you can successfully cultivate and grow your following."
+                ],
+                "audio": {
+                    "size": 1788447,
+                    "duration": 111778
+                }
+            },
+            {
+                "chapter_summary": "Building a cult following requires a bold vision, distinct message, and fostering a deep sense of belonging.",
+                "text": [
+                    "Creating a dedicated cult following necessitates a bold vision and a targeted strategy. This can be achieved through a seven-step framework. Start with the creation of a dynamic message that distinctly sets the brand apart from competitors. This requires understanding the unique characteristics of the brand. \n\nThe next step is to pinpoint a universal foe or subject of frustration for the target audience. This positions the brand as an advocate who recognizes their challenges. Following this, the qualities that sets the brand apart should be highlighted. The use of contrast aids in evoking emotions and establishing a link with potential followers. A consistent presence and value delivery to the cult can build momentum quicker than anticipated. Focusing on outliers and misfits, individuals who don't fit into existing categories, can be beneficial. These individuals need to feel understood and appreciated.\n\nCreating a sense of belonging within the cult is essential for deepening relationships. These strong relationships will lead to followers reaching out to others on their own. Providing followers with the chance to express their devotion through various actions, both big and small, helps to cement their ties to the brand.\n\nCollectively, these steps make a brand exceptionally appealing to the right audience. Overcoming obstacles and securing the future involves taking daring steps. Stay committed amidst skepticism. This can lead to the creation of a thriving cult following."
+                ],
+                "audio": {
+                    "size": 1622517,
+                    "duration": 101407
+                }
+            },
+            {
+                "chapter_summary": "Effective cult branding requires a polarizing, compelling message that challenges industry norms.",
+                "text": [
+                    "Developing a following, be it for a brand or a movement, requires a compelling and potent message. The pitfall a lot of brands find themselves in is focusing their message too much on the specifics of their products or services. Instead, the message needs to be specific about the positioning of the brand or movement. It should be unique, inciting engagement and clearly showcases why joining would be the best decision over any other alternative.\n\nCreating a dynamic and effective message is a matter of challenging common beliefs within the given industry. It involves identifying issues that others choose to skim over and daring to voice the unpopular. Putting the message at its core, the underlying desires and motivations of potential followers should be taken into account. \n\nThe message of a brand or a movement doesn't need to harp on the features it offers. Rather, it should emphasize the unique beliefs and approaches of the brand. Testing various messaging approaches to find the one that reverberates the most with the targeted followers is integral in the process of crafting the message. \n\nTop-notch messaging is a magnet that draws in the perfect audience. A right message will attract the right followers, guiding the success of the brand or the movement."
+                ],
+                "audio": {
+                    "size": 1321169,
+                    "duration": 82573
+                }
+            },
+            {
+                "chapter_summary": "Identifying common enemies can deepen engagement and rally followers around a leader.",
+                "text": [
+                    "Creating a strong bond with a group requires understanding and addressing the common frustrations that trouble them. Standing together against shared issues or challenges encourages collaboration and unity. This approach generates a dynamic of 'us against the problem' which consolidates the group. It's important to remember, though, that this should not be a tool to manipulate or instigate harm. The challenges should ideally be obstructive practices, beliefs, or daily nuisances that the group encounters, rather than people to be targeted. \n\nChoosing these common challenges thoughtfully allows the group to actively engage, strengthen their relationship with the leading figure, and adds a spark of emotional connection within the group. This can significantly increase involvement and loyalty. Effectively, the leader becomes someone who understands their struggles and frustrations. By rallying together against these shared obstacles, the group becomes more committed to following the leader who shares and addresses their pain points. The right shared challenges can result in a tightly-knit group that responds positively to the leader."
+                ],
+                "audio": {
+                    "size": 1168613,
+                    "duration": 73038
+                }
+            },
+            {
+                "chapter_summary": "Celebrate uniqueness and confidently differentiate from competitors to truly stand out.",
+                "text": [
+                    "Megamind’s significant lesson was that uniqueness is admirable and should always be encouraged. Rather than striving to just surpass others, there is power in being distinctively unique. For instance, the Bad Boy Running podcast made itself prominent not by perfecting athletic advice but by purposely making light of running, commending those who are not runners. Protein World, a nutritional supplement company, faced criticism over their advertisement campaign, \"beach body ready\". Instead of backtracking and seeking public forgiveness, they held their ground and by doing so, strengthened their appeal to customers who appreciated their stance. \n\nDifferentiation begins with an investigation of what set apart one from their rivals – be it in terms of brand colors, symbols or even linguistic style. Brands often find a recurring theme among themselves, making them seemingly interchangeable. The next step is to establish a unique identity by contrasting these aspects with one's offering. The difference, genuine and authentic, assertively owned, works like a potent charm. \n\nEven the seemingly unhelpful attributes such as small size, traditional approach, or contrarian views can be used favorably. The aim should be to create a group of devoted followers through pronounced distinctions and differences. So being different doesn't mean being inadequate - it simply refers to being authentically unique and magnetic."
+                ],
+                "audio": {
+                    "size": 1577377,
+                    "duration": 98586
+                }
+            },
+            {
+                "chapter_summary": "Constant, consistent broadcasting of your message fosters a devoted following.",
+                "text": [
+                    "If you're aspiring to cultivate a dedicated following, it's crucial to exhibit your principles with far-reaching and regular exposure. In such a saturated media surrounding, repeating dull advertisements like \"buy me now\" just don't cut it anymore. The route to take is emphasizing on sending out the story of your group in a recurrent manner, ensuring it's through a medium you’re committed to for a prolonged duration. Steadfast uniformity eventually initiates a deep-seated bond and affiliation between you and your audience. It requires perseverance and patience to engrain your ideals into the minds of your audience, yet the only pathway to fostering profound loyalty is through consistent delivery of your quintessential message. Opt for a medium, commence your broadcast, and persistently carry forward your message every week. Maintain concentration and avoid hopping from one trend to another. Be prepared for the long run. This incessant drumming of your message into people's minds will form the cornerstone around which your following will swell."
+                ],
+                "audio": {
+                    "size": 1088365,
+                    "duration": 68023
+                }
+            },
+            {
+                "chapter_summary": "Successful cult building focuses on recruiting loyal outliers and managing expectations.",
+                "text": [
+                    "Developing a stellar cult hinges on attracting the suitable followers. Commonly, brands aim to attract a broad audience, but this waters down their message, impeding the creation of authentic belonging in the community. Instead, a more productive approach involves seeking out outliers and misfits—individuals who don't neatly fit into mainstream communities but crave a space where they can feel acknowledged and valued. \n\nTo find such people, an honest assessment of both existing and potential audiences needs to be carried out. Spot groups that might feel underrepresented. Evaluate who might benefit most from joining your community. Surprisingly, the most fervent followers frequently come from those who are currently without a community they can truly identify with.\n\nWhen it comes to recruitment, it's wise to avoid coaxing or persuasion. Instead, articulate the advantages of becoming a member without pressuring individuals to join. Consider setting challenges for prospective members to demonstrate their commitment. This not only weeds out casual explorers but ensures that joining members have already embraced your vision.\n\nSetting up expectations at the onset allows individuals to make informed decisions about joining. Streamlining audience targeting and refining the recruitment process enhances the sense of belonging within the community. This motivates existing members to recruit others, creating a ripple effect. By prioritizing quality over quantity, passionate advocates are formed who become invaluable assets for the growth of the community."
+                ],
+                "audio": {
+                    "size": 1586991,
+                    "duration": 99187
+                }
+            },
+            {
+                "chapter_summary": "Cult growth thrives on fostering belonging, rewarding participation, and narrative crafting.",
+                "text": [
+                    "Creating a sense of belonging is a vital element in the expansion and prosperity of cults. This can be achieved by leaders who appreciate their followers, highlight their narratives and value them. Participation is incentivized through rewards, resulting in an encouraging cycle where members introduce new recruits.\n\nIt's storytelling that generates a compelling narrative and emotional commitment that captivates followers. The charismatic tale of the leader's inception can lure in potential members to join their cause. Followers aspire to achieve their own legendary status, which is made possible by the leader's endorsement.\n\nLeaders also need to engage with followers in meaningful, personal ways to nurture a sense of uniqueness. These one-on-one connections may not be easily scalable, but they're imperative to making each follower feel special.\n\nUltimately, when followers feel they belong, their commitment to the cult deepens. They develop into zealous advocators, rather than just casual supporters. It's through this experience of belonging that loyal devotees emerge from the ranks of fans, forming a tight-knit and dedicated community."
+                ],
+                "audio": {
+                    "size": 1194527,
+                    "duration": 74658
+                }
+            },
+            {
+                "chapter_summary": "Building a successful cult involves fostering belonging, devotion, and definitive cultural markers.",
+                "text": [
+                    "Cults harness the innate yearning people have for a sense of belonging and allegiance to a group. Leaders of successful cults cultivate this through three core mechanisms.\n\nTo start with, they create an exclusive vocabulary that enhances communication amongst members and singles out the group. Phrases that stick in members' minds and capture their imagination are particularly effective. \n\nNext on the list is the use of visual identifiers. Think clothing items and accessories, that once donned, clearly mark an individual as part of the group. Merchandise that serves as a badge of identity is likely to be bought by group members.\n\nThe third principle involves tasks or activities which cult members need to execute. Initially, these should be minor challenges, which are then escalated as commitment to the cause ramp up. \n\nThese three techniques serve to form a cohesive community bound by shared values and rituals. Regular meetings, reminiscent of religious gatherings, help reaffirm the central vision and further bolster this sense of unity. Fostering creativity and informal extensions of the group's brand not only enhances engagement but also solidifies devotion.\n\nWith these strategies in place, members will spontaneously manifest their allegiance, establishing a self-perpetuating cycle — a mark of a truly successful cult."
+                ],
+                "audio": {
+                    "size": 1457841,
+                    "duration": 91115
+                }
+            },
+            {
+                "text": [
+                    "Jody Raynsford's \"How to Start a Cult\" is a comprehensive guide to creating and maintaining a devoted following, be it a business or personal brand. This book is not about religious or harmful cults but rather, it leverages the concept of cults to provide a blueprint for building a fervent community around a brand. It equips readers with the understanding of the principles of building a cult-like following, based on the author’s personal experience and client work.\n\n10 Actions that reflect the learnings from the book:\n\n1. Identify Your Mission: Develop a polarizing message that appeals to a specific group. It should be something you're passionate about and want to share with your followers. \n\n2. Define Your Enemy: This is about identifying what you stand against. By highlighting a common enemy, you create unity and stimulate motivation among your followers.\n\n3. Cultivate Uniqueness: Celebrate what sets you apart and make that fundamental part of your branding.\n\n4. Introduce Rituals: Cults often have rituals as they create a sense of belonging. Create unique practices, traditions or experiences that engage your followers.\n\n5. Share Your Story: Your personal journey should be an integral part of the cult narrative. This builds connection with your followers and incorporates an element of relatability.\n\n6. Engage Your Followers: Provide numerous opportunities for your followers to participate and engage. Reward their participation and promote true believers.\n\n7. Build a community: Foster a strong sense of community among your followers by providing them platforms to connect and interact with each other and you.\n\n8. Serve Your Followers: Your prime duty as a leader is to protect and serve your followers. This will require you to take strong action against behaviors that might harm your community.\n\n9. Stay Consistent: Keep reaffirming your message or your brand story over time. Consistency is key to keep followers engaged and believing in your cause.\n\n10. Involve Your Team: If you're starting a cult for brand or business reasons, involve your team right from the start. Their buy-in will be necessary for the cult to grow and thrive."
+                ],
+                "audio": {
+                    "size": 2473482,
+                    "duration": 154593
                 }
             }
         ]
