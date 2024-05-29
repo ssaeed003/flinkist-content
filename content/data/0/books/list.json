@@ -105436,10 +105436,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2990,
         "name": "Turn the Ship Around!",
-        "create_date": 1715968738908,
+        "create_date": 1715968738909,
         "Year": "2013",
         "tags": [
             "management & leadership",
@@ -106966,6 +106966,125 @@
                 "audio": {
                     "size": 2078929,
                     "duration": 129933
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 3001,
+        "name": "Your Self-Confident Baby",
+        "create_date": 1717017873976,
+        "Year": "2012",
+        "tags": [
+            "parenting",
+            "learning & education",
+            "psychology",
+            "english"
+        ],
+        "summary": "This book serves as a guide for parents to nurture their child's self-confidence from an early age. It provides insights on how observing and understanding your child can lead to the development of a self-reliant and competent individual. From simple activities like playing to more complex issues like sleep problems, the book equips parents with the knowledge to promote their child's independence and sense of achievement.",
+        "author_name": "Magda Gerber, Allison Johnson",
+        "about_author": "Magda Gerber was a renowned infant expert who emphasizes on the importance of respecting infants. With decades of experience in her field, she concentrates on reinforcing the principles of self-esteem that begin from infancy and applies them to babies. Her work encourages the personal development of young children for them to become active, self-sufficient, and cooperative parts of society.\n\nAllison Johnson is an insightful author who often explores topics relating to children's development. She believes in the power of learning through observation and advocates for the application of respectful approaches in child-rearing.",
+        "subtitle": "How to Encourage Your Child’s Natural Abilities—from the Very Start",
+        "target_group": "This book is specially designed for parents, caregivers, and childcare professionals. It is also a beneficial read for individuals interested in developmental psychology and early childhood education.",
+        "book_link": "https://www.amazon.com/-/de/dp/1118158792/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Respectful parenting fosters child's self-confidence and promotes natural, healthy development.",
+                "text": [
+                    "When it comes to nurturing a self-assured child, respect is crucial. This involves embracing and accepting them in their genuine form, without placing unrealistic expectations that exceed their developmental milestones. Parents need to be observant of their child's interests and needs. By giving them a secure environment filled with simple play things, a child's problem-solving skills can be nurtured. \n\nOne must allow the child to have uninterrupted playtime for deep concentration and avoid hampering their exploration and understanding of the world. Caregiving, in this scenario, should be welcoming and foster cooperation. Establishing consistent boundaries aids in bolstering a sense of security within the child. \n\nThe primary objective is to bolster the child's true self, instilling trust in their abilities and helping them form sound judgement. With a solid base of respect, the child not only gains the confidence to express their true self, but also learns to interact harmoniously with others. \n\nMutual respect between parent and child creates a peaceful and satisfying relationship, with both parties aligning with the child's natural development. Although practicing respectful parenting requires patience and dedication, the resulting benefits make the effort worthwhile."
+                ],
+                "audio": {
+                    "size": 1364636,
+                    "duration": 85290
+                }
+            },
+            {
+                "chapter_summary": "RIE promotes infant confidence and competence through freedom of movement, consistent caregiving, and respect.",
+                "text": [
+                    "The fundamental principles and origins of Resources for Infant Educarers (RIE) lies in its comprehensive approach to infant care and education, developed by Magda Gerber. This approach has been informed largely by the philosophy of Dr. Emmi Pikler, a Hungarian pediatrician. The Pikler Method, an influential method evolved from her teachings, underpins the theoretical framework of RIE. Pikler's approach focused on empowering babies with freedom of movement and self-chosen play within a secure environment. This nurtured their self-confidence and independence.\n\nThis approach was effectively implemented at the Loczy orphanage in Budapest. Infants here were parentally cared for by consistent caregivers who prioritized their emotions and growing abilities. Children who grew up experiencing such care were found to be well-adjusted and successful adults.\n\nIn the 1970s, Gerber introduced Pikler's ideas in the US and co-established the Demonstration Infant Program (DIP) in California. DIP emphasized on \"selective intervention,\" a method boosting infant competency by allowing unfettered exploration and play. This nurturing method was found beneficial for both average and high-risk infants. As a sign of its success, Gerber then set up RIE with a mission to educate both parents and professionals.\n\nRIE offers education and guidance to parents of infants by amplifying Pikler's philosophical approach. Its predominant objectives are nurturing self-confidence and competency in babies through freedom of movement, maintaining consistent caregivers, and affording utmost respect to their emotions, intellect and developmental growth. Thus, RIE continues to encourage the surge of its respectful approach towards infant care and education."
+                ],
+                "audio": {
+                    "size": 2043820,
+                    "duration": 127739
+                }
+            },
+            {
+                "chapter_summary": "Empathetic observation and gentle nurture help newborns transition into the world.",
+                "text": [
+                    "Transitioning a newborn into the world can be a daunting task for both parents and baby. The baby, who has spent nine months comfortably in the womb, faces an entirely new, and often, overwhelming environment. To make this transition smooth and respectful, it is imperative for parents to practice patience and understanding.\n\nObserving the newborn intently is the key to understand their unique personality and needs. It allows parents to recognize their subtle cues. Parents should speak in a normal tone, explaining upcoming activities to promote trust and foster a secure attachment. It is equally important to handle the baby in a relaxed, tender manner to create a calming atmosphere.\n\nAllowing the newborn to adapt without rushing in can boost their self-regulation and coping mechanisms. This could mean letting the baby settle themselves, or giving the baby time on their back to explore. Feeding should align with the baby’s innate rhythm rather than being scheduled. Keeping the home environment serene, with muted light and quiet voices, makes it conducive for the baby's development.\n\nParents should respond softly to a baby’s cries, without using distractions. Babies may cry as a form of communication, and a gentle response can make them feel acknowledged. Another practical recommendation is to let babies learn to soothe themselves by putting them down when they are awake.\n\nLastly, allowing babies to find solace in sucking their fingers instead of using pacifiers provides a chance for natural adaptation. With the right blend of empathy, careful observation, and respectful interaction, parents can successfully facilitate their newborn's transition, laying the groundwork for a trustful relationship."
+                ],
+                "audio": {
+                    "size": 1929717,
+                    "duration": 120607
+                }
+            },
+            {
+                "chapter_summary": "Navigating newborn parenting demands balance between self-care, mutual support, and respectful childcare approaches.",
+                "text": [
+                    "Entering into parenthood with a newborn baby is a thrilling yet very demanding phase. The body of the new mother is concurrently recuperating from childbirth and adjusting to new hormonal fluctuations. Similarly, the new father is finding his footing in his appended role. \n\nDuring the initial few weeks at home, serenity and rest claim main importance. The primary concentration of the newly minted parents should be their baby and their own relationship leaving behind any other duties. By receiving help with mundane tasks such as running errands, preparing meals, or regular household chores, they can be fully engrossed in the process of creating an unbreakable bond with their baby.\n\nRemember, for parents to take exceptional care of their newborn, they must also remember self-care. Sleep, leisure breaks, occasional outings and indulging in fun activities without the baby can greatly rejuvenate their energy reserves.\n\nA respectful parenting strategy as proposed by RIE is excellent to establish a strong sense of self-esteem and internal security in the baby. Allowing unbroken playtime helps the baby learn to be self-reliant. Encouraging babies to calm themselves and allowing them to cry aids in their communication skill development. With ample patience, the new parents can slowly comprehend their little one's non-verbal cues.\n\nThough testing, the newborn phase is fleetingly short. By the time they reach three months, a sense of routine starts setting in, making life more manageable. Embedding self-care and respect at the heart of their parenting, can facilitate a happy and confident future for their child and aid in the advancement of the family as a whole."
+                ],
+                "audio": {
+                    "size": 1847797,
+                    "duration": 115487
+                }
+            },
+            {
+                "chapter_summary": "Nurturing care, fostering independence and providing a safe environment supports healthy baby development.",
+                "text": [
+                    "In the few months after a newborn's arrival, they undergo rapid growth and development. They become more aware of their environment and start acquiring new skills, such as rolling and crawling. By providing babies with attentive care, parents can make them feel safe. \n\nRespect for a child’s needs plays a crucial role in their development. It involves close observation and understanding of what they require, engaging them in friendly conversations about daily routines, and allowing them some space to figure things out and solve complications on their own.\n\nAs the child grows, their movements become more deliberate and they display active curiosity in exploring their environment. Providing them with simple, safe toys enhances their ability to understand how different things function through physical manipulation like touching, mouthing, and banging. Outdoor activities present the best form of stimulation. A tidy, distraction-free play area, when indoors, encourages the child to focus. \n\nThe onus falls upon the parents to create a secure environment for the child and then take a step back, letting the child navigate through their world. By mirroring back the child's feelings and actions, parents can affirm their quest for learning and self-discovery. This aids in building the child's confidence and teaching them the value of persistence.\n\nParents also play a pivotal role in helping the baby develop healthy habits related to eating, sleeping, and self-soothing. Regular routines established according to the baby's needs create a sense of security. Allowing the baby to fall asleep independently and enabling them to express their emotions through crying helps foster self-soothing skills.\n\nSetting examples of authenticity, patience, and respect, parents can help children form open and honest relationships. Calm and attentive parenting lays the foundation for a secure exploration base. \n\nWith a dash of creativity, any family can incorporate more respect and authenticity into their parent-child dynamics, shaping babies into confident children who are true to their authentic selves.\n"
+                ],
+                "audio": {
+                    "size": 2351438,
+                    "duration": 146965
+                }
+            },
+            {
+                "chapter_summary": "Choosing the right childcare requires thoughtful selection to support a child's security and self-esteem.",
+                "text": [
+                    "Parents need to carefully consider the appropriate form of childcare for their kids. While having a full-time parent at home is ideal, it may not always be practical. What matters the most is the quality of care, irrespective if it comes from a relative, a nanny, or provided in a group setting. The childcare provider should be calm, patient, and attentive.\n\nRelatives can offer loving care, especially when a positive relationship already exists, views on child-rearing align, and they are willing to follow your wishes. In the case of hiring a nanny, finding someone who is responsive rather than focused on merely entertaining the child is crucial. It is beneficial to encourage potential nannies to read about respectful caregiving approaches.\n\nWith regards to group care, smaller groups with dedicated primary caregivers are the preferred choice. Avoiding excessively academic programs and opting for caregivers who are patient and able to adapt to individual needs helps create a better learning environment. The ideal setup should promote safety, cleanliness, and free play, with ample outdoor time and essential rest periods. Keeping a daily log of the child's activities can keep parents in the loop.\n\nStart with short hours and gradually extend them to help the child adjust to the new environment. Regardless of the setting, with proper selection, children can enjoy attentive, respectful care that bolsters their sense of security and self-esteem."
+                ],
+                "audio": {
+                    "size": 1571526,
+                    "duration": 98220
+                }
+            },
+            {
+                "chapter_summary": "Trust your child's unique developmental timeline, respect their autonomy, and foster a safe, explorative environment.",
+                "text": [
+                    "In the early years of life, a child goes through numerous developmental stages. These include learning to crawl, sit, stand, and finally walk. It's crucial to remember that these milestones unfold naturally on each child's unique timeline, and pressuring them to accelerate this process can dent their self-confidence. The key focus should be on the quality of their movements, not necessarily when they reach these milestones.\n\nAs a child starts to explore their environment, it becomes essential to ensure their safety. Arrange for areas like the kitchen, bathroom, etc. to be gated off or inaccessible to them. Provide a safe space in your house where your child can freely explore, ensuring that all possible hazards are taken care of. It instills confidence in your child as they learn through self-directed play.\n\nYour role as an adult is to guide, not restrict. Allow them to experience struggles and even falling, as such instances foster their resilience and problem-solving skills. Moreover, allow children to solve their conflicts independently before meddling. Your close presence provides reassurance, but unnecessary intervention might hinder their natural learning process.\n\nTo foster language development, keep conversations flowing around them without pressuring them to speak. Similarly, giving them simple choices can encourage independence in a controlled and safe environment. Be consistent and honest, especially during instances like separation anxiety. Reassure them of your return, teaching them the basis of trust.\n\nMaintain a relaxed atmosphere during mealtimes and respect your child's appetite. Let them explore different foods and gradually introduce new ones. Encouraging self-feeding and using child-friendly furniture also promotes independence.\n\nRemember, as your child matures, sleep patterns will change. Maintain loving routines and offer consistency during these transitions. As your child navigates through these early milestones, patience remains crucial. Remember to embrace each stage, trusting in your child's abilities, and respecting their pace of development.\n"
+                ],
+                "audio": {
+                    "size": 2339735,
+                    "duration": 146233
+                }
+            },
+            {
+                "chapter_summary": "Nurturing autonomy, vocabulary, and emotional readiness promotes healthy toddler development.",
+                "text": [
+                    "Children start asserting their independence as they enter the thrilling toddler years, which is marked by their first steps and words. At this stage, parents must foster their child's budding individuality. Toddlers flourish when they are able to explore their surroundings and perfect skills through play and everyday activities. Parents can encourage cooperation by offering choices, promoting involvement, and maintaining steady boundaries. Toddlers learn by pushing their limits, so patience and composure are essential. As their language skills begin to develop, engaging in basic conversation can help expand their vocabulary and recognize emotions. Consistent bedtime habits can offer a sense of security amidst the rapid changes they're experiencing.\n\nThe height of separation anxiety can be tackled with strong emotional bonding; this allows toddlers to build self-assuredness. With the right guidance, they can learn to confront fears, manage aggression and navigate social situations. Parents should avoid hurrying major milestones like potty training allow them to unfold at the child's own emotional and physical pace. Toddlers change drastically during this time, and a respectful approach from parents can ensure they feel secure, loved, and capable. This phase contributes significantly to solidifying the bond between parent and child, setting the stage for future years."
+                ],
+                "audio": {
+                    "size": 1519281,
+                    "duration": 94955
+                }
+            },
+            {
+                "text": [
+                    "Final Summary: 'Your Self-Confident Baby' by Magda Gerber speculates the power of respect in the parent-child relationship as a significant factor in raising an independent and self-confident child. With a focus on observing the child's unique rhythm and understanding their needs, the book encapsulates RIE (Resources for Infant Educarers) philosophy and its wider ramifications in a child's life. Gerber's standpoint on children's self-esteem beginning in infancy emphasizes the importance of letting children lead their learning journey, encouraging them to discover and explore at their pace. The principles of the RIE approach covered in the book offer insights on topics like early developmental stages, issues that arise such as crying, sleeping, safety, and play.\n\n10 Specific Actions:\n\n1. Encourage observing your child: Understand their personality, their likes and dislikes, and their abilities in a relaxed manner.\n\n2. Promote interactive exploration: Foster a learning environment that lets the child discover what interests and stimulates them.\n\n3. Understand and respect your child's point of view: Especially in the infancy period, consider the child's feelings and concerns when setting up their environment.\n\n4. Avoid pressure and unnecessary intervention: Let the child learn and achieve tasks independently, at their own initiative, respecting their pace.\n\n5. Prioritize communication: Acknowledge the child's efforts, talk to them, and make them feel included.\n\n6. Ensure the environment is safe: Consider the baby's needs regarding their sense of safety, warmth, and comfort.\n\n7. Have a consequent expectation policy: Be realistic and consistent in what you expect from your child, only expecting what is within their abilities.\n\n8. Take time for self-care: Respect yourself and meet your own needs without guilt. This creates a positive impact on your child's upbringing.\n\n9. Encourage play time: Play is a natural activity for children and aids in strengthening their self-respect and confidence.\n\n10. Resistance towards fads: Stay true to the principles of simplicity, observation, and unhurried time, resisting transient parenting fads."
+                ],
+                "audio": {
+                    "size": 2590929,
+                    "duration": 161933
                 }
             }
         ]
