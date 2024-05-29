@@ -105298,10 +105298,10 @@
         ]
     },
     {
-        "new_status": true,
+        "new_status": false,
         "id": 2989,
         "name": "The Talent Code",
-        "create_date": 1715955887987,
+        "create_date": 1715955887988,
         "Year": "2009",
         "tags": [
             "personal development",
@@ -106858,6 +106858,114 @@
                 "audio": {
                     "size": 2473482,
                     "duration": 154593
+                }
+            }
+        ]
+    },
+    {
+        "new_status": true,
+        "id": 3000,
+        "name": "Light on Yoga",
+        "create_date": 1717016624004,
+        "Year": "2022",
+        "tags": [
+            "health & nutrition",
+            "mindfulness & happiness",
+            "english"
+        ],
+        "summary": "Light on Yoga provides detailed descriptions of asanas (postures) and pranayamas (breathing disciplines) aiming to rejuvenate the practitioner's physical and spiritual well-being. It guides readers on the correct and safe method of mastering these techniques and highlights the need for a devoted practice for substantial progress.",
+        "author_name": "B. K. S. Iyengar",
+        "about_author": "Known for his own style of yoga, 'Iyengar Yoga', B. K. S. Iyengar was an experienced practitioner and teacher. His journey with yoga started in 1934. Throughout his life, he dedicated numerous hours practicing, teaching, and promoting the art of yoga worldwide.",
+        "subtitle": "The Bible of Modern Yoga",
+        "target_group": "The book caters to anyone interested in yoga, from beginners to experienced practitioners. Anyone who seeks comprehensive guidance and insight into practicing yoga postures and breathing disciplines can benefit from this book.",
+        "book_link": "https://www.amazon.com/-/de/dp/B09WK1DZ1M/?tag=snackzai00-21",
+        "content": [
+            {
+                "text": [
+                    "Placeholder for Introduction"
+                ],
+                "audio": {
+                    "size": 486713,
+                    "duration": 60839
+                }
+            },
+            {
+                "chapter_summary": "Yoga unites mind, body, and spirit for inner peace through disciplined practices.",
+                "text": [
+                    "Yoga is a practice that unites the mind, body, and spirit, promoting inner peace through disciplined control of the mind. The term 'yoga' stems from the Sanskrit root 'yuj', which translates to 'join' or 'unite'. This practice comprises eight primary aspects; ethical disciplines (yama), self-purification (niyama), postures (asana), breath control (pranayama), withdrawal of senses (pratyahara), concentration (dharana), meditation (dhyana), and blissful union with the divine (samadhi). Each element, practiced in harmony, aids in controlling thoughts and desires, settling the mind's turbulence. \n\nEthical disciplines involve practices such as non-violence, truthfulness, non-stealing, continence, and non-covetousness. Meanwhile, self-purification encourages cleanliness, contentment, discipline, self-study, and surrender to a higher power. Body postures strengthen and increase the body's flexibility, establishing health and wellness. Breath control is achieved through conscious regulation of inhalation, retention, and exhalation. \n\nWithdrawal of senses encourages mastery over external distractions, promoting undisturbed focus on an individual thought or object - this is concentration. This practice transcends into meditation - a sustained flow of concentration without interruption. Finally, the ultimate stage is a blissful union with the divine or the state of samadhi. \n\nFollowing regular yoga rituals leads to a balanced mind and body, culminating in health, stability, and tranquility. Essentially, yoga is a spiritual journey, a quest within oneself to discover true inner self. The ultimate goal is to reach a state where individual consciousness merges into the universal consciousness, in other words, achieving the state of samadhi."
+                ],
+                "audio": {
+                    "size": 2040894,
+                    "duration": 127556
+                }
+            },
+            {
+                "chapter_summary": "Effective yoga practice requires discipline, correct timing, and optimal body conditions for spiritual connection.",
+                "text": [
+                    "Getting started with yoga postures, also known as asanas, asks for qualities such as discipline, faith, grit, and the ability to stick with it. Before delving into asanas, make sure the bladder and bowels are empty. Baths before and after yoga would be beneficial in re-energizing the body and mind. Asanas give the best results when done on an empty stomach or post a light meal, with sufficient time allowed for digestion. The practice is most effective early in the morning or sometime during the evening.\n\nIn the waking hours of the morning, our minds are fresh, although, the body might be a bit stiff, making it the perfect time to go for more complex poses. Come evening, the body loosens and can handle poses that stimulate. Steer clear of direct sunlight prior to practice. Set up a clean, silent corner for practice, with a blanket placed on the floor. \n\nInitially, keep eyes open to identify errors. Once confident, close the eyes. To spot misalignments, glancing at a ground-level mirror proves helpful. Body activity is important, but as much is needed from the mind; it should be vigilant and alert. Breaths should go in and out through the nostrils. On finishing up, relax in the corpse pose. If anyone experiences dizziness or has blood pressure problems, it's advised to avoid inverted poses in the beginning stages. Women should steer clear of asanas during menstruation, and there are specific guidelines for those who are pregnant.\n\nWhen practiced correctly, asanas make one's body light, bring joy, infuse discipline and forge a union among one's body, mind, and soul. Once mastered, asanas come easy and help in creating elegant movements, thus aligning and connecting with the sacred spirit within."
+                ],
+                "audio": {
+                    "size": 1859500,
+                    "duration": 116219
+                }
+            },
+            {
+                "chapter_summary": "Uḍḍīyāna Bandha, a yoga technique, directs energy upwards to foster vitality and internal cleansing.",
+                "text": [
+                    "Uḍḍīyana Bandha is a valuable technique derived from yoga that revolves around the contraction of abdominal muscles to usher the energy flow upwards in the body. It requires you to assume the Tāḍāsana pose, separate the legs, and slightly bend forward while completely exhaling. After this, the abdominal area has to be pulled in and raised towards the sternum without taking in any air. This motion raises the diaphragm and helps achieve an energetic elevator within.\n\nThe key is to maintain this abdominal contraction for a timeframe of 5 to 10 seconds, all while withholding breath. It's imperative to perform Uḍḍīyāna Bandha on an empty stomach for the best results. This technique confers several benefits, such as toning of digestive organs, enhancing internal fire, and eliminating toxins.\n\nAlthough it may appear difficult in the beginning, regular practice of Uḍḍīyana Bandha instills a sense of vitality and lightness in the body. It is fundamentally linked to advanced meditation and pranayama practices, and when executed properly, it unlocks access to deeper energy reserves within the body."
+                ],
+                "audio": {
+                    "size": 1256385,
+                    "duration": 78524
+                }
+            },
+            {
+                "chapter_summary": "Pranayama, through dedicated practice, cultivates controlled energy flow, fostering balance, health, and spiritual awakening.",
+                "text": [
+                    "Pranayama, the term used in yoga to describe controlled breathing techniques, is designed to help regulate life force, also known as prana. Prior to practicing these techniques, a calm mind and a cleansed body are considered essential. A silent, clean environment along with an empty stomach, enhance the effectiveness of the practice. The correct posture is also important—it needs to be steady with a spine that is straight. The processes of inhaling, retaining the breath, and exhaling should be easy and unhurried.\n\nAs for maintaining control over the flow of prana, bandhas, or body locks, as well as mudras, postures of hands or fingers, are used. The major three bandhas are Jalandhara, Uddiyana and Mula and they each govern the energy flow in the neck, stomach and pelvic areas respectively.\n\nIn yoga, nadis refer to energy channels and chakras are the intersections where energy gets transformed. The spine has the Sushumna nadi running along it, whereas the Ida and Pingala nadis intersect it. The spiritual power known as Kundalini, rests at the Muladhara chakra, which is in the base of the spine. With consistent practice, this power rises via the chakras, culminating in Sahasrara, located on the crown of the head, triggering a spiritual awakening. Pranayama is not without hazards; proper guidance is necessary to avert any potential misuse of energy. However, it is a practice which, when pursued wholeheartedly, leads to balance, health and inner tranquility."
+                ],
+                "audio": {
+                    "size": 1603291,
+                    "duration": 100206
+                }
+            },
+            {
+                "chapter_summary": "Ujjayi pranayama, a yogic breathing technique, provides physical benefits and inner tranquility.",
+                "text": [
+                    "Controlled breathing has the potency to influence the mind and body positively. One such powerful breathing technique that emerged from ancient yogic practices is Ujjayi pranayama, which creates a rhythm that soothes and balances. This technique is performed by taking in deep, long breaths through the nose. As one inhales, the breath is channeled along the pallet making an ocean-like sound. The breath is then held momentarily before one exhales slowly and steadily. \n\nThis breathing exercise, when done on a regular basis, provides significant benefits. It purifies the lungs by enhancing aeration and removes phlegm. It promotes endurance, calms nerves, and tones up the entire system. It's flexible enough to be performed in any comfortable seated position, while one is walking, or even when lying down.\n\nUjjayi pranayama is safe and beneficial for the majority of people, particularly those coping with high blood pressure. Mastery over this breathing technique helps to find a sense of calmness and peace, even amid life's turbulence. Harnessing the power of breath provides a pathway to inner tranquility."
+                ],
+                "audio": {
+                    "size": 1266834,
+                    "duration": 79177
+                }
+            },
+            {
+                "chapter_summary": "Yoga progression involves mastering foundational to advanced poses, promoting strength, balance, and inner peace.",
+                "text": [
+                    "Yoga postures can be broadly categorized into three levels - beginner, intermediate, and advanced. The beginner level takes around 15 weeks, focusing on mastering basic poses. Some of these foundational poses are Trikonasana, Parivritta Trikonasana, and Utthita Parsvakonasana, among others.\n\nThe intermediate level lasts approximately 25 weeks and introduces more demanding poses. These enhance the yogi's skills and flexibility through poses such as Utthita Hasta Padangusthasana, Vatayanasana, and Nakrasana. \n\nThe advanced level is indeed a commitment: it takes over 100 weeks and aims to perfect challenging poses like Pincha Mayurasana and Kapotasana through consistent daily practice. \n\nThese sequences emphasize different types of poses, including balancing, backbending, hip-opening, and twisting. They also highlight the importance of breath control and meditation. The goal of going through these levels is not just to achieve physical robustness and flexibility but also to promote balance, focus, and inner tranquillity. This is the essence of Yoga; it's not just a physical journey, but also a mental and spiritual one."
+                ],
+                "audio": {
+                    "size": 1265998,
+                    "duration": 79125
+                }
+            },
+            {
+                "chapter_summary": "Yoga, with its asanas and breathing techniques, offers versatile solutions for managing health issues.",
+                "text": [
+                    "Yoga is an effective tool for addressing numerous health issues. It offers therapeutic positions, known as asanas, which can help with various ailments. Drawing from 25 years of yoga teaching experience, common asanas for acidity problems include certain triangle, revolved triangle, extended side angle, and seated forward bend poses. These specific poses have proven beneficial in mitigating acidity symptoms.\n\nFor conditions such as asthma, yoga recommends specific poses like the headstand, shoulder stand, seated forward bend, and bow pose, along with particular breathing exercises. These help to open up the chest area and facilitate improved breathing. \n\nYoga also provides asanas to strengthen weak ankles, ease the difficulties of arthritis, increase fertility, relieve back pain, and combat bronchitis, among other conditions. The emphasis is always on starting at a slow and gentle pace, always under the guidance of an experienced teacher.\n\nPeople with serious conditions like heart disease are advised to start with simpler poses. Additionally, restorative poses like the corpse pose can also provide essential benefits. \n\nOverall, yoga presents a wide spectrum of asanas, breathing techniques, and relaxation methods to help deal with common diseases. It encourages using yoga as a complementary therapy, under proper supervision, to help alleviate symptoms and foster healing for a variety of conditions."
+                ],
+                "audio": {
+                    "size": 1590752,
+                    "duration": 99422
+                }
+            },
+            {
+                "text": [
+                    "Final Summary: 'Light on Yoga', written by B.K.S. Iyengar, demystifies the concept of Yoga for the modern reader and outlines its numerous benefits. The book is a comprehensive guide providing detailed instructions on asanas (postures) and pranayamas (breathing disciplines), based on over twenty-seven years of Iyengar's practice and teaching experience. It is a classic book on the subject of yoga, encompassing its physical, moral, mental, and spiritual dimensions. Iyengar stresses practicing yoga with depth and authenticity, rather than reducing it to a commercial activity or idle practice. It offers a 300 weeks’ course for dedicated practitioners, illustrating the therapeutic and curative value of different asanas.\n\n10 Actions to Implement Learnings from the Book:\n\n1. Start practicing Yoga daily emphasising on asanas and pranayamas.\n2. Take note of Iyengar's suggestions on how to properly execute postures and breathing exercises.\n3. Embrace a holistic approach to Yoga, viewing it as a lifestyle rather than solely a physical exercise.\n4. Maintain a sense of humility and dedication throughout your Yoga practice.\n5. Dedicate yourself to deepening your understanding of Yoga, going beyond the surface level.\n6. Avoid focusing solely on commercial Yoga products and instead invest time in exploring the depth provided by traditional Yoga practices.\n7. Follow the 300 weeks’ course plan outlined by Iyengar for a structured journey in Yoga.\n8. Use Yoga as a tool to gain physical lightness, mental clarity, and spiritual tranquility.\n9. Strive to not commercialize or superficialize your yoga practice but rather aim to lift it to a truly authentic and lifestyle oriented habit.\n10. Use the therapeutic and curative values of specific asanas according to the needs of your body."
+                ],
+                "audio": {
+                    "size": 2078929,
+                    "duration": 129933
                 }
             }
         ]
